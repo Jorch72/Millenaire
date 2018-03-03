@@ -1,0 +1,318 @@
+//Item key;item id;item meta;label (indicative only)
+//This file is auto-generated and indicative only. Don't edit it.
+
+akwardpotion;minecraft:potion;16;Potion non fabricable
+alchemist_amulet;millenaire:alchemist_amulet;0;Amulette de l'Alchimiste
+alchemistexplosive;millenaire:alchemistexplosive;0;Explosif alchimique
+arrow;minecraft:arrow;0;Flèche
+beefcooked;minecraft:cooked_beef;0;Steak
+beefraw;minecraft:beef;0;Boeuf cru
+bone;minecraft:bone;0;Os
+book;minecraft:book;0;Livre
+bookandquill;minecraft:writable_book;0;Livre et plume
+bookshelves;minecraft:bookshelf;0;Bibliothèque
+bottle;minecraft:glass_bottle;0;Fiole
+boudin;millenaire:boudin;0;Boudin Noir
+bow;minecraft:bow;0;Arc
+bowlempty;minecraft:bowl;0;Bol
+bowlsoup;minecraft:mushroom_stew;0;Soupe de champignons
+bread;minecraft:bread;0;Pain
+brickmould;millenaire:brickmould;0;Moule à briques
+bricks;minecraft:brick_block;0;Briques
+bucketempty;minecraft:bucket;0;Seau
+bucketlava;minecraft:lava_bucket;0;Seau de lave
+bucketmilk;minecraft:milk_bucket;0;Seau de lait
+bucketwater;minecraft:water_bucket;0;Seau d'eau
+byzantine_stone_tiles;millenaire:byzantine_stone_tiles;0;Tuiles byzantines mixes
+byzantine_tiles;millenaire:byzantine_tiles;0;Tuiles byzantines
+byzantine_tiles_slab;millenaire:byzantine_tiles_slab;0;Dalle de tuiles byzantines
+byzantineboots;millenaire:byzantineboots;0;Bottes byzantines
+byzantinehelmet;millenaire:byzantinehelmet;0;Casque byzantin
+byzantineiconlarge;millenaire:byzantineiconlarge;0;Grande icône byzantine
+byzantineiconmedium;millenaire:byzantineiconmedium;0;Icône byzantine moyenne
+byzantineiconsmall;millenaire:byzantineiconsmall;0;Petite icône byzantine
+byzantinelegs;millenaire:byzantinelegs;0;Jambières byzantines
+byzantinemace;millenaire:byzantinemace;0;Masse d'arme byzantine
+byzantineplate;millenaire:byzantineplate;0;Plastron byzantin
+cacauhaa;millenaire:cacauhaa;0;Cacauhaa
+cactus;minecraft:cactus;0;Cactus
+cake;minecraft:cake;0;Gâteau
+calva;millenaire:calva;0;Calva
+carrot;minecraft:carrot;0;Carotte
+chainboots;minecraft:chainmail_boots;0;Bottes de mailles
+chainchest;minecraft:chainmail_chestplate;0;Cotte de mailles
+chainhelmet;minecraft:chainmail_helmet;0;Casque de mailles
+chainlegs;minecraft:chainmail_leggings;0;Jambières de mailles
+chickencurry;millenaire:chickencurry;0;Carri murgh
+chickenmeat;minecraft:chicken;0;Poulet cru
+chickenmeatcooked;minecraft:cooked_chicken;0;Poulet rôti
+chiseledstonebrick;minecraft:stonebrick;3;Pierre sculptée
+cider;millenaire:cider;0;Cidre
+ciderapple;millenaire:ciderapple;0;Pomme à cidre
+clay;minecraft:clay_ball;0;Argile
+clock;minecraft:clock;0;Montre
+clothes_byz_silk;millenaire:clothes_byz_silk;1;Vêtements byzantins en soie
+clothes_byz_wool;millenaire:clothes_byz_wool;0;Vêtements byzantins en laine
+coal;minecraft:coal;0;Charbon
+cobblestone;minecraft:cobblestone;0;Pierres
+compass;minecraft:compass;0;Boussole
+cooked_mutton;minecraft:cooked_mutton;0;Mouton cuit
+cookedbrick;millenaire:stone_deco;1;Brique cuite
+cookie;minecraft:cookie;0;Cookie
+denier;millenaire:denier;0;Denier
+denierargent;millenaire:denierargent;0;Denier Argent
+denieror;millenaire:denieror;0;Denier Or
+diamond;minecraft:diamond;0;Diamant
+diamondaxe;minecraft:diamond_axe;0;Hache en diamant
+diamondboots;minecraft:diamond_boots;0;Bottes en diamant
+diamondchest;minecraft:diamond_chestplate;0;Plastron en diamant
+diamondhelmet;minecraft:diamond_helmet;0;Casque en diamant
+diamondhoe;minecraft:diamond_hoe;0;Houe en diamant
+diamondlegs;minecraft:diamond_leggings;0;Jambières en diamant
+diamondpickaxe;minecraft:diamond_pickaxe;0;Pioche en diamant
+diamondshovel;minecraft:diamond_shovel;0;Pelle en diamant
+diamondsword;minecraft:diamond_sword;0;Épée en diamant
+dirt;minecraft:dirt;0;Terre
+dirtwall;millenaire:earth_deco;0;Pisé
+dye_black;minecraft:dye;0;Poche d'encre
+dye_blue;minecraft:dye;4;Lapis-lazuli
+dye_brown;minecraft:dye;3;Fèves de cacao
+dye_cyan;minecraft:dye;6;Teinture cyan
+dye_gray;minecraft:dye;8;Teinture grise
+dye_green;minecraft:dye;2;Vert de cactus
+dye_lightblue;minecraft:dye;12;Teinture bleu clair
+dye_lightgray;minecraft:dye;7;Teinture gris clair
+dye_lime;minecraft:dye;10;Teinture vert clair
+dye_magenta;minecraft:dye;13;Teinture magenta
+dye_orange;minecraft:dye;14;Teinture orange
+dye_pink;minecraft:dye;9;Teinture rose
+dye_purple;minecraft:dye;5;Teinture violette
+dye_red;minecraft:dye;1;Rouge de rose
+dye_white;minecraft:dye;15;Poudre d'os
+dye_yellow;minecraft:dye;11;Jaune pissenlit
+egg;minecraft:egg;0;Oeuf
+enderpearl;minecraft:ender_pearl;0;Perle de l'Ender
+feather;minecraft:feather;0;Plume
+feta;millenaire:feta;0;Féta
+fishcooked;minecraft:cooked_fish;0;Morue cuite
+fishraw;minecraft:fish;0;Morue crue
+flint;minecraft:flint;0;Silex
+flintandsteel;minecraft:flint_and_steel;0;Briquet
+ghasttear;minecraft:ghast_tear;0;Larme de Ghast
+glass;minecraft:glass;0;Verre
+glass_pane_black;minecraft:stained_glass_pane;15;Vitre noire
+glass_pane_blue;minecraft:stained_glass_pane;11;Vitre bleue
+glass_pane_brown;minecraft:stained_glass_pane;12;Vitre marron
+glass_pane_cyan;minecraft:stained_glass_pane;9;Vitre cyan
+glass_pane_gray;minecraft:stained_glass_pane;7;Vitre grise
+glass_pane_green;minecraft:stained_glass_pane;13;Vitre verte
+glass_pane_light_blue;minecraft:stained_glass_pane;3;Vitre bleu clair
+glass_pane_light_gray;minecraft:stained_glass_pane;8;Vitre gris clair
+glass_pane_lime;minecraft:stained_glass_pane;5;Vitre vert clair
+glass_pane_magenta;minecraft:stained_glass_pane;2;Vitre magenta
+glass_pane_orange;minecraft:stained_glass_pane;1;Vitre orange
+glass_pane_pink;minecraft:stained_glass_pane;6;Vitre rose
+glass_pane_purple;minecraft:stained_glass_pane;10;Vitre violette
+glass_pane_red;minecraft:stained_glass_pane;14;Vitre rouge
+glass_pane_white;minecraft:stained_glass_pane;0;Vitre blanche
+glass_pane_yellow;minecraft:stained_glass_pane;4;Vitre jaune
+gold;minecraft:gold_ingot;0;Lingot d'or
+goldaxe;minecraft:golden_axe;0;Hache en or
+goldboots;minecraft:golden_boots;0;Bottes en or
+goldchest;minecraft:golden_chestplate;0;Plastron en or
+goldhelmet;minecraft:golden_helmet;0;Casque en or
+goldhoe;minecraft:golden_hoe;0;Houe en or
+goldlegs;minecraft:golden_leggings;0;Jambières en or
+goldore;minecraft:gold_ore;0;Minerai d'or
+goldpickaxe;minecraft:golden_pickaxe;0;Pioche en or
+goldshovel;minecraft:golden_shovel;0;Pelle en or
+goldsword;minecraft:golden_sword;0;Épée en or
+grapes;millenaire:grapes;0;Raisin
+gravel;minecraft:gravel;0;Gravier
+gunpowder;minecraft:gunpowder;0;Poudre à canon
+ikayaki;millenaire:ikayaki;0;Ikayaki
+indianstatue;millenaire:indianstatue;0;Statue Hindoue
+iron;minecraft:iron_ingot;0;Lingot de fer
+ironore;minecraft:iron_ore;0;Minerai de fer
+japaneseblueboots;millenaire:japaneseblueboots;0;Bottes ō-yoroi bleues
+japanesebluehelmet;millenaire:japanesebluehelmet;0;Casque ō-yoroi bleu
+japanesebluelegs;millenaire:japanesebluelegs;0;Jambières ō-yoroi bleues
+japaneseblueplate;millenaire:japaneseblueplate;0;Plastron ō-yoroi bleu
+japaneseguardboots;millenaire:japaneseguardboots;0;Bottes keiko
+japaneseguardhelmet;millenaire:japaneseguardhelmet;0;Casque keiko
+japaneseguardlegs;millenaire:japaneseguardlegs;0;Jambières keiko
+japaneseguardplate;millenaire:japaneseguardplate;0;Plastron keiko
+japaneseredboots;millenaire:japaneseredboots;0;Bottes ō-yoroi rouges
+japaneseredhelmet;millenaire:japaneseredhelmet;0;Casque ō-yoroi rouge
+japaneseredlegs;millenaire:japaneseredlegs;0;Jambières ō-yoroi rouges
+japaneseredplate;millenaire:japaneseredplate;0;Plastron ō-yoroi rouge
+leather;minecraft:leather;0;Cuir
+leatherboots;minecraft:leather_boots;0;Bottes en cuir
+leatherchest;minecraft:leather_chestplate;0;Tunique en cuir
+leatherhelmet;minecraft:leather_helmet;0;Chapeau en cuir
+leatherlegs;minecraft:leather_leggings;0;Pantalon en cuir
+maize;millenaire:maize;0;Maïs
+masa;millenaire:masa;0;Masa
+mayanaxe;millenaire:mayanaxe;0;Hache d'obsidienne
+mayangold;millenaire:stone_deco;2;Décoration en or
+mayanhoe;millenaire:mayanhoe;0;Houe d'obsidienne
+mayanmace;millenaire:mayanmace;0;Massue d'obsidienne
+mayanpickaxe;millenaire:mayanpickaxe;0;Pioche d'obsidienne
+mayanquestcrown;millenaire:mayanquestcrown;0;Couronne Maya
+mayanshovel;millenaire:mayanshovel;0;Pelle d'obsidienne
+mayanstatue;millenaire:mayanstatue;0;Sculpture Maya
+melonseeds;minecraft:melon_seeds;0;Graines de pastèque
+melonslice;minecraft:melon;0;Pastèque
+mudbrick;millenaire:stone_deco;0;Brique de terre
+mushroombrown;minecraft:brown_mushroom;0;Champignon
+mushroomred;minecraft:red_mushroom;0;Champignon
+mutton;minecraft:mutton;0;Mouton cru
+netherwart;minecraft:nether_wart;0;Verrues du Nether
+normanaxe;millenaire:normanaxe;0;Hache normande
+normanboots;millenaire:normanboots;0;Bottes normandes
+normanbroadsword;millenaire:normanbroadsword;0;Epée normande
+normanhelmet;millenaire:normanhelmet;0;Casque normand
+normanhoe;millenaire:normanhoe;0;Houe normande
+normanlegs;millenaire:normanlegs;0;Jambières normandes
+normanpickaxe;millenaire:normanpickaxe;0;Pioche normande
+normanplate;millenaire:normanplate;0;Plastron normand
+normanshovel;millenaire:normanshovel;0;Pelle normande
+obsidian;minecraft:obsidian;0;Obsidienne
+obsidianflake;millenaire:obsidianflake;0;Lame d'obsidienne
+painting;minecraft:painting;0;Tableau
+paper;minecraft:paper;0;Papier
+paper_wall;millenaire:paper_wall;0;Paroi de papier
+parchment_indianbuildings;millenaire:parchment_indianbuildings;0;Bâtiments indiens
+parchment_indianfull;millenaire:parchment_indianfull;0;Parchement indien complet
+parchment_indianitems;millenaire:parchment_indianitems;0;Objets indiens
+parchment_indianvillagers;millenaire:parchment_indianvillagers;0;Villageois indiens
+parchment_japanesebuildings;millenaire:parchment_japanesebuildings;0;Bâtiments japonais
+parchment_japanesefull;millenaire:parchment_japanesefull;0;Parchemin japonais complet
+parchment_japaneseitems;millenaire:parchment_japaneseitems;0;Objets japonais
+parchment_japanesevillagers;millenaire:parchment_japanesevillagers;0;Villageois japonais
+parchment_mayanbuildings;millenaire:parchment_mayanbuildings;0;Bâtiments mayas
+parchment_mayanfull;millenaire:parchment_mayanfull;0;Parchemin maya complet
+parchment_mayanitems;millenaire:parchment_mayanitems;0;Objets mayas
+parchment_mayanvillagers;millenaire:parchment_mayanvillagers;0;Villageois mayas
+parchment_normanbuildings;millenaire:parchment_normanbuildings;0;Bâtiments normands
+parchment_normanfull;millenaire:parchment_normanfull;0;Parchemin normand complet
+parchment_normanitems;millenaire:parchment_normanitems;0;Objets normands
+parchment_normanvillagers;millenaire:parchment_normanvillagers;0;Villageois normands
+parchment_sadhu;millenaire:parchment_sadhu;0;Livre du Sadhu
+pathdirt;millenaire:pathdirt;0;Chemin de terre
+pathdirt_slab;millenaire:pathdirt_slab;0;Chemin de terre
+pathgravel;millenaire:pathgravel;0;Chemin de graviers
+pathgravel_slab;millenaire:pathgravel_slab;0;Chemin de graviers
+pathgravelslabs;millenaire:pathgravelslabs;0;Chemin de dalles et graviers
+pathgravelslabs_slab;millenaire:pathgravelslabs_slab;0;Chemin de dalles et graviers
+pathochretiles;millenaire:pathochretiles;0;Chemin de dalles ochres
+pathochretiles_slab;millenaire:pathochretiles_slab;0;Chemin de dalles ochres
+pathsandstone;millenaire:pathsandstone;0;Chemin de dalles de grès
+pathsandstone_slab;millenaire:pathsandstone_slab;0;Chemin de dalles de grès
+pathslabs;millenaire:pathslabs;0;Chemin de dalles
+pathslabs_slab;millenaire:pathslabs_slab;0;Chemin de dalles
+planks_acacia;minecraft:planks;4;Planches d'acacia
+planks_birch;minecraft:planks;2;Planches de bouleau
+planks_darkoak;minecraft:planks;5;Planches de chêne noir
+planks_jungle;minecraft:planks;3;Planches d'acajou
+planks_oak;minecraft:planks;0;Planches de chêne
+planks_pine;minecraft:planks;1;Planches de sapin
+porkchops;minecraft:porkchop;0;Côtelette de porc crue
+porkchopscooked;minecraft:cooked_porkchop;0;Côtelette de porc cuite
+potato;minecraft:potato;0;Pomme de terre
+pumpkin;minecraft:pumpkin;0;Citrouille
+pumpkinseeds;minecraft:pumpkin_seeds;0;Graines de citrouille
+purse;millenaire:purse;0;Bourse à deniers
+rasgulla;millenaire:rasgulla;0;Rasgulla
+redflower;minecraft:red_flower;0;Coquelicot
+redstone;minecraft:redstone;0;Redstone
+rice;millenaire:rice;0;Riz
+rottenflesh;minecraft:rotten_flesh;0;Chair putréfiée
+saddle;minecraft:saddle;0;Selle
+sake;millenaire:sake;0;Saké
+sand;minecraft:sand;0;Sable
+sandstone;minecraft:sandstone;0;Grès
+sapling;minecraft:sapling;0;Pousse de chêne
+sapling_acacia;minecraft:sapling;4;Pousse d'acacia
+sapling_birch;minecraft:sapling;2;Pousse de bouleau
+sapling_darkoak;minecraft:sapling;5;Pousse de chêne noir
+sapling_jungle;minecraft:sapling;3;Pousse d'acajou
+sapling_pine;minecraft:sapling;1;Pousse de sapin
+seeds;minecraft:wheat_seeds;0;Graines de blé
+shears;minecraft:shears;0;Cisailles
+silk;millenaire:silk;0;Soie
+silkwormempty;millenaire:wood_deco;3;Colombages
+silkwormfull;millenaire:wood_deco;4;Colombages
+skoll_hati_amulet;millenaire:skoll_hati_amulet;0;Amulette de Sköll et Hati
+slimeball;minecraft:slime_ball;0;Boule de Slime
+snow;minecraft:snow;0;Neige
+souvlaki;millenaire:souvlaki;0;Souvláki
+spidereye;minecraft:spider_eye;0;Oeil d'araignée
+steelaxe;minecraft:iron_axe;0;Hache en fer
+steelboots;minecraft:iron_boots;0;Bottes en fer
+steelchest;minecraft:iron_chestplate;0;Plastron en fer
+steelhelmet;minecraft:iron_helmet;0;Casque en fer
+steelhoe;minecraft:iron_hoe;0;Houe en fer
+steellegs;minecraft:iron_leggings;0;Jambières en fer
+steelpickaxe;minecraft:iron_pickaxe;0;Pioche en fer
+steelshovel;minecraft:iron_shovel;0;Pelle en fer
+steelsword;minecraft:iron_sword;0;Épée en fer
+stone;minecraft:stone;0;Roche
+stoneaxe;minecraft:stone_axe;0;Hache en pierre
+stonebrick;minecraft:stonebrick;0;Pierre taillée
+stonehoe;minecraft:stone_hoe;0;Houe en pierre
+stonepickaxe;minecraft:stone_pickaxe;0;Pioche en pierre
+stoneshovel;minecraft:stone_shovel;0;Pelle en pierre
+stonesword;minecraft:stone_sword;0;Épée en pierre
+string;minecraft:string;0;Ficelle
+sugarcane;minecraft:reeds;0;Canne à sucre
+summoningwand;millenaire:summoningwand;0;Baguette d'invocation
+tachisword;millenaire:tachisword;0;Tachi
+tapestry;millenaire:tapestry;0;Tapisserie normande
+thatch;millenaire:wood_deco;2;Chaume
+timberframecross;millenaire:wood_deco;1;Colombages à croix
+timberframeplain;millenaire:wood_deco;0;Colombages
+tnt;minecraft:tnt;0;TNT
+tripes;millenaire:tripes;0;Tripes
+turmeric;millenaire:turmeric;0;Curcuma
+udon;millenaire:udon;0;Udon
+unknownpowder;millenaire:unknownpowder;0;Poudre inconnue
+vegcurry;millenaire:vegcurry;0;Carri végétarien
+vines;minecraft:vine;0;Lianes
+vishnu_amulet;millenaire:vishnu_amulet;0;Amulette de Vishnu
+wah;millenaire:wah;0;Wah
+wheat;minecraft:wheat;0;Blé
+winebasic;millenaire:winebasic;0;Vin
+winefancy;millenaire:winefancy;0;Vin Malvasia
+wood;minecraft:log;0;
+wood_acacia;minecraft:log2;0;
+wood_any;minecraft:log;-1;
+wood_birch;minecraft:log;2;
+wood_darkoak;minecraft:log2;1;
+wood_jungle;minecraft:log;3;
+wood_oak;minecraft:log;0;
+wood_pine;minecraft:log;1;
+woodaxe;minecraft:wooden_axe;0;Hache en bois
+woodhoe;minecraft:wooden_hoe;0;Houe en bois
+woodpickaxe;minecraft:wooden_pickaxe;0;Pioche en bois
+woodshovel;minecraft:wooden_shovel;0;Pelle en bois
+woodsword;minecraft:wooden_sword;0;Épée en bois
+wool_black;minecraft:wool;15;Laine noire
+wool_blue;minecraft:wool;11;Laine bleue
+wool_brown;minecraft:wool;12;Laine marron
+wool_cyan;minecraft:wool;9;Laine cyan
+wool_gray;minecraft:wool;7;Laine grise
+wool_green;minecraft:wool;13;Laine verte
+wool_lightblue;minecraft:wool;3;Laine bleu clair
+wool_lightgray;minecraft:wool;8;Laine gris clair
+wool_limegreen;minecraft:wool;5;Laine vert clair
+wool_magenta;minecraft:wool;2;Laine magenta
+wool_orange;minecraft:wool;1;Laine orange
+wool_pink;minecraft:wool;6;Laine rose
+wool_purple;minecraft:wool;10;Laine violette
+wool_red;minecraft:wool;14;Laine rouge
+wool_white;minecraft:wool;0;Laine blanche
+wool_yellow;minecraft:wool;4;Laine jaune
+yellowflower;minecraft:yellow_flower;0;Pissenlit
+yggdrasil_amulet;millenaire:yggdrasil_amulet;0;Amulette d'Yggdrasil
+yumibow;millenaire:yumibow;0;Arc Yumi
