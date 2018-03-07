@@ -13,7 +13,7 @@ Maître de la Guilde : Guild Master. Supervises the production of the artisans f
 NEW_PAGE
 Women
 
-Villageoise:   Kvinnlig bybo. Nästan alla vuxena kvinnor är av denna sort. Deras roll innebär att hämta resurser insamlade från deras män och lämmna i stadshuset, bygga byggnader och att uppgradera äldre byggnader, samt att sälja och köpa varor från spelaren från olika platser.
+Villageoise:   Kvinnlig bybo. Nästan alla vuxna kvinnor är av denna sort. Deras roll innebär att hämta resurser insamlade från deras män och lämmna i stadshuset, bygga byggnader och att uppgradera äldre byggnader, samt att sälja och köpa varor från spelaren från olika platser.
 
 Dame:  Dam. Bor i borgen med sin man, där hon skapar vävd tapet från ull till att dekorera borgen med samt att sälja till spelaren.
 NEW_PAGE
