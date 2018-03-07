@@ -1,4 +1,4 @@
-//Name of the villager types
+﻿//Name of the villager types
 //Left empty when no translation is needed
 //Norman:
 villager.carpenter=Normansk Snickare
@@ -79,7 +79,7 @@ ui.largelockedchest=Stor låst kista
 ui.outofstock=Tillfälligt slut!
 ui.missingdeniers=Du saknar <0> deniers.
 ui.missingequipment=Saknad utrustning
-ui.noneininventory=Du har inte någon i din väska.
+ui.noneininventory=Du har inte något i din väska.
 ui.selling=Säljer
 ui.buying=Köper
 ui.sellercoming=Jag kommer snart, herrn!
