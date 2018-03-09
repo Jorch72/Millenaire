@@ -1,10 +1,10 @@
-villager.greeting=Konnichiwa, $name-san! / God dag, $name-san!
+﻿villager.greeting=Konnichiwa, $name-san! / God dag, $name-san!
 villager.greeting=Oi. / Hej.
 villager.greeting=Ogenki desuka, $name-san  / How are you, $name-san?
 villager.greeting=Kawatta koto aru? / Något nytt?
 villager.greeting=Hajimemashite / Ett nöje att träffa dej. 
 villager.greeting=Yokoso. / Välkommen.
-villager.greeting=Gokigenyou. / How do you do?
+villager.greeting=Gokigenyou. / Hur står det till?
 
 villager.gorest=Watashi niwa kyu-kei ga hituyou desu. / Jag behöver vila.
 villager.gorest=A-, mou neru jikan da / Åh, dags att sova.
