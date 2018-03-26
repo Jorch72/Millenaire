@@ -1,4 +1,3 @@
-
 mayanplayerestate_A0=Big Pyramid
 mayancrafter_A0=Crafter
 mayanarmyforge_A0=Hunter's Forge
@@ -12,7 +11,7 @@ mayanhouse_C0=Mayan House
 mayanhouse_D0=Mayan House
 mayanlumber_A0=Axeman's House
 mayanmining_A0=Stone Mine
-mayanguard_A0=Guardians's House
+mayanguard_A0=Guardian's House
 mayangrove_A0=Grove
 mayanpyramid_A0=Pyramid
 mayaninn_A0=Inn
