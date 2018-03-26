@@ -66,7 +66,7 @@ v2;30;¿Teech' he'ebix leti' léeyli'e'? Leti' yaan su'utsil hela'an. / You seen
 v1;60;"¡Yéetel bixi'! Leti' yaan hun ts'íib hela'an xa'ak'. ¿Teech oohel "tseek' baakel muuts'" wa "sa'am utia'al píixan" p'aax a'al? / And how. There was a list of strange ingredients. Do you know what "withered skeleton skulls?" or "soul sand" is? 
 v2;90;Ma'. Kurx ma' yaan hach hets' tuukul. / No. but it's not very reassuring. 
 v1;120;¡Kurx! To'on tuukul leti' óot beet ich tuunich yum k'iin. / Yeah! We think he's trying to make a Philosopher Stone. 
-v2;150;Tohol $targetfirstname, beey teech tuukul huum u tsikbalil wáa ba’ax, teech antal hach k'as tuukul kab yaan táax. / Brave $targetfirstname, if you believe in rumors, you are at risque of believing the Earth is round. 
+v2;150;Tohol $targetfirstname, beey teech tuukul huum u tsikbalil wáa ba’ax, teech antal hach k'as tuukul kab yaan táax. / Brave $targetfirstname, if you believe in rumors, you are at risk of believing the Earth is round. 
 v1;180;Teech antal wáa ma'alob. / You are probably right. 
 
 newchat;key:dragonegg,v1:adult,v2:adult,weigth:5;
@@ -162,7 +162,7 @@ v1;60;¡Wáa! / Indeed!
 
 newchat;key:village,weigth:8;
 v1;0;Kin tuukul chan kaah il ma'aldo. / I think our village looks nice. 
-v2;30;Wáa. Yaan hach hats' uts. / So do I. It's very artistique. 
+v2;30;Wáa. Yaan hach hats' uts. / So do I. It's very artistic. 
 v1;60;Yaan dyos bo'otik tuunich yéetel na'at meent. / It's all through the stone and our mastery of architecture. 
 
 newchat;key:peasantdialog,v1:vtype:mayan_peasant,v2:vtype:mayan_peasant,weigth:10;
