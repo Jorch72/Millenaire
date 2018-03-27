@@ -315,7 +315,7 @@ v1;60;Voilà! / Indeed!
 
 
 newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
-v1;0;Pourquoi est-ce toujours les femmes qui construisent? / Why are the women always the one building?
+v1;0;Pourquoi est-ce toujours les femmes qui construisent? / Why are the women always the ones building?
 v2;40;Si ça te gène, je m'occupe du prochain bâtiment. / If it bothers you, I'll take care of the next one.
 v1;80;Vraiment? Tu es adorable! Alors, pour les rideaux, n'oublie pas de... / Really! That is so sweet! So, regarding the drapes, don't forget to...
 v2;120;En fait non, je vais te laisser faire. / Actually no, I think I'll let you do it.
@@ -334,7 +334,7 @@ newchat;key:archives,building:archives,weigth:10
 v1;0;Tu as visité les nouvelles archives? / Have you visited the new archives?
 v1;30;On y voit ce que tout le monde fait! / You can see what everyone is doing!
 v2;60;Ah, vraiment... et euh... / Oh, really... and, euh...
-v1;90;Oui, j'ai vu ton panneau. / Yes, I saw your pannel.
+v1;90;Oui, j'ai vu ton panneau. / Yes, I saw your panel.
 v1;120;Tu devrais avoir honte. / You should be ashamed of yourself.
 
 newchat;key:bakery,building:bakery,weigth:10
@@ -349,7 +349,7 @@ v1;60;Et elle est plus grande que celle du village voisin! / And it's bigger tha
 
 newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
 v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / Now that we have an inn, we can trade!
-v2;40;Autrement dit, les marchants de passage vont se servir dans nos resources. / In other words, marchants passing by will help themselves to our resources.
+v2;40;Autrement dit, les marchants de passage vont se servir dans nos resources. / In other words, merchants passing by will help themselves to our resources.
 v1;80;Tu as toujours été cynique. / You've always been cynical.
 
 
