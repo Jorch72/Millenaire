@@ -1,8 +1,8 @@
-villager.greeting=Bonjour, $name! / Hej, $name!
+﻿villager.greeting=Bonjour, $name! / Hej, $name!
 villager.greeting=Belle journée, n'est pas? / Visst är det en underbar dag?
 villager.greeting=Il va pleuvoir, je le sens / Det kommer börja regna. Jag kan känna det.
 villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / Jag minns inte, Normandie riktigt så.
-guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / Du ser lite magra, $name. Jag ska skydda dig om du får problem.
+guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / Du ser lite svag ut, $name. Jag ska skydda dig om du får problem.
 priest.greeting=Soyez béni, mon fils. / Välsignelser på dig, min son.
 monk.greeting=Dieu soit avec toi, mon frère. / Gud vare med dig, broder.
 boy.greeting=Quand je serai grand, je veux être comme papa. / När jag blir stor vill jag bli som pappa!
@@ -77,7 +77,7 @@ priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / Att be är mer 
 villager.calltoarms=Aux armes ! Aux armes ! / Till vapen! Till vapen!
 villager.calltoarms=Montjoi Saint-Denis!
 villager.calltoarms=Tous pour un ! / Alla för en!
-villager.calltoarms=Aux armes, citoyens!
+villager.calltoarms=Aux armes, citoyens! / Till vapen, medborgare!
 
 monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / Om fåfänga inte var en synd, skulle jag säga att mina manuskript är de finaste i landet.
 
@@ -89,4 +89,4 @@ weapon_merchant.KeepStall=Vous ne voulez pas savoir ce qui est arrivé à l’ho
 plant_merchant.KeepStall=Je vend toutes les herbes dont vous aurez jamais besoin. / Jag säljer alla de örter du någonsin behöver.
 oriental_merchant.KeepStall=Venez voir des produits de luxes tels que les gens d’ici ne voient jamais ! / Kom och se lyx vars like folk här bara drömmer om!
 art_merchant.KeepStall=Des perles pour des cochons, comme ils disent ici. / Pärlor före svin, som man säger här.
-wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / Alla rosa ull du någonsin kommer behöva!
+wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / All rosa ull du någonsin kommer behöva!

@@ -1,4 +1,4 @@
-villager.greeting=Namaste, $name-ji! / Hallå, $name-ji!
+﻿villager.greeting=Namaste, $name-ji! / Hallå, $name-ji!
 villager.greeting=Aaj bahut garmi hai. / Det är väldigt varmt idag.
 villager.greeting=Kya haal hai? / Hur är det?
 villager.greeting=Kya khabar hai? / Några nyheter?
@@ -12,7 +12,7 @@ male.gorest=Subah sey kaam kar raha hoon. / Jag har jobbat sen morgonen.
 male.gorest=Main thak gaya hoon. / Jag är trött.
 
 female.gorest=Ab jaakey aaram karti hoon. / Nu ska jag gå och vila.
-female.gorest=Subah sey kaam kar rahi hoon. / Jag har jobbat se morgonen.
+female.gorest=Subah sey kaam kar rahi hoon. / Jag har jobbat sen morgonen.
 female.gorest=Main thak gayi hoon. / Jag är trött.
 
 villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / Snälla Gud, låt skörden bli bra den här gången.

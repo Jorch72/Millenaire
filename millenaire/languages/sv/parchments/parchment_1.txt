@@ -1,44 +1,44 @@
-version:1.1.4
+﻿version:1.1.4
 Millénaire: Norman Inhabitants
 
 Village heads
 
-Chevalier: Knight. Lives in the fort, from which he goes out to patrol his land and visit the tavern. Beware meeting him in battle! Head of the military and gros bourg villages.
+Chevalier:  Riddare. Bor i borgen, därifrån han går ut och patrullerar sitt land och besöker värdshuset. Seupp med att möta honom i strid! Leder soldaterna och borgens by
 
-Moine: Monk. Lives in the abbey, in which he painstakingly copies ancient books on new parchments. An art, according to him. Head of ecclesiastic hamlets and villages.
+Moine:  Munk. Bor i klostret, där han mödosamt kopierar uråldriga böcker till nya pargament. En konst, enlight honom.  Head of ecclesiastic hamlets and villages.
 
-Sénéchal : Seneschal. Oversees the agricultural production of his village from his manor house. Head of agricultural hamlets and villages.
+Sénéchal :  Seneschal. Övervakar fälten i byn från sin herrgård. Head of agricultural hamlets and villages.
 
 Maître de la Guilde : Guild Master. Supervises the production of the artisans from a Guild House. Head of artisanal hamlets and villages.
 NEW_PAGE
 Women
 
-Villageoise: Female villager. Almost all adult women are of this type. Their roles include bringing resources gathered by their husbands to the Town Hall, construction work on new buildings and upgrades on old ones, and selling and buying goods from the player at various locations.
+Villageoise:   Kvinnlig bybo. Nästan alla vuxna kvinnor är av denna sort. Deras roll innebär att hämta resurser insamlade från deras män och lämmna i stadshuset, bygga byggnader och att uppgradera äldre byggnader, samt att sälja och köpa varor från spelaren från olika platser.
 
-Dame: Lady. Lives in the fort with her husband, where she makes tapestries from wool to decorate the fort and to sell to the player.
+Dame:  Dam. Bor i borgen med sin man, där hon skapar vävd tapet från ull till att dekorera borgen med samt att sälja till spelaren.
 NEW_PAGE
 Men
 
-Fermier: Male farmer. Lives in a farm, where he grows and harvests crops.
+Fermier: Manlig bonde. Bor på gården, där han sår och skördar grödor.
 
-Bûcheron: Lumberman. Lives in a lumberman's hut. Gathers wood and cider apples from trees in groves he maintains and plant saplings to produce more trees.
+Bûcheron: Timmerman bor i skogshuggarens stuga. Samlar trä och äpplen i skogsdungen planterar han träd och planterar träd plantor till att skapa mer träd.
 
-Garde: Guard. Lives in a guard's house. Does nothing but drink cider and very occasionaly prays, unless a fellow villager is attacked. Not a good enemy to have, especially if he is armed with a fearsome Normand Broadsword.
+Garde:  Vakt. Bor i vakthuset. Gör inget förrutom att dricka cider och be, såvida inte en bybo är attackerad. Inte en bra att vara fiende med, verkligen inte om han är beväpnad med fearsome Normand Broadsword.
 
-Prêtre: Priest. Lives alone in a presbytery. When he is not praying in the church, he sleeps.
+Prêtre: Präst. Bor ensamm i prästgården. När han inte ber i kyrkan så sover han.
 
-Forgeron: Smith. Lives in a forge or an armoury.  If iron is available, will make tools if in a forge or armour and swords if in an armoury.
+Forgeron: Smed. Bor i smedjan eller i vapenförrådet. Om järn är tillgängligt, så smider han verktyg om han är i smedjan och vapen om han är i vapenförrådet.
 
-Eleveur : Animal farmer. Lives in a cattle farm, a pig farm, or a chicken farm. Collects various goods from farm animals and make steamy Norman tripes and tasty boudin noir.
+Eleveur : Djurbonde. Bor på boskapsgården, grisfarmen eller kyckling farmen. Samlar olika matrial från djur och gör steamy Norman tripes and tasty boudin noir.
 
-Mineur : Miner. Lives and work in a quarry, tirelessly mining stone and sand. When his quarry gets upgraded with furnaces, smelt them into smooth stone and glass as well.
+Mineur :  Gruvarbetare. Bor och arbetar i gruvan, tröttsamt samlar in sten och sand. När hans gruva blir upgraderad med en ugn så smälter han dom till slät sten och glas.
 
-Charpentier : Carpenter. Lives and work in a carpenter's house, where he makes timberframes for use in building construction.
+Charpentier : Snickare. Bor och arbetar i snickarens hus, Där han gör träramar att användas till att bygga med.
 
-Marchant : Merchant. Goes from inn to inn, trading goods from one village to an other. It is his fate to roam for the good of all the villagers.
+Marchant : Köpman. Går från värdshus till värdshus, byter varor från en by till en annan. Det är hans öde att resa omkring för alla bybors skull.
 
-Marchant étranger : foreign merchant. Merchants from far-away places will visit markets to sell their exotic goods, before leaving with your hard-earned deniers.
+Marchant étranger : Utländsk köpman. Köpmän från fjärran ställen som besöker marknaden för att sälja sina exotiska varor, innan han lämmnar med dina hårt tjänade deniers.
 NEW_PAGE
 Children
 
-Garçon / fille : boy and girl. Live with their parents, growing at night, until they are grown enough to move into a free house and become adult.
+Garçon / fille : kille och tjej. Bor med sina föräldrar, växer på natten, tills de är gamla nog att flytta in i ett tomt hus och bli vuxena.

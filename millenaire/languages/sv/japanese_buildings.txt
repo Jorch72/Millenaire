@@ -1,4 +1,4 @@
-
+﻿
 japanesegrove_A0=Skogsdunge
 japanesegrove_B0=Skogsdunge
 japanesegrove_C0=Skogsdunge
@@ -40,7 +40,7 @@ japanesehousemedium_A0=Hus
 japanesehouselarge_A0=Stort hus
 japaneselookout_A0=Vakt torn
 japaneselookout_B0=Vakt torn
-japanesezen_A0=damm
+japanesezen_A0=Damm
 japanesekitchen_A0=Kök
 japanesekitchen_B0=Kök
 japaneseplayerpalace_A0=Spelaren's ställe
