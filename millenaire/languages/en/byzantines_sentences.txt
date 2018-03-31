@@ -25,7 +25,7 @@ armysmith_byzantine.MakeIndianTools=Ta Byzantina ergaleia einai ta kalytera ston
 armysmith_byzantine.MakeByzantineMace=Mhn prospatheis na katapolemhseis enan oplismeno andra. / Do not try to attack anyone armed by me.
 
 wife_byzantine.greeting=To kathikon mas einai na elegxoume tous andres. / Our task is to control our men.
-wife_byzantine.greeting=An eisai gynaika dn mporeis na kaneis kai polla edw... / As a women you aren't allowed to do much here...
+wife_byzantine.greeting=An eisai gynaika dn mporeis na kaneis kai polla edw... / As a woman you aren't allowed to do much here...
 wife_byzantine.getGoodsHousehold=Nomizw einai wra na frontisw gia thn kathariothta tou spitiou. / Time to take care of the household.
 wife_byzantine.DeliverGoodsHousehold=Pragmata opws auto einai ta mona pou mporw na kanw. / Things like this are the only things I can do here.
 wife_byzantine.GetHouseTHResources=Epitelous o syzygos mou metefere ta agatha opws tou eipa. / My husband has finally delivered his resources like I told him.
