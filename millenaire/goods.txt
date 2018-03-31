@@ -51,7 +51,7 @@ cider;millenaire:cider;0;Cidre
 ciderapple;millenaire:ciderapple;0;Pomme à cidre
 clay;minecraft:clay_ball;0;Argile
 clock;minecraft:clock;0;Montre
-clothes_byz_silk;millenaire:clothes_byz_silk;1;Vêtements byzantins en soie
+clothes_byz_silk;millenaire:clothes_byz_silk;0;Vêtements byzantins en soie
 clothes_byz_wool;millenaire:clothes_byz_wool;0;Vêtements byzantins en laine
 coal;minecraft:coal;0;Charbon
 cobblestone;minecraft:cobblestone;0;Pierres

@@ -34,6 +34,7 @@ start:farm
 start:cattlefarm
 start:grove
 start:grove
+start:inn
 
 player:playersmallfield
 player:playersmallhouse
@@ -50,7 +51,6 @@ core:archives
 core:bakery
 core:fountain
 core:largefountain
-core:inn
 core:carpenterhouse
 
 //to be built after the core ones

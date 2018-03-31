@@ -16,6 +16,7 @@ goal=deliverResourcesShop
 goal=getGoodsHousehold
 goal=deliverGoodsHousehold
 goal=cookchicken
+goal=tendfurnace
 goal=makeudon
 
 

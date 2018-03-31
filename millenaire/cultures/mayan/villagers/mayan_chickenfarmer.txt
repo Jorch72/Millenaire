@@ -13,6 +13,7 @@ goal=bringBackResourcesHome
 goal=breed
 goal=slaughterchicken
 goal=cookchicken
+goal=tendfurnace
 goal=gosocialise
 goal=chat
 

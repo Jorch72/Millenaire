@@ -11,7 +11,7 @@
 
 
 itemGroup.millenaire=Millénaire
-
+itemGroup.millenaire_content_creator=Millénaire - pour créateurs de contenu
 
 #Item names
 
@@ -165,3 +165,12 @@ tile.millenaire.pathslabs_slab.name=Chemin de dalles
 tile.millenaire.pathsandstone_slab.name=Chemin de dalles de grès
 tile.millenaire.pathochretiles_slab.name=Chemin de dalles ochres
 tile.millenaire.pathgravelslabs_slab.name=Chemin de dalles et graviers
+
+tile.millenaire.markerblock.name=Bloc de marquage
+tile.millenaire.mainchest.name=Coffre Principal
+tile.millenaire.animalspawn.name=Point d'apparition d'animaux
+tile.millenaire.source.name=Bloc Source
+tile.millenaire.freeblock.name=Bloc Gratuit
+tile.millenaire.treespawn.name=Emplacement d'arbre
+tile.millenaire.soil.name=Emplacement de culture
+tile.millenaire.decorblock.name=Emplacement de décoration murale

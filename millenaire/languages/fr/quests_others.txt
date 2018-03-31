@@ -169,7 +169,7 @@ watersample_1_description_timeup=Vous n'avez pas amené l'échantillon d'eau de 
 watersample_1_listing=Je dois amener à $startvillager_villagername$ l'échantillon d'eau du puit de $startvillager_villagename$.
 
 lordssword_0_label=Lame brisée
-lordssword_0_description=Mon mari $knight_villagename$ a brisé son épée une nouvelle fois ! Vous pourriez lui donner celle-ci de ma part ?
+lordssword_0_description=Mon mari $knight_villagername$ a brisé son épée une nouvelle fois ! Vous pourriez lui donner celle-ci de ma part ?
 lordssword_0_description_success=Merci beaucoup !
 lordssword_0_description_refuse=Vous n'êtes pas des plus serviable.
 lordssword_1_label=Livrer la lame

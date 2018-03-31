@@ -28,6 +28,7 @@ start:japanesefarm
 start:japanesegrove
 start:japanesepaddy
 start:japanesepeasanth
+start:japaneseinn
 
 player:japaneseplot1
 player:japaneseplot2
@@ -51,7 +52,6 @@ core:well
 //to be built after the core ones
 secondary:japanesearchive
 secondary:japaneseshintoshrine
-secondary:japaneseinn
 secondary:japaneselookout
 secondary:japaneseforge
 secondary:japanesesamuraih

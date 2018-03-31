@@ -32,6 +32,7 @@ goal=goDrink
 goal=bringBackResourcesHome
 goal=fish
 goal=cookFish
+goal=tendfurnace
 
 collectGood=fishraw
 collectGood=fishcooked

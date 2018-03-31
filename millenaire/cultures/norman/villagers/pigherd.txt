@@ -17,6 +17,7 @@ goal=breed
 goal=deliverResourcesShop
 goal=GetHouseTHResources
 goal=cookpork
+goal=tendfurnace
 
 requiredGood=carrot,16
 requiredGood=wood_any,16

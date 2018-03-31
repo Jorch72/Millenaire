@@ -2,6 +2,7 @@ native_name=Pharophylakas
 gender=male
 familyNameList=greek_family_names
 firstNameList=greek_men_names
+tag=seller
 
 texture=textures/entity/byzanz/farmiller0.png
 

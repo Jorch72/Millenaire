@@ -19,6 +19,7 @@ goal=clearoldpath
 goal=dryBrick
 goal=gatherBrick
 goal=cookindianbrick
+goal=tendfurnacetownhall
 goal=cookstone
 goal=plantRice
 goal=harvestRice
@@ -28,6 +29,7 @@ goal=slaughterChicken
 goal=plantSugarCane
 goal=harvestSugarCane
 goal=cookchicken
+goal=tendfurnace
 
 collectGood=chickenmeat
 collectGood=egg

@@ -10,12 +10,12 @@ wood_jungle,2,1,0,64,0,false,,0,tradehelp.wood
 wood_acacia,2,1,0,64,0,false,,0,tradehelp.wood
 wood_darkoak,2,1,0,64,0,false,,0,tradehelp.wood
 cobblestone,2,1,128,1024,0,false,,0,tradehelp.stone
-stone,5,3,128,1024,0,false,,0,tradehelp.stone
+stone,3,2,128,1024,0,false,,0,tradehelp.stone
 sandstone,5,3,0,64,0,false,,0,tradehelp.stone
 glass,5,3,0,0,0,false,,0,tradehelp.stone
 clay,16,0,0,0
 bricks,16,0,0,0
-gold,25,20,5,10,0,false,,0,tradehelp.japanesegold
+gold,50,40,5,10,0,false,,0,tradehelp.japanesegold
 
 
 
@@ -49,7 +49,7 @@ beefraw,20,12,0,0,32,false,,0,tradehelp.genericfoodraw
 beefcooked,28,20,0,0,48,false,,0,tradehelp.genericfood
 porkchops,20,0,0,0,32,false,,0,tradehelp.genericfoodraw
 porkchopscooked,28,20,0,0,48,false,,0,tradehelp.genericfood
-chickenmeat,20,0,0,0,32,false,,0,tradehelp.genericfoodraw
+chickenmeat,20,18,0,0,32,false,,0,tradehelp.genericfoodraw
 chickenmeatcooked,28,20,0,0,48,false,,0,tradehelp.genericfood
 fishraw,5,3,0,192,0,false,,0,tradehelp.genericfoodraw
 fishcooked,7,5,64,192,16,false,,0,tradehelp.genericfood

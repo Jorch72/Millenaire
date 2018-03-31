@@ -21,6 +21,7 @@ goal=clearoldpath
 goal=dryBrick
 goal=gatherBrick
 goal=cookindianbrick
+goal=tendfurnacetownhall
 goal=plantRice
 goal=harvestRice
 goal=plantTurmeric
@@ -30,6 +31,7 @@ goal=plantSugarCane
 goal=harvestSugarCane
 goal=breed
 goal=cookchicken
+goal=tendfurnace
 
 toolneededclass=hoes
 toolneededclass=meleeweapons

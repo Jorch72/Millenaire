@@ -10,6 +10,7 @@ goal=gopray
 goal=mining
 goal=cookstone
 goal=cooksand
+goal=tendfurnace
 goal=bringBackResourcesHome
 
 bringBackHomeGood=cobblestone

@@ -13,7 +13,9 @@ biome:Mesa Plateau M
 biome:Mesa Plateau F
 biome:Mesa Plateau F M
 biome:JungleEdge
-
+biome:Savanna
+biome:Savanna M
+biome:Savanna Plateau
 
 
 //extraBiomes mod
@@ -35,7 +37,7 @@ start:peasanthouse
 start:lumbermanhouse
 start:quarry
 start:grove
-start:guesthouse
+start:inn
 
 player:playersmallfield
 player:playersmallhouse

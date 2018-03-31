@@ -21,7 +21,9 @@ goal=deliverGoodsHousehold
 goal=makethatch
 goal=harvestRice
 goal=plantRice
-goal=makeudon
+goal=makeudonkitchen
+goal=cookchickenkitchen
+goal=tendfurnacekitchen
 goal=slaughtersquid
 
 goal=makedirtwall
@@ -29,6 +31,7 @@ goal=makepathdirt
 goal=makepathgravel
 goal=makepathgravelslabs
 
+requiredGood=wood_any,20
 requiredGood=wheat,16
 requiredGood=chickenmeatcooked,1
 

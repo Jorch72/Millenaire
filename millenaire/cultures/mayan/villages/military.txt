@@ -25,6 +25,7 @@ start:mayanlumber
 start:mayanmining
 start:mayangrove
 start:mayanguard
+start:mayaninn
 
 player:mayanplayersmallfield
 player:mayanplayersmallhouse

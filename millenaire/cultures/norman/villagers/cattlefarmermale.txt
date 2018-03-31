@@ -19,6 +19,7 @@ goal=breed
 goal=cooksteak
 goal=cookpork
 goal=cookchicken
+goal=tendfurnace
 
 requiredGood=wheat,16
 requiredGood=seeds,8

@@ -35,6 +35,7 @@ start:carpenterhouse
 start:quarry
 start:grove
 start:grove
+start:inn
 
 player:playersmallfield
 player:playersmallhouse
@@ -50,7 +51,6 @@ core:quarry
 core:lumbermanhut
 core:armoury
 core:tavern
-core:inn
 core:fountain
 core:largefountain
 core:alchemyworkshop

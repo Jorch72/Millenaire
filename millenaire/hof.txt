@@ -26,6 +26,8 @@ Eloraam;;hof.forgecode1;hof.forgecode2
 FlowerChild;hof.btw;hof.forgehelp1;hof.forgehelp2
 Samboy;;hof.gradlebuild1;hof.gradlebuild2
 MoonCutter2B;;hof.112testing
+Goshen;;hof.112testing;hof.donor
+MauveCloud;;hof.112testing;hof.donor
 
 Peyko;hof.hofidea1;hof.hofidea2;hof.donor
 leftler;;hof.donor

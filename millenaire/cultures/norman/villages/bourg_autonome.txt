@@ -22,7 +22,7 @@ start:farm
 start:pigfarm
 start:grove
 start:grove
-
+start:inn
 
 
 player:playersmallfield

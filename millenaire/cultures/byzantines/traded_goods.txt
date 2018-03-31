@@ -10,11 +10,11 @@ wood_jungle,2,1,0,64,0,false,,0,tradehelp.wood
 wood_acacia,2,1,0,64,0,false,,0,tradehelp.wood
 wood_darkoak,2,1,0,64,0,false,,0,tradehelp.wood
 cobblestone,2,1,128,1024,3,false,,0,tradehelp.stone
-stone,5,3,128,1024,6,false,,0,tradehelp.stone
+stone,3,2,128,1024,6,false,,0,tradehelp.stone
 sandstone,6,4,128,1024,8,false,,0,tradehelp.stone
 glass,5,3,64,512,0,false,,0,tradehelp.stone
 clay,10,8,0,1024,12,false,,0,tradehelp.clay
-bricks,16,0,0,512,20,false,,0,tradehelp.clay
+bricks,16,12,0,512,20,false,,0,tradehelp.clay
 
 iron,25,20,0,20,0,false,,0,tradehelp.byzantinetools
 gold,0,0,0,0,64

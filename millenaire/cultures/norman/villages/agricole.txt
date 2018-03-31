@@ -33,6 +33,7 @@ start:farm
 start:sheepchickenfarm
 start:grove
 start:grove
+start:inn
 
 player:playersmallfield
 player:playersmallhouse
@@ -49,7 +50,6 @@ core:pigfarm
 core:cattlefarm
 core:farm
 core:well
-core:inn
 core:fountain
 core:largefountain
 core:carpenterhouse

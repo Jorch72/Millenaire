@@ -9,13 +9,13 @@ wood_jungle,2,1,128,1024,0,false,,0,tradehelp.wood
 wood_acacia,2,1,0,64,0,false,,0,tradehelp.wood
 wood_darkoak,2,1,0,64,0,false,,0,tradehelp.wood
 cobblestone,2,1,128,1024,0,false,,0,tradehelp.stone
-stone,5,3,128,1024,0,false,,0,tradehelp.stone
+stone,3,2,128,1024,0,false,,0,tradehelp.stone
 sandstone,5,3,64,512,0,false,,0,tradehelp.stone
 glass,5,3,0,0,0,false,,0,tradehelp.stone
 clay,16,0,0,0
 bricks,16,0,0,0
 
-gold,25,20,5,10,0,false,,0,tradehelp.mayangold
+gold,50,40,5,10,0,false,,0,tradehelp.mayangold
 diamond,0,0,0,0,6*64
 
 wool_white,10,8,0,64,12,false,,0,tradehelp.whitewool

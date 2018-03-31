@@ -4,6 +4,8 @@ startup.checkload=Vérifiez que le dossier cultures est bien dans le dossier mil
 startup.millenaireloaded=<0> est chargé. Explorez et appuyez sur '<1>' pour trouver les villages.
 startup.radiuswarning=ATTENTION: Un rayon aussi important pour les villages n'est pas recommandé. Cela risque de diminuer les performances.
 startup.bonus=Contenu bonus activé.
+startup.devmode1=Le mode développeur est activé. Ce mode est conçu pour tester Millénaire, pas pour jouer.
+startup.devmode2=Pour le désactiver, allez dans millenaire-custom/ et retirez la ligne "devmode".
 
 command.nogenerate=<0> ne générera plus de nouveaux villages dans ce monde.
 command.willgenerate=<0> génère à nouveau des nouveaux villages pour ce monde.
@@ -15,10 +17,19 @@ command.active=Actif
 command.frozen=Figé
 command.villagelist=<4>: <0> (<1>) est à <2> mètres <3>.
 command.villagelistkeylonebuilding=<0> est à <1> mètres <2>.
+command.facingdirection=Vous êtes façe <0>.
 command.noknowvillage=Aucun village connu à moins de deux kilomètres. Continuez de chercher!
 command.newvillagefound=Nouveau village trouvé: <0> de type <1> et de culture <2> est à <3> mètres <4>.
 command.newlonebuildingfound=Nouveau bâtiment trouvé: <0> est à <1> mètres <2>.
 command.pathrebuild=La carte et le pathing de <0> ont été reconstruits.
+
+command.renamevillage_explanations=Cette commande doit avoir le nom souhaité comme premier argument et optionellement le qualificatif comme deuxième argument 
+command.renamevillage_notplayer=Cette commande ne peut être exécutée que par un admin (elle s'applique au village le plus proche)
+command.renamevillage_noclosevillage=Pas de village trouvé à moins de 50 mètres.
+command.renamevillage_notification=<0> a renommé le village <1> à <2>.
+
+command.listactivevillages_list=Le village <0> est actif. Il connaît <1> villageois (<2> dans les archives). Lors des 20 derniers ticks, il a prit <3> microsecondes pour traiter les bâtiments et <4> pour les villageois. Guardé actif par: <4>
+
 
 //Text used in various UI parts, in no specific order:
 ui.lockedchest=Coffre verrouillé
@@ -101,6 +112,7 @@ ui.buildingsplayer=Bâtiments du joueur
 ui.buildingskey=Bâtiments clés
 ui.buildingssecondary=Bâtiments secondaires
 ui.buildingsextra=Bâtiments additionnels
+ui.buildingcustom=Bâtiments personnalisés
 ui.worldnotgenerated=Le terrain aux alentours n'est pas complètement généré. Marchez et revenez.
 ui.tooclosetospawn=Vous ne pouvez pas générer un village aussi près du point d'apparition.
 ui.generatenotenoughspace=Impossible de trouver assez d'espace pour le bâtiment central.
@@ -161,7 +173,7 @@ ui.villagerelationsnobutton=Vous devez avoir des points et une réputation posit
 ui.relationhelp=Explications sur les relations<ret><ret>Les relations entre les villages déterminent s'ils coopéreront ou pas.<ret><ret>Le commerce local (les marchands transportant des resources entre les villages) n'aura lieu qu'entre villages de même culture avec de bonnes relations ou entre villages de différentes cultures avec des relations excellentes.<ret><ret>Les villages de cultures différentes dont les relations sont très bonnes et ayant tous les deux des marchés accueilleront des marchands de l'autre culture.<ret><ret>Les villages de la même culture ayant d'excellentes relations accepteront leurs adolescents s'ils ont des postes disponibles.<ret><ret>Les relations entre villages débutent à "excellentes" pour les hameaux d'un village, "bonnes" pour les villages de la même culture, et neutres autrement.<ret><ret>Chaque jour, le joueur reçoit cinq points diplomatiques qu'il peut utiliser pour influencer les relations d'un village. L'efficacité des compliments ou des calmonies dépend de sa réputation dans le village.
 ui.relationfriendly=Des évenements récents entre les villages de <0> et de <1> ont amélioré leurs relations. Elles sont maintenant <2>.
 ui.relationunfriendly=Des heurts récents entre les villages de <0> et de <1> ont envenimé leurs relations. Elles sont maintenant <2>.
-ui.cropplantingknowledge=Vous ne savez pas cultiver le <0>. Demandez à un chef de village.
+ui.cropplantingknowledge=Vous ne savez pas cultiver cette plante. Demandez à un chef de village.
 ui.cropsknown=Plantes connues dans cette culture
 ui.cropknown=Vous avez apris à cultiver le <0>.
 ui.cropinsufficientreputation=Votre réputation est insuffisante pour que le village vous apprenne à cultiver le <0>.
@@ -372,6 +384,7 @@ goal.DeliverResourcesShop=Livre des ressources
 goal.raidvillage=Attaque le village
 goal.defendvillage=Défend son village
 goal.hide=Se cache
+goal.tendfurnace=S'occupe des fours
 
 
 goal.CollectCrop=Récolte
@@ -782,7 +795,9 @@ import.buildinginitialphase=Pas de niveau d'amélioration spécifié, constructi
 import.errorupgradeleveltoohigh=Le niveau d'amélioration requis est plus élevé que le niveau disponible.
 import.doublevertical=Hauteur verticale doublée.
 import.buildinglevel=Niveau du bâtiment: <0>
-
+import.errorunknownwoodtype=Type de bois inconnu: <0>
+import.copyingfrom=Copie du bâtiment de <0> dans millenaire-custom/exports/
+import.missingmockblock=Pas de bloc maquette pour le type spécial <0>. Ce bâtiment ne s'exportera pas correctement. Si vous ne voulez pas utiliser de blocs maquettes, ajoutez 'nomock' à la dernière ligne du panneau.
 
 effect.towncentre=Centre du village
 effect.shop=Commerce: <0>

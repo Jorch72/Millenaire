@@ -1,0 +1,11 @@
+The millenaire/ directory is auto-deployed by Millénaire on each new version of the mod, erasing all changes made to it.
+
+If you want to add content to Millénaire, copy the files to the corresponding directory in millenaire-custom, 
+which is not touched by updates.
+
+All files present in millenaire-custom will replace the file present in millenaire, except for :
+- Language files
+- blocklist.txt and itemlist.txt
+- tradedgoods.txt for each cultures
+
+The content of those files are instead added to that of the corresponding file in millenaire.

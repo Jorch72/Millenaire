@@ -27,6 +27,7 @@ start:japanesefarm
 start:japanesegrove
 start:japanesefishery 
 start:japanesepeasanth
+start:japaneseinn
 
 player:japaneseplot1
 player:japaneseplot2
@@ -50,7 +51,6 @@ core:bath
 //to be built after the core ones
 secondary:japanesearchive
 secondary:japanesezen
-secondary:japaneseinn
 secondary:japanesemarket
 secondary:japanesearmyforge
 secondary:well

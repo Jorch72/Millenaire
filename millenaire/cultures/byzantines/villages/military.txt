@@ -37,6 +37,7 @@ start:lumberbyzantine
 start:lumberbyzantine
 start:architectbyzantine
 start:fisherbyzantine
+start:innbyzantine
 
 player:playersmallhouse
 player:villa urbana
@@ -48,7 +49,6 @@ core:tavernbyzantine
 core:vineyardbyzantine
 core:watchtowerbyzantine
 core:quarrybyzantine
-core:innbyzantine
 core:workshopbyzantine
 core:well
 

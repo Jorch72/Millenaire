@@ -275,7 +275,7 @@ byzantineplate;millenaire:byzantinePlate;0
 byzantinemace;millenaire:byzantineMace;0
 
 clothes_byz_wool;millenaire:clothes_byz_wool;0
-clothes_byz_silk;millenaire:clothes_byz_silk;1
+clothes_byz_silk;millenaire:clothes_byz_silk;0
 
 winebasic;millenaire:winebasic;0
 mutton;mutton;0

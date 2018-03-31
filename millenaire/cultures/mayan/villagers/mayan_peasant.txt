@@ -20,6 +20,7 @@ goal=slaughterChicken
 goal=harvestMaize
 goal=plantMaize
 goal=cookchicken
+goal=tendfurnace
 goal=gosocialise
 goal=chat
 

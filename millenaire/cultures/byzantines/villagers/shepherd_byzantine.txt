@@ -34,6 +34,7 @@ goal=slaughtersheepbyz
 goal=shearsheep
 goal=breed
 goal=cooklamb
+goal=tendfurnace
 
 collectGood=mutton
 collectGood=cooked_mutton

@@ -16,6 +16,7 @@ goal=shearsheep
 goal=breed
 goal=slaughterchicken
 goal=cookchicken
+goal=tendfurnace
 
 requiredGood=wheat,8
 requiredGood=seeds,8

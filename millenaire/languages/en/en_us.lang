@@ -11,6 +11,7 @@
 #Item names
 
 itemGroup.millenaire=Millénaire
+itemGroup.millenaire_content_creator=Millenaire - For Content Creators
 
 #The following items should not be translated
 #They are either proper names (the deniers)
@@ -159,3 +160,16 @@ tile.millenaire.pathslabs_slab.name=Slabs path
 tile.millenaire.pathsandstone_slab.name=Sandstone slabs path
 tile.millenaire.pathochretiles_slab.name=Ochre slabs path
 tile.millenaire.pathgravelslabs_slab.name=Slabs and gravel path
+
+tile.millenaire.markerblock.name=Marker Block
+tile.millenaire.mainchest.name=Main Chest
+tile.millenaire.animalspawn.name=Animal Spawn Point
+tile.millenaire.source.name=Source Block
+tile.millenaire.freeblock.name=Free Block
+tile.millenaire.treespawn.name=Tree Spawn Point
+tile.millenaire.soil.name=Plant Soil Block
+tile.millenaire.decorblock.name=Wall Decoration Block
+
+
+achievement.indian_food=A Spicy Taste
+achievement.indian_food.desc=Get rice or turmeric

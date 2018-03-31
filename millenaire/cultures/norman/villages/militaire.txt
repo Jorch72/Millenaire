@@ -33,6 +33,7 @@ start:lumbermanhut
 start:pigfarm
 start:grove
 start:grove
+start:inn
 
 player:playersmallfield
 player:playersmallhouse
@@ -46,7 +47,6 @@ player:gifthouse
 core:armoury
 core:tavern
 core:watchtower
-core:inn
 core:fountain
 core:largefountain
 core:carpenterhouse

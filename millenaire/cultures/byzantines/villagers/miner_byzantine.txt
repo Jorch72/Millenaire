@@ -34,6 +34,7 @@ goal=bringBackResourcesHome
 goal=mining
 goal=cookstone
 goal=cooksand
+goal=tendfurnace
 
 bringBackHomeGood=cobblestone
 bringBackHomeGood=glass
