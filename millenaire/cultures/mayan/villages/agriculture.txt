@@ -5,18 +5,21 @@ carriesraid:true
 pathmaterial:pathdirt
 pathmaterial:pathslabs
 
-//1.7 biomes
+//Vanilla biomes
 biome:Swampland
 biome:Swampland M
+biome:Jungle
 biome:JungleEdge
 biome:JungleEdge M
 biome:Birch Forest
 biome:Birch Forest M
 
-//extraBiomes mod
-biome:lush swampland
-biome:jungle
+//biomes o'plenty
+biome:bayou
+biome:lush swamp
 biome:rainforest
+biome:tropical rainforest
+biome:wetland
 
 //starting buildings:
 centre:mayanacropolis

@@ -2,8 +2,7 @@ name:Qila
 weight:10
 carriesraid:true
 
-
-//1.7 biomes
+//Vanilla biomes
 biome:Desert
 biome:Desert M
 biome:Mesa
@@ -17,11 +16,13 @@ biome:Savanna
 biome:Savanna M
 biome:Savanna Plateau
 
-
-//extraBiomes mod
-biome:mountain desert
-biome:lush swampland
+//biomes o'plenty
+biome:lush desert
+biome:lush swamp
+biome:outback
 biome:shrubland
+biome:rainforest
+biome:xeric shrubland
 
 pathmaterial:pathdirt
 pathmaterial:pathsandstone
