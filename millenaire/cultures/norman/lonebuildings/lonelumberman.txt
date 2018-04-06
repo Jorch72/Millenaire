@@ -2,17 +2,21 @@ name:Bûcheron solitaire
 weight:10
 radius:10
 
-//1.7 biomes
+//Vanilla biomes
 biome:Forest
 biome:ForestHills
 biome:Flower Forest
 biome:Roofed Forest
 biome:Roofed Forest M
 
-//extraBiomes mod
-biome:autumn woods
-biome:forested island
-biome:forested hills
+//biomes o'plenty
+biome:boreal forest
+biome:eucalyptus forest
+biome:grove
+biome:orchard
+biome:seasonal forest
+biome:snowy forest
+biome:woodland
 
 //starting buildings:
 centre:lonelumbermanhut

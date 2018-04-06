@@ -6,19 +6,17 @@ pathmaterial:pathdirt
 pathmaterial:pathgravel
 pathmaterial:pathgravelslabs
 
-//1.7 biomes
+//Vanilla biomes
 biome:Taiga
 biome:Taiga Hills
 biome:Taiga M
 biome:Extreme Hills
 biome:Extreme Hills+
 
-
-
-//extraBiomes mod
-biome:green hills
-biome:ice mountains
-biome:autumn woods
+//biomes o'plenty
+biome:boreal forest
+biome:maple woods
+biome:shield
 
 //starting buildings:
 centre:japanesepalace

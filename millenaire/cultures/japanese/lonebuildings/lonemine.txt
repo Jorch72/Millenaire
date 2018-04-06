@@ -4,11 +4,14 @@ name:Kouku
 weight:10
 radius:20
 
-//1.7 biomes
+//Vanilla biomes
 biome:Taiga
 biome:Taiga M
 biome:TaigaHills
 
+//biomes o'plenty
+biome:coniferous forest
+biome:snowy coniferous forest
 
 //starting buildings:
 centre:lonemine

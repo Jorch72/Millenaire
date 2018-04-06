@@ -2,10 +2,14 @@ name:Yashiro
 weight:5
 radius:10
 
-//1.7 biomes
+//Vanilla biomes
 biome:Taiga
 biome:Taiga M
 biome:TaigaHills
+
+//biomes o'plenty
+biome:coniferous forest
+biome:snowy coniferous forest
 
 //starting buildings:
 centre:woods_shrine

@@ -10,17 +10,21 @@ lavaQualifier:le-volcan
 lakeQualifier:le-lac
 oceanQualifier:l'océan
 
-//1.7 biomes
+//Vanilla biomes
 biome:River
 biome:Plains
 biome:Sunflower Plains
 biome:Extreme Hills+
 biome:Extreme Hills+ M
 
-//extraBiomes mod
-biome:autumn woods
-biome:green hills
-biome:forested hills
+//biomes o' plenty
+biome:brushland
+biome:chaparral
+biome:eucalyptus forest
+biome:grassland
+biome:meadow
+biome:orchard
+biome:seasonal forest
 
 pathmaterial:pathdirt
 pathmaterial:pathgravel

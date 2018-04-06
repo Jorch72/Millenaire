@@ -5,11 +5,18 @@ radius:120
 
 mindistancefromspawn:2000
 
+//Vanilla biomes
+biome:Forest
+biome:Desert
+biome:Taiga
+biome:Ice plains
 
-biome:forest
-biome:desert
-biome:taiga
-biome:ice plains
+//biomes o'plenty
+biome:cold desert
+biome:grove
+biome:lush desert
+biome:shield
+
 //generateonserver:false
 
 

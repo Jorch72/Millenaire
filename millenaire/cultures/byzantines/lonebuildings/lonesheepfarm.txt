@@ -2,7 +2,7 @@ name:Apomonomeno Boske Probaton
 weight:20
 radius:10
 
-//1.7 biomes
+//Vanilla biomes
 biome:River
 biome:Plains
 biome:Sunflower Plains
@@ -13,14 +13,10 @@ biome:Savanna Plateau M
 biome:Mesa Plateau F
 biome:Mesa Platau F M
 
-//with extrabiomesxl
-biome:green hills
-biome:meadow
-biome:shrubland
-
 //biomes o'plenty
 biome:chaparral
 biome:heathland
+biome:meadow
 biome:orchard
 biome:scrubland
 biome:shrubland

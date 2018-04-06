@@ -2,7 +2,7 @@ name:Ah Waay Su'uk
 weight:10
 radius:15
 
-//1.7 biomes
+//Vanilla biomes
 biome:Swampland
 biome:Swampland M
 biome:JungleEdge
@@ -14,10 +14,11 @@ biome:Birch Forest Hills
 biome:Birch Forest M
 biome:Birch Forest Hills M
 
-//extraBiomes mod
-biome:lush swamplands
+//biomes o'plenty
+biome:bayou
+biome:lush swamp
 biome:rainforest
-biome:jungle
+biome:tropical rainforest
 
 //starting buildings:
 centre:lonemayanshaman

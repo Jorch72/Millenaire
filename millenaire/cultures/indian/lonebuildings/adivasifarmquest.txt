@@ -2,12 +2,13 @@ name:Adivasi ka Ghar
 weight:0
 radius:25
 
-//1.7 Biomes
+//Vanilla Biomes
 biome:Swampland
 biome:Swampland M
 
-//extraBiomes mod
-biome:lush swamplands
+//biomes o'plenty
+biome:bayou
+biome:lush swamp
 
 max:1
 keyLoneBuildingGenerateTag:adivasifarmquest_generate

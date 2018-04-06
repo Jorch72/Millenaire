@@ -9,7 +9,7 @@ pathmaterial:pathdirt
 pathmaterial:pathgravel
 pathmaterial:pathochretiles
 
-//1.7 biomes
+//Vanilla biomes
 biome:River
 biome:Plains
 biome:Sunflower Plains
@@ -17,16 +17,13 @@ biome:Savanna
 biome:Savanna M
 biome:Savanna Plateau
 
-//with extrabiomesxl
-biome:green hills
-biome:meadow
-biome:shrubland
-
 //biomes o'plenty
+biome:brushland
 biome:chaparral
-biome:heathland
+biome:grassland
+biome:grove
+biome:meadow
 biome:orchard
-biome:scrubland
 biome:shrubland
 biome:steppe
 

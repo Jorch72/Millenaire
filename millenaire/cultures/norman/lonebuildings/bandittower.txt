@@ -5,7 +5,7 @@ carriesraid:true
 
 mindistancefromspawn:600
 
-//1.7 biomes
+//Vanilla biomes
 biome:ForestHills
 biome:TaigaHills
 biome:ExtremeHills
@@ -15,12 +15,12 @@ biome:ExtremeHills+ M
 biome:Roofed Forest
 biome:Roofed Forest M
 
-//extraBiomes mod
-
-biome:forested island
-biome:autumn woods
-biome:green hills
-biome:forested hills
+//biomes o'plenty
+biome:alps
+biome:crag
+biome:highland
+biome:moor
+biome:mountain
 
 //starting buildings:
 centre:bandittower

@@ -4,15 +4,29 @@ radius:70
 
 mindistancefromspawn:1000
 
-//1.7 biomes
+//Vanilla biomes
 biome:Extreme Hills
 biome:Extreme Hills+
 biome:Extreme Hills M
 biome:Extreme Hills+ M
 biome:Taiga
-biome:TaigaHills
 biome:Taiga M
+biome:TaigaHills
 
+//biomes o'plenty
+biome:alps
+biome:alps foothills
+biome:cherry blossom grove
+biome:coniferous forest
+biome:crag
+biome:highland
+biome:maple woods
+biome:moor
+biome:mountain
+biome:mountain foothills
+biome:overgrown cliffs
+biome:redwood forest
+biome:snowy coniferous forest
 
 //starting buildings:
 centre:japaneseoutpost
