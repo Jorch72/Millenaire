@@ -28,6 +28,8 @@ Samboy;;hof.gradlebuild1;hof.gradlebuild2
 MoonCutter2B;;hof.112testing
 Goshen;;hof.112testing;hof.donor
 MauveCloud;;hof.112testing;hof.donor
+Zoythrus;;hof.communitywork
+Orange1861;;hof.communitywork
 
 Peyko;hof.hofidea1;hof.hofidea2;hof.donor
 leftler;;hof.donor

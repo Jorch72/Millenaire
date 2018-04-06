@@ -4,7 +4,7 @@
 startup.loadproblem=Blad w trakcie ladowania <0>.
 startup.checkload=Sprawdz czy katalog kultur jest w katalogu Millenaire w katalogu Minecrafta.
 startup.millenaireloaded=<0> jest zaladowane. Odkrywaj i nacisnij 'V' by odnalezc wioski.
-startup.radiuswarning=UWAGA: Ustawienie tak duzej srednicy wioski nie powinno byc potrzebne i spowoduje duzy spadek wydajnosci. Wartosci powyzej 70 nie sa zalecane. 
+startup.radiuswarning=UWAGA: Ustawienie tak duzej srednicy wioski nie powinno byc potrzebne i spowoduje duzy spadek wydajnosci. Wartosci powyzej <0> nie sa zalecane. 
 
 command.nogenerate=<0> nie bedzie generowac nowych wiosek na nowych obszarach tego swiata.
 command.willgenerate=<0>  bedzie generowac wioski na nowych obszarach tego swiata.

@@ -3,7 +3,7 @@ type:hameau
 weight:0
 qualifier:l'église
 qualifier:l'abbaye
-radius:40
+radius:50
 
 //starting buildings:
 centre:abbey

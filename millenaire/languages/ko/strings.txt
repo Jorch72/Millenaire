@@ -2,7 +2,7 @@
 startup.loadproblem=모드를 로딩하는 중에 오류가 발생했습니다! <0>.
 startup.checkload=cultures 폴더가 마인크래프트 폴더 내에 있는 millenaire 폴더에 있는지 확인해 보세요.
 startup.millenaireloaded=<0> 이(가) 로딩되었습니다. 더 탐사하고 '<1>' 키를 눌러 마을을 찾아보세요.
-startup.radiuswarning=경고! 마을의 크기를 너무 높게 하면 렉이 유발될 수 있습니다. 70 이상의 값은 권장되지 않습니다!
+startup.radiuswarning=경고! 마을의 크기를 너무 높게 하면 렉이 유발될 수 있습니다. <0> 이상의 값은 권장되지 않습니다!
 startup.bonus=보너스 구성요소가 적용되었습니다.
 
 command.nogenerate=<0> 이 월드의 새로운 청크에 마을을 생성하지 않도록 되었습니다.

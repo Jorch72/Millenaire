@@ -2,7 +2,7 @@
 startup.loadproblem=Det oppstod en feil ved forsøkt lasting av <0>.
 startup.checkload=Sjekk at kulturmappen i Millénaire-mappen finnes i Minecraft-mappen.
 startup.millenaireloaded=<0> er lastet. Utforsk og trykk '<1>' for å finne landsbyer.
-startup.radiuswarning=ADVARSEL: Det å sette landsbyradiusen så høyt burde ikke være nødvendig og vil forårsake mye økt latens. Verdier over 70 anbefales ikke.
+startup.radiuswarning=ADVARSEL: Det å sette landsbyradiusen så høyt burde ikke være nødvendig og vil forårsake mye økt latens. Verdier over <0> anbefales ikke.
 startup.bonus=Bonusinnhold aktivert.
 
 command.nogenerate=<0> vil ikke lenger generere landsbyer på nye deler av denne verdenen.

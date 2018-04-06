@@ -60,7 +60,7 @@ culture.indian=Hindi
 startup.loadproblem=Ett fel uppstod när Minecraft skulle ladda <0>.
 startup.checkload=Kontrollera att Culture katalogen är i Millenaire katalogen i Minecraft katalogen.
 startup.millenaireloaded=<0> är laddad. Utforska och tryck "v" för att lokalisera byar.
-startup.radiuswarning=VARNING: Ställa Village Radius så högt bör inte behövas och kommer att orsaka mycket större eftersläpning. Värden över 70 rekommenderas inte.
+startup.radiuswarning=VARNING: Ställa Village Radius så högt bör inte behövas och kommer att orsaka mycket större eftersläpning. Värden över <0> rekommenderas inte.
 
 command.nogenerate=<0>kommer inte längre att generera byar på nya Chunks i denna värld.
 command.willgenerate=<0> kommer nu att generera byar på nya Chunks i denna värld.

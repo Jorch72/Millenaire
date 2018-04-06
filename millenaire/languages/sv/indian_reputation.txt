@@ -1,4 +1,4 @@
-﻿0;Främling;Vi är inte vana att ha främlingar i vår avlägsna by.
+0;Främling;Vi är inte vana att ha främlingar i vår avlägsna by.
 4*64;Känd;än så länge har du inte gjort något dumt.
 16*64;Vanlig besökare;Namaste, $name! Vilka nyheter för du med dig?
 64*64;Favorit handlare;Välkommen tillbaka, $name. Vad har du med dig att handla med till oss?

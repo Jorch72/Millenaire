@@ -73,6 +73,16 @@ item.millenaire.parchment_indianitems.name=Objets indiens
 item.millenaire.parchment_indianbuildings.name=Bâtiments indiens
 item.millenaire.parchment_indianfull.name=Parchement indien complet
 
+tile.millenaire.stairs_timberframe.name=Escalier de colombage
+tile.millenaire.stairs_thatch.name=Escalier de chaume
+tile.millenaire.stairs_cookedbrick.name=Escalier de briques cuites
+tile.millenaire.stairs_mudbrick.name=Escalier de briques de terre
+
+tile.millenaire.slabs_timberframeplain.name=Dalle de colombage
+tile.millenaire.slabs_thatch.name=Dalle de chaume
+tile.millenaire.slabs_cookedbrick.name=Dalle de briques cuites
+tile.millenaire.slabs_mudbrick.name=Dalle de briques de terre
+
 item.millenaire.wah.name=Wah
 item.millenaire.masa.name=Masa
 item.millenaire.maize.name=Maïs

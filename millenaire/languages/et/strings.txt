@@ -2,7 +2,7 @@
 startup.loadproblem= Tekkis viga, kui proovite laadida <0>.
 startup.checkload= Kontrollige, et kultuuride kataloog on Millenaire kataloogis minecraft kataloogis.
 startup.millenaireloaded=<0> on laetud. Vajuta '<1>' et leida külasid.
-startup.radiuswarning= HOIATUS: Seadistamine küla raadiust nii suureks, ei peaks osutuma vajalikuks ning võib põhjustada mängu tükitamist. Väärtused üle 70 ei soovitata.
+startup.radiuswarning= HOIATUS: Seadistamine küla raadiust nii suureks, ei peaks osutuma vajalikuks ning võib põhjustada mängu tükitamist. Väärtused üle <0> ei soovitata.
 startup.bonus= Bonus sisu lubatud.
 
 command.nogenerate=<0> ei tekita enam külasid külade aladele selles maailmas.

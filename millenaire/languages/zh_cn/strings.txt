@@ -2,7 +2,7 @@
 startup.loadproblem=尝试载入 <0> 时发生错误。
 startup.checkload=请检查/mods/millenaire/里的“Culture”文件夹。
 startup.millenaireloaded=<0>已载入。在周围探索或按 “<1>” 键来定位村庄。
-startup.radiuswarning=警告：村庄半径设置这么高并非必要，且可能造成游戏卡顿。 不建议使用超过70的值。
+startup.radiuswarning=警告：村庄半径设置这么高并非必要，且可能造成游戏卡顿。 不建议使用超过<0>的值。
 startup.bonus=开启奖励内容。
 
 command.nogenerate=<0> 在这个世界上的新的区块将不会再生成村庄。

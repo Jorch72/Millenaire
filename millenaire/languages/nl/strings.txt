@@ -2,7 +2,7 @@
 startup.loadproblem=Er was een fout tijdens het laden <0>.
 startup.checkload=Check dat de culturen map in de millenaire map is.
 startup.millenaireloaded=<0> is geladen. Verken en druk op '<1>' om dorpen te vinden.
-startup.radiuswarning=WARNING: Het zo hoog zetten van de village radius  hoeft niet en zal zeer veel vertraging veroorzaken. Waarden boven 70 zijn niet aan te raden.
+startup.radiuswarning=WARNING: Het zo hoog zetten van de village radius  hoeft niet en zal zeer veel vertraging veroorzaken. Waarden boven <0> zijn niet aan te raden.
 startup.bonus=Bonus materiaal geactiveerd.
 
 command.nogenerate=<0> zal niet meer dorpen maken in nieuwe chunks in deze wereld.

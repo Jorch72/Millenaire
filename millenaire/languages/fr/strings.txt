@@ -2,7 +2,7 @@
 startup.loadproblem=Une erreur est survenue lors du chargement de <0>.
 startup.checkload=Vérifiez que le dossier cultures est bien dans le dossier millenaire dans le dossier minecraft.
 startup.millenaireloaded=<0> est chargé. Explorez et appuyez sur '<1>' pour trouver les villages.
-startup.radiuswarning=ATTENTION: Un rayon aussi important pour les villages n'est pas recommandé. Cela risque de diminuer les performances.
+startup.radiuswarning=ATTENTION : Un rayon au-dessus de <0> pour les villages n'est pas recommandé. Cela risque de diminuer les performances.
 startup.bonus=Contenu bonus activé.
 startup.devmode1=Le mode développeur est activé. Ce mode est conçu pour tester Millénaire, pas pour jouer.
 startup.devmode2=Pour le désactiver, allez dans millenaire-custom/ et retirez la ligne "devmode".
@@ -727,6 +727,7 @@ hof.variousimprovements2=Diverses
 hof.gradlebuild1=Nouveau
 hof.gradlebuild2=Build Gradle
 hof.112testing=Tests pour 1.12
+hof.communitywork=Communauté
 
 pujas.invanme=Pujas
 pujas.panditfee=Pour le pandit

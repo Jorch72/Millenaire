@@ -54,7 +54,7 @@ culture.indian=Hindijci
 startup.loadproblem=Napaka med nalaganjem <0>.
 startup.checkload=Preverite, če je mapa z kulturami v mapi millenaire v mapi minecraft-a.
 startup.millenaireloaded=<0> je naložen. Raziskuj in pritisni tipko 'v' da poiščeš vasi.
-startup.radiuswarning=WARNING: Nastavlitev tako velikega območja za vasi lahko povzroči veliko zatikanja pri teku igre. Vrednosti čez 70 niso priporočene.
+startup.radiuswarning=WARNING: Nastavlitev tako velikega območja za vasi lahko povzroči veliko zatikanja pri teku igre. Vrednosti čez <0> niso priporočene.
 
 command.nogenerate=<0> Ne bo več ustvarjalo vasi na novih delih sveta (chunks) na tem svetu.
 command.willgenerate=<0> bo zdaj ustvarjalo vasi na novih delih sveta (chunks) na tem svetu.

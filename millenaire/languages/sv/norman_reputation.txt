@@ -1,4 +1,4 @@
-﻿0;Främling;Vi är försiktiga med främlingar här, nykommling. Men var snäll mot oss så kommer folk vara gästvanliga.
+0;Främling;Vi är försiktiga med främlingar här, nykommling. Men var snäll mot oss så kommer folk vara gästvanliga.
 4*64;Känd;Vi har sett dig här förut, och inga kycklingar har forsvunnit. Fortsätt så här så kommer vi bli vänner.
 16*64;Vanlig besökare;Välkommen, $name! Det är kul att du är här igen.
 64*64;Favorit handlare;Ah, $name! Alla byborna längtade efter att du skulle komma tillbaka.

@@ -2,7 +2,7 @@
 startup.loadproblem=Ocurrió un error al cargar <0>.
 startup.checkload=Verifica que la carpeta cultures esté en la carpeta millenaire en la carpeta minecraft.
 startup.millenaireloaded=<0> está cargado. Explora y presiona '<1>' para encontrar las aldeas.
-startup.radiuswarning=ATENCIÓN: Un radio tan alto no debería ser necesario y podría causar mayor lag. Valores sobre 70 no son recomendados.
+startup.radiuswarning=ATENCIÓN: Un radio tan alto no debería ser necesario y podría causar mayor lag. Valores sobre <0> no son recomendados.
 
 command.nogenerate=<0> no generará nuevas aldeas en este mundo.
 command.willgenerate=<0> generará nuevas aldeas en este mundo.

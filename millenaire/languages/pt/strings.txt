@@ -2,7 +2,7 @@
 startup.loadproblem=Ocorreu um erro ao carregar <0>.
 startup.checkload=Verifique se a pasta "cultures" se encontra dentro da pasta "millenaire", no directório do Minecraft.
 startup.millenaireloaded=<0> foi carregado. Explore e prima '<1>' para localizar aldeias.
-startup.radiuswarning=AVISO: Um valor tão elevado para o raio de alcance das aldeias não é aconselhado e poderá diminuir o desempenho do Minecraft. Recomendam-se valores não superiores a 70.
+startup.radiuswarning=AVISO: Um valor tão elevado para o raio de alcance das aldeias não é aconselhado e poderá diminuir o desempenho do Minecraft. Recomendam-se valores não superiores a <0>.
 startup.bonus=Conteúdos bónus activados.
 
 command.nogenerate=<0> não criará mais aldeias no mundo actual.

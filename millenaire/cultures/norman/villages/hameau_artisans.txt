@@ -2,7 +2,7 @@ name:Hameau industrieux
 type:hameau
 weight:0
 qualifier:les-mines
-radius:40
+radius:50
 
 //starting buildings:
 centre:guildhouse

@@ -2,7 +2,7 @@
 startup.loadproblem=載入<0>時發生了錯誤。
 startup.checkload=請檢查/minecraft/millenaire/裡的'Culture'資料夾
 startup.millenaireloaded=<0>已載入完畢，你可在周圍探索或按'<1>'鍵來尋找村莊。祝你遊戲愉快！
-startup.radiuswarning=WARNING: 警告：把村莊半徑設置得這麼高可能會造成遊戲停滯。不建議使用超過70的數值。
+startup.radiuswarning=WARNING: 警告：把村莊半徑設置得這麼高可能會造成遊戲停滯。不建議使用超過<0>的數值。
 startup.bonus=Bonus content enabled.
 
 command.nogenerate=<0>在這個世界上將不會再生成村莊。

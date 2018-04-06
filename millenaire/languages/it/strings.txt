@@ -2,7 +2,7 @@
 startup.loadproblem=Si è verificato un errore durante il caricamento di <0>.
 startup.checkload=Verifica che la cartella "culture" sia nella cartella "millenaire" nella cartella "minecraft".
 startup.millenaireloaded=<0> è attivo. Esplora e premi '<1>' per localizzare i villaggi.
-startup.radiuswarning=ATTENZIONE: non è necessario impostare un valore così elevato del raggio del villaggio: ciò causerà molta più lag. Valori superiori a 70 non sono raccomandati.
+startup.radiuswarning=ATTENZIONE: non è necessario impostare un valore così elevato del raggio del villaggio: ciò causerà molta più lag. Valori superiori a <0> non sono raccomandati.
 startup.bonus=Contenti Bonus abilitati.
 
 command.nogenerate=<0> non genererà più villaggi in nuovi chunks in questo mondo.

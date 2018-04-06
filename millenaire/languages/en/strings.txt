@@ -1,7 +1,7 @@
 startup.loadproblem=There was an error when trying to load <0>.
 startup.checkload=Check that the cultures directory is in the millenaire directory in the minecraft directory.
 startup.millenaireloaded=<0> is loaded. Explore and press '<1>' to locate villages.
-startup.radiuswarning=WARNING: Setting the village radius so high should not be needed and will cause much increased lag. Values above 70 are not recommended.
+startup.radiuswarning=WARNING: Setting the village radius so high should not be needed and will cause much increased lag. Values above <0> are not recommended.
 startup.bonus=Bonus content enabled.
 startup.devmode1=Developer mode is active. This mode is designed to test Millénaire, not to play it.
 startup.devmode2=To disable it, go to millenaire-custom and remove the "devmode" line.
@@ -746,6 +746,7 @@ hof.variousimprovements2=Improvements
 hof.gradlebuild1=New
 hof.gradlebuild2=Gradle Build
 hof.112testing=Testing for 1.12
+hof.communitywork=Community Work
 
 pujas.invanme=Pujas
 pujas.panditfee=Pandit's fee

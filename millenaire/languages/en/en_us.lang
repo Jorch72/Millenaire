@@ -72,6 +72,17 @@ item.millenaire.parchment_indianfull.name=Complete Indian Scroll
 item.millenaire.unknownpowder.name=Unknown Powder
 tile.millenaire.alchemistexplosive.name=Alchemist's Explosive
 
+tile.millenaire.stairs_timberframe.name=Timber Frame Stairs
+tile.millenaire.stairs_thatch.name=Thatch Stairs
+tile.millenaire.stairs_cookedbrick.name=Cooked Brick Stairs
+tile.millenaire.stairs_mudbrick.name=Mud Brick Stairs
+
+tile.millenaire.slabs_timberframeplain.name=Timber Frame Slab
+tile.millenaire.slabs_thatch.name=Thatch Slab
+tile.millenaire.slabs_cookedbrick.name=Cooked Brick Slab
+tile.millenaire.slabs_mudbrick.name=Mud Brick Slab
+
+
 item.millenaire.wah.name=Wah
 item.millenaire.masa.name=Masa
 item.millenaire.maize.name=Maize

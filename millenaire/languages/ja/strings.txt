@@ -1,7 +1,7 @@
 startup.loadproblem=ロード時にエラーが発生しました<0>。
 startup.checkload=フォルダをチェックしてください。\.minecraft\millenaire\culture
 startup.millenaireloaded=<0> はロードされました。村を検索するには'<1>'を押してください。
-startup.radiuswarning=警告:村の半径を大きすぎる値にするのはラグの原因になります。70以上の値は推奨されません。
+startup.radiuswarning=警告:村の半径を大きすぎる値にするのはラグの原因になります。<0>以上の値は推奨されません。
 startup.bonus=ボーナスコンテンツが有効になっています。
 command.nogenerate=<0> 新たな村は生成しません。
 command.willgenerate=<0> 新たな村を生成可能です。

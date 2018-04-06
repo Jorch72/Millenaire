@@ -2,7 +2,7 @@ name:Hameau agricole
 type:hameau
 weight:0
 qualifier:les-pâtures
-radius:40
+radius:50
 
 //starting buildings:
 centre:manor

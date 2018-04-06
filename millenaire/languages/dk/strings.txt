@@ -51,7 +51,7 @@ culture.indian=Hindi
 startup.loadproblem=Det var en fejl under indlæsningen <0>.
 startup.checkload=Se om kultur mapperne er i Millenaire mappen i minecraft mappen.
 startup.millenaireloaded=<0> Er indlæst. Udforsk og pres "v" for at lokalisere landsbyer.
-startup.radiuswarning=ADVARSEL: At sætte landsby radius så høj burde ikke være nødvendigt og vil give mere lag. Tal over 70 er ikke anbefalet.
+startup.radiuswarning=ADVARSEL: At sætte landsby radius så høj burde ikke være nødvendigt og vil give mere lag. Tal over <0> er ikke anbefalet.
 
 command.nogenerate=<0> Vil ikke længere generer landsbyer i nye chunks i denne verden.
 command.willgenerate=<0> Vil nu generer landsbyer i nye chunks i denne verden.

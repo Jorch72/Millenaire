@@ -1,7 +1,7 @@
 startup.loadproblem=Vyskytl se problem pri pokusu nacist <0>.
 startup.checkload=Zkontrolujte, zda se slozka 'cultures' nachazi ve slozce 'millenaire' v adresari Minecraftu.
 startup.millenaireloaded=<0> nacteno. Zmacknete klavesu '<1>' pro lokaci osad.
-startup.radiuswarning=VAROVANI: Nastaveni tak vysokeho radiusu osad neni potreba a muze zpusobovat lagy. Hodnoty nad 70 nejsou doporuceny. 
+startup.radiuswarning=VAROVANI: Nastaveni tak vysokeho radiusu osad neni potreba a muze zpusobovat lagy. Hodnoty nad <0> nejsou doporuceny. 
 
 command.nogenerate=<0> nebude dale generovat osady v tomto svete.
 command.willgenerate=<0> bude generovat osady na novych chunkach.

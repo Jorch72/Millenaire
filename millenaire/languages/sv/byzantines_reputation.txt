@@ -1,4 +1,4 @@
-﻿0;Främling;Som ett handels folk så måste vi aceptera alla. men vi måste inte lita på dom.
+0;Främling;Som ett handels folk så måste vi aceptera alla. men vi måste inte lita på dom.
 4*64;Känd;På senaste tiden är du ofta sedd i dessa romerska områden.
 16*64;Vanlig besökare;Xaire, $name! Trevligt att se dig. Hur är det?
 64*64;Favorit handlare;Alla är glada att se dig. Har du något du vill byta?

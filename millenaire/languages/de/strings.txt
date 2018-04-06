@@ -2,7 +2,7 @@
 startup.loadproblem=Es gab einen Fehler beim Versuch <0> zu laden.
 startup.checkload=Überprüfen Sie, daß das Kulturen Verzeichnis im Millenaire Verzeichnis unter dem Minecraft Verzeichnis liegt.
 startup.millenaireloaded=<0> wurde geladen. Erkunde und drücke '<1>' um Dörfer zu lokalisieren.
-startup.radiuswarning=WARNUNG: Eine Einstellung des Dorf Radius dieser Höhe ist nicht erforderlich und würde nur zu Lags führen. Einstellungen über 70 sind nicht empfohlen.
+startup.radiuswarning=WARNUNG: Eine Einstellung des Dorf Radius dieser Höhe ist nicht erforderlich und würde nur zu Lags führen. Einstellungen über <0> sind nicht empfohlen.
 startup.bonus=Bonus Inhalt aktiviert.
 
 command.nogenerate=<0> wird keine weiteren Dörfer in neuen Chunks in der Welt erstellen.
