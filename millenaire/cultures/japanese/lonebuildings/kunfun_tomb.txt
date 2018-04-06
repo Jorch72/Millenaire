@@ -4,10 +4,13 @@ radius:20
 
 mindistancefromspawn:1000
 
-//1.7 biomes
+//Vanilla biomes
 biome:TaigaHills
 biome:Taiga
 
+//biomes o'plenty
+biome:coniferous forest
+biome:snowy coniferous forest
 
 //starting buildings:
 centre:kufun_tomb

@@ -4,17 +4,18 @@ radius:15
 
 mindistancefromspawn:1000
 
-//1.7 biomes
+//Vanilla biomes
 biome:Swampland M
 biome:JungleEdge M
 biome:Jungle M
 biome:Birch Forest Hills
 biome:Birch Forest Hills M
 
-//extraBiomes mod
-biome:lush swamplands
+//biomes o'plenty
+biome:bayou
+biome:lush swamp
 biome:rainforest
-biome:jungle
+biome:tropical rainforest
 
 //starting buildings:
 centre:lonemayanruin

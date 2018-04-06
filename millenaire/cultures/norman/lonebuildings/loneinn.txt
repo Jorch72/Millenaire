@@ -3,7 +3,7 @@ name:Auberge isolée
 weight:10
 radius:15
 
-//1.7 biomes
+//Vanilla biomes
 biome:ExtremeHills
 biome:ExtremeHills M
 biome:ExtremeHills+
@@ -16,10 +16,25 @@ biome:Flower Forest
 biome:Plains
 biome:Sunflower Plains
 
-//extraBiomes mod
-biome:autumn woods
-biome:green hills
-biome:forested hills
+//biomes o'plenty
+biome:alps
+biome:bamboo forest
+biome:boreal forest
+biome:coniferous forest
+biome:crag
+biome:dead forest
+biome:eucalyptus forest
+biome:grove
+biome:highland
+biome:maple woods
+biome:moor
+biome:mountain
+biome:ominous woods
+biome:redwood forest
+biome:shield
+biome:snowy coniferous forest
+biome:snowy forest
+biome:woodland
 
 //starting buildings:
 centre:loneinn

@@ -2,35 +2,29 @@ name:Mono Paratiritio
 weight:5
 radius:10
 
-//1.7 biomes
+//Vanilla biomes
 biome:ForestHills
 biome:Mesa Plateau F
 biome:Mesa Plateau F M
 
-//biomes mods:
+//biomes o'plenty
 biome:bayou
 biome:bog
 biome:chaparral
 biome:cherry blossom grove
 biome:dead forest
-biome:deciduous forest
-biome:drylands
 biome:grassland
-biome:green hills
 biome:grove
-biome:heathland
 biome:highland
 biome:mangrove
 biome:maple woods
 biome:orchard
-biome:origin valley
+biome:origin island
 biome:quagmire
 biome:rainforest
-biome:scrubland
 biome:seasonal forest
 biome:shrubland
 biome:steppe
-biome:thicket
 biome:woodland
 
 //starting buildings:

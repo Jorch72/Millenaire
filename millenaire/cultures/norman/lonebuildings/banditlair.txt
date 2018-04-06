@@ -5,7 +5,7 @@ carriesraid:true
 
 mindistancefromspawn:600
 
-//1.7 biomes
+//Vanilla biomes
 biome:Forest
 biome:ForestHills
 biome:Taiga
@@ -13,9 +13,20 @@ biome:TaigaHills
 biome:Roofed Forest
 biome:Roofed Forest M
 
-//extraBiomes mod
-biome:snow forest
-biome:taiga mountain
+//biomes o'plenty
+biome:bamboo forest
+biome:boreal forest
+biome:coniferous forest
+biome:dead forest
+biome:eucalyptus forest
+biome:grove
+biome:maple woods
+biome:ominous woods
+biome:redwood forest
+biome:shield
+biome:snowy coniferous forest
+biome:snowy forest
+biome:woodland
 
 //starting buildings:
 centre:banditlair

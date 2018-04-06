@@ -4,13 +4,15 @@ radius:10
 
 mindistancefromspawn:1000
 
-//1.7 biomes
+//Vanilla biomes
 biome:Desert
 biome:DesertHills
 biome:Desert M
 
-//extraBiomes mod
-biome:mountain desert
+//biomes o'plenty
+biome:lush desert
+biome:outback
+biome:xeric shrubland
 
 //starting buildings:
 centre:deserttradeoutpost

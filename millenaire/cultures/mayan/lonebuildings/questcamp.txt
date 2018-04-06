@@ -2,7 +2,7 @@ name:Ajaw Cah
 weight:0
 radius:50
 
-//1.7 biomes
+//Vanilla biomes
 biome:JungleEdge
 biome:JungleEdge M
 biome:Jungle
@@ -12,10 +12,11 @@ biome:Birch Forest Hills
 biome:Birch Forest M
 biome:Birch Forest Hills M
 
-//extraBiomes mod
-biome:lush swamplands
+//biomes o'plenty
+biome:bayou
+biome:lush swamp
 biome:rainforest
-biome:jungle
+biome:tropical rainforest
 
 keyLoneBuildingGenerateTag:fallenking_camp_generate
 generateforplayer:true

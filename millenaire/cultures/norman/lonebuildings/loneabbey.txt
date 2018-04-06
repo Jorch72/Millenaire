@@ -2,15 +2,21 @@ name:Abbaye isolée
 weight:10
 radius:15
 
-//1.7 biomes
+//Vanilla biomes
 biome:Flower Forest
 biome:Forest
 biome:Sunflower Plains
 
 mindistancefromspawn:1000
 
-//extraBiomes mod
-biome:autumn woods
+//biomes o'plenty
+biome:boreal forest
+biome:cherry blossom grove
+biome:flower field
+biome:lavender fields
+biome:mystic grove
+biome:orchard
+biome:sacred springs
 
 namelist:loneabbeys
 

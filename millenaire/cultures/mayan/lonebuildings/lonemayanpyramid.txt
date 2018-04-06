@@ -4,18 +4,18 @@ radius:15
 
 mindistancefromspawn:1000
 
-
-//1.7 biomes
+//Vanilla biomes
 biome:Swampland
 biome:JungleEdge
 biome:Jungle
 biome:Birch Forest
 biome:Birch Forest M
 
-//extraBiomes mod
-biome:lush swamplands
+//biomes o'plenty
+biome:bayou
+biome:lush swamp
 biome:rainforest
-biome:jungle
+biome:tropical rainforest
 
 //starting buildings:
 centre:lonemayanpyramid

@@ -2,25 +2,23 @@ name:Mono Paratiritio
 weight:5
 radius:10
 
-//1.7 biomes
+//Vanilla biomes
 biome:Extreme Hills
 biome:Extreme Hills+
 biome:Extreme Hills M
 biome:Extreme Hills+ M
 biome:TaigaHills
 
-//biome mods:
-biome:wetland
-biome:ominous woods
-biome:mountain
-biome:glacier
-biome:crag
-biome:coniferous forest
-biome:boreal forest
-biome:arctic
+//biomes o'plenty
 biome:alps
+biome:boreal forest
+biome:coniferous forest
+biome:crag
+biome:glacier
+biome:mountain
+biome:ominous woods
 biome:temperate rainforest
-
+biome:wetland
 
 //starting buildings:
 centre:pinetower

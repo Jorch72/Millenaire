@@ -6,9 +6,7 @@ mindistancefromspawn:600
 
 carriesraid:true
 
-
-
-//1.7 biomes
+//Vanilla biomes
 biome:Swampland
 biome:Swampland M
 biome:JungleEdge
@@ -22,9 +20,11 @@ biome:Birch Forest Hills M
 biome:Roofed Forest
 biome:Roofed Forest M
 
-//extraBiomes mod
-biome:lush swamplands
+//biomes o'plenty
+biome:bayou
+biome:lush swamp
 biome:rainforest
-biome:jungle
+biome:tropical rainforest
+
 //starting buildings:
 centre:mayanbandithome
