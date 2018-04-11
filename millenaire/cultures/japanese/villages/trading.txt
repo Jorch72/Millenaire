@@ -25,6 +25,7 @@ start:japanesepaddy
 start:japanesegrove
 start:japaneseinn 
 start:japanesepeasanth
+start:japanesepeasanth
 start:japanesemarket
 
 player:japaneseplot1

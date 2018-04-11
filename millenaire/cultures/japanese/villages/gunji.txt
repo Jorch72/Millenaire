@@ -25,6 +25,7 @@ start:japanesefarm
 start:japanesegrove
 start:japanesefishery
 start:japanesepeasanth
+start:japanesepeasanth
 start:japaneseinn
 
 player:japaneseplot1
