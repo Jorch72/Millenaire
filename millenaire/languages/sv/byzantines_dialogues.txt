@@ -48,7 +48,7 @@ v1;0;Chreiazómaste mia tavérna gia na ftiáxoume to krasí polý sýntoma. / V
 v2;30;Ti? Giatí? Sígoura, to krasí eínai kaló, allá éna olókliro ktírio gia to krasí? Prépei na váloume proteraiótites stis proteraiótités sas! / Vad? varför? Visst, vin är gott, men en hel byggnad bara för vin? vi måste börja få prioritera rätt!
 v1;60;Dokímasa lígo chymó Norman chtes. Ítan friktó! Pós oi ágrioi san aftó? / Jag testade norrmansk cider igår. Det var hemskt! Hur kan de där vildarna gilla det?
 v2;90;Giatí dokimázete ta potá ton ágrion? Eísai ilíthios?! / Varför provade du vildarnas' dryck? Är du en idiot?!
-v1;120;Ego eimai... / I am...
+v1;120;Ego eimai... / Det är jag...
 v2;130;Pánta na píneis romaïkí ousía! ROMAÏKÍ OUSÍA! / Drick alltid romerskt!
 
 newchat;key:harvest,weigth:10
@@ -61,7 +61,7 @@ v1;0;Thymáste tin kataigída pou eíchame? Thélo na po to pragmatiká varý! /
 v2;30;Fysiká. Schedon katastráfike synkomidí mas. I fýsi eínai arketá entyposiako, e? / Naturligtvis. Förstörde nästan våran skörd. Naturen är ganska imponerande, eh?
 v1;60;Entyposiakí eínai éna prágma. Allá ímoun schedon chtypíthike apo keravno! / Imponerande är en sak. Men jag blev nästan träffad av åskan!
 v2;100;Den ítan mésa sto spíti sas? Xérete oti eínai epikíndyno éxo katá ti diárkeia mias kataigídas! / Var du inte i ditt hus? du vet att det är farligt utomhus när det är åskoväder
-v1;120;Zontaná kai na máthoun. / Live and learn.
+v1;120;Zontaná kai na máthoun. / Lev och lär.
 
 newchat;key:lightningPig,weigth:1,v1:adult,v2:adult
 v1;0;Ego den aisthánomai kalá ... / Jag mår inte bra...
