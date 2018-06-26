@@ -61,7 +61,7 @@ v1;0;Thymáste tin kataigída pou eíchame? Thélo na po to pragmatiká varý! /
 v2;30;Fysiká. Schedon katastráfike synkomidí mas. I fýsi eínai arketá entyposiako, e? / Naturligtvis. Förstörde nästan våran skörd. Naturen är ganska imponerande, eh?
 v1;60;Entyposiakí eínai éna prágma. Allá ímoun schedon chtypíthike apo keravno! / Imponerande är en sak. Men jag blev nästan träffad av åskan!
 v2;100;Den ítan mésa sto spíti sas? Xérete oti eínai epikíndyno éxo katá ti diárkeia mias kataigídas! / Var du inte i ditt hus? du vet att det är farligt utomhus när det är åskoväder
-v1;120;Zontaná kai na máthoun. / Live and learn.
+v1;120;Zontaná kai na máthoun. / Lev och lär.
 
 newchat;key:lightningPig,weigth:1,v1:adult,v2:adult
 v1;0;Ego den aisthánomai kalá ... / Jag mår inte bra...
