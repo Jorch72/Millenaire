@@ -1,4 +1,4 @@
-﻿culture.byzantines=Byzantine
+﻿culture.byzantines=Bysantinsk
 
 villager.teenagerMale=Ungdom
 villager.teenagerFemale=Ungdom
