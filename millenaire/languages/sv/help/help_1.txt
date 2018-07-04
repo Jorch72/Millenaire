@@ -1,5 +1,5 @@
 ﻿version:3.4
-<darkblue>Millénaire Help
+<darkblue>Millénaire Hjälp
 
 Denna hjälp beskriver huvud funktioner från Millénaire. För mer information, kolla på wikin eller fråga i forumet minecraftforum.net.
 
