@@ -3,8 +3,8 @@ v1;0;Agapo ilióloustes méres! / Jag gillar soliga dagar!
 v2;30;Poios den échei? / Vem gör det inte?
 
 newchat;key:nicevillage,weigth:10
-v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / C'est toujours un plaisir de voir notre charmant petit village, n'est-ce pas ?
-v2;30;Fysiká, kai eínai óla lógo ton terástion prospatheión mas! / Evidemment, c'est le fruit de nos efforts !
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / Det är alltid ett nöje att se våran charmiga lilla by, visst är det?
+v2;30;Fysiká, kai eínai óla lógo ton terástion prospatheión mas! / Här har vi effekten av allt vårt hårda arbete!
 
 newchat;key:sunZombie,tag:notraining,weigth:2
 v1;0;Agapo ilióloustes méres! / Jag gillar soliga dagar!
