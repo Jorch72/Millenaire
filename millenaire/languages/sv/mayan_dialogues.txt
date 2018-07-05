@@ -293,47 +293,47 @@ v2;40;Given our situation, we need to punish those who offend our gods. Beroende
 v1;80;We can certainly not get them offended. Vi kan inte tillåta att de blir förolämpade.
 
 newchat;key:poktapok,weigth:7;
-v1;0;I love Pok-ta-Pok! Jag älskar pok-ta-pok!
-v2;40;Me too! I must say that it is one of our few fun activities here. Jag med! jag måste säga att det är en av de få roliga aktiviteter vi har.
-v1;80;It's true. It's boring...and I lost my last ball! Det är sant. Det är tråkigt...och jag har förlorat min sista boll!
+v1;0;I love Pok-ta-Pok! / Jag älskar pok-ta-pok!
+v2;40;Me too! I must say that it is one of our few fun activities here. / Jag med! jag måste säga att det är en av de få roliga aktiviteter vi har.
+v1;80;It's true. It's boring...and I lost my last ball! / Det är sant. Det är tråkigt...och jag har förlorat min sista boll!
 
 newchat;key:year,weigth:5;
-v1;0;We knew before anyone else that one year was precisely 365.2420 days. Vi visste innan någon annan att det är 365.2420 dagar på ett år.
-v2;40;We are good in all areas: mathematics, art, geography... Vi är bra i alla områden: matematik, konst, geografi...
+v1;0;We knew before anyone else that one year was precisely 365.2420 days. / Vi visste innan någon annan att det är 365.2420 dagar på ett år.
+v2;40;We are good in all areas: mathematics, art, geography... / Vi är bra i alla områden: matematik, konst, geografi...
 
 newchat;key:puja,weigth:6;
-v1;0;Did you go to pray? Gick du iväg för att be?
-v2;35;Of Course! A real Mayan must! Javisst! en redig Mayan måste!
-v1;80;Haha! Of course! What a stupid question I asked. Haha! javisst! vilken dum fråga jag frågade.
+v1;0;Did you go to pray? / Gick du iväg för att be?
+v2;35;Of Course! A real Mayan must! / Javisst! en redig Mayan måste!
+v1;80;Haha! Of course! What a stupid question I asked. / Haha! javisst! vilken dum fråga jag frågade.
 
 newchat;key:endofworld,weigth:3;
-v1;0;Our shamans and our astrologers see something. Vår schaman och våra astrologer ser något.
+v1;0;Our shamans and our astrologers see something. / Vår schaman och våra astrologer ser något.
 v2;40;Oh really? What? Verkligen? vad?
-v1;80;They see an important event in the year 2012. De ser något viktig händelse som kommer att inträffa 2012.
-v2;120;You do not think they are planning a little too far ahead? Du tycker inte att de planerar lite för långt fram?
+v1;80;They see an important event in the year 2012. / De ser något viktig händelse som kommer att inträffa 2012.
+v2;120;You do not think they are planning a little too far ahead? / Du tycker inte att de planerar lite för långt fram?
 
 newchat;key:xaire,weigth:3;
 v1;0;Xaire, $targetfirstname!
-v2;30;"Xaire? What's ""xaire""?" Xaire? vad betyder ""xaire""?
-v1;70;A Byzantine greeted me this way. En bysantin hälsade mig på detta sättet.
-v2;110;Come on. You are mayan. Let's greet ourselves in our language. kom igen. du är en maya. Du kan åtminstonde hälsa på oss i vårt eget språk.
-v1;150;A real mayan must have knowledge in all areas. En redig Maya måste ha kunskaper inom alla områden.
-v2;200;I grant you that it is good to be able to speak several languages, but you will not talk that way in the village! Jag håller med dig att det är bra att kunna prata flera olika språk, men du ska inte prata så i byn! 
+v2;30;"Xaire? What's ""xaire""?" Xaire? / vad betyder ""xaire""?
+v1;70;A Byzantine greeted me this way. / En bysantin hälsade mig på detta sättet.
+v2;110;Come on. You are mayan. Let's greet ourselves in our language. / kom igen. du är en maya. Du kan åtminstonde hälsa på oss i vårt eget språk.
+v1;150;A real mayan must have knowledge in all areas. / En redig Maya måste ha kunskaper inom alla områden.
+v2;200;I grant you that it is good to be able to speak several languages, but you will not talk that way in the village! / Jag håller med dig att det är bra att kunna prata flera olika språk, men du ska inte prata så i byn! 
 
 newchat;key:bloodbis,v1:adult,v2:adult,weigth:2;
-v1;0;Let's mutilate ourselves during the next prayer. Ska vi mutilera oss när vi ber nästa gång?
-v2;40;I have already done so. Not you? Det har jag redan gjort. Har inte du?
-v1;80;I-I-I prefer to keep my blood Jag föredrat att behålla mitt blod
-v2;120;And now, you're doing it again! Every time you look decided, you change your mind! Och nu, gör du ju det igen! varje gång så verkar du bestämd, men så ändrar du dig!
-v1;160;I don't want to! Jag vill inte!
-v2;200;You refuse to honour our gods?! Vägrar du att hedra gudarna?!
+v1;0;Let's mutilate ourselves during the next prayer. / Ska vi mutilera oss när vi ber nästa gång?
+v2;40;I have already done so. Not you? / Det har jag redan gjort. Har inte du?
+v1;80;I-I-I prefer to keep my blood / Jag föredrat att behålla mitt blod
+v2;120;And now, you're doing it again! Every time you look decided, you change your mind! / Och nu, gör du ju det igen! varje gång så verkar du bestämd, men så ändrar du dig!
+v1;160;I don't want to! / Jag vill inte!
+v2;200;You refuse to honour our gods?! / Vägrar du att hedra gudarna?!
  
 newchat;key:cacao,weigth:6;
-v1;0;Cocoa is healthy and delicious... Kakao är hälsosamt och gott...
-v2;40;Healthy, no doubt! But delicious, surely not! Wah is so much better. Hälsosamt, inga tvivel! men god? håller inte med. Wah är så mycket godare.
-v1;80;Cocoa is the favourite food of the gods. Eat what they offer you. Kakao är gudarnas favorit mat.
+v1;0;Cocoa is healthy and delicious... / Kakao är hälsosamt och gott...
+v2;40;Healthy, no doubt! But delicious, surely not! Wah is so much better. / Hälsosamt, inga tvivel! men god? håller inte med. Wah är så mycket godare.
+v1;80;Cocoa is the favourite food of the gods. Eat what they offer you. / Kakao är gudarnas favorit mat. Ät det de erbjuder dig.
 
 newchat;key:reborn,weigth:7;
-v1;0;What a wonderful butterfly over there. Maybe this is our friend, sacrificed four years earlier? Vilken vacker fjäril som är där. Kanske detta är våran vän, Som blev offrad för fyra år sedan?
-v2;40;I think he would be a hummingbird instead! Jag tror han är en kolibri istället!
-v1;80;We won't be the ones to know. Det kommer vi aldrig att få reda på.
+v1;0;What a wonderful butterfly over there. Maybe this is our friend, sacrificed four years earlier? / Vilken vacker fjäril som är där. Kanske detta är våran vän, Som blev offrad för fyra år sedan?
+v2;40;I think he would be a hummingbird instead! / Jag tror han är en kolibri istället!
+v1;80;We won't be the ones to know. / Det kommer vi aldrig att få reda på.
