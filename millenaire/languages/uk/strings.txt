@@ -726,47 +726,7 @@ chunk.chunkcoords = Чанк: <0>
 chunk.village = <0>
 chunk.chunkforced = Force-loaded
 
-achievementpage.name = Millionaire
-achievement.firstcontact.name = Перший контакт
-achievement.firstcontact.desc = Зустрінь поселенця
-achievement.cresus.name = Крез
-achievement.cresus.desc = Отримай негативну репутацію
-achievement.summoningwand.name = Закликання
-achievement.summoningwand.desc = Купити Жезл призову і створити з його допомогою село
-achievement.villageleader.name = Перший хлопець на селі
-achievement.villageleader.desc = Стань лідером і створи своє поселення
-achievement.thequest.name = Квест
-achievement.thequest.desc = Виконай квест, даний поселенцем
-achievement.maitreapenser.name = Гуру
-achievement.maitreapenser.desc = Зустрінь Садху або Алхіміка
-achievement.forbiddenknwoledge.name = Забуті знання
-achievement.forbiddenknwoledge.desc = Виконай дві глави Квеста створення
-achievement.puja.name = Маленький подарунок Богів
-achievement.puja.desc = Заплати вченому чоловікові для представлення Пуджі
-achievement.explorer.name = Дослідник
-achievement.explorer.desc = Досліджуй самотнє будівля
-achievement.marcopolo.name = Марко Поло
-achievement.marcopolo.desc = Завітай поселення 3х різних культур в одному світі
-achievement.magellan.name = Фернанд Магеллан
-achievement.magellan.desc = Завітай поселення всіх культур в одному світі
-achievement.selfdefense.name = Самозахист
-achievement.selfdefense.desc = Убий бандита
-achievement.pantheon.name = Пантеон
-achievement.pantheon.desc = Завітай таємничий Пантеон
 
-achievement.darkside.name = Темна сторона
-achievement.darkside.desc = Убий селюка
-achievement.scipio.name = Карфаген має бути зруйнований
-achievement.scipio.desc = зруйнували поселення Жезлом Заперечення
-achievement.attila.name = Аттіла
-achievement.attila.desc = Отримай репутацію Бича Божего в 3-х культурах
-
-achievement.cheers.name = Вип'ємо за MineCraft!
-achievement.cheers.desc = Випий алкоголь з мода Millionaire
-achievement.hired.name = Поміщик
-achievement.hired.desc = Найми роботягу
-achievement.masterfarmer.name = Фермер першу категорії
-achievement.masterfarmer.desc = зародитися культуру Millénaire
 
 
 config.pagetitle = Налаштування Millénaire

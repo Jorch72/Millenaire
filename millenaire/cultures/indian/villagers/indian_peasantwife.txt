@@ -6,6 +6,7 @@ malechild=indian_boy
 femalechild=indian_girl
 baseHeight=0.9
 model=femaleasymmetrical
+tag=seller
 
 texture=textures/entity/indian/ML_Peasant_Wife0.png
 texture=textures/entity/indian/ML_Peasant_Wife1.png

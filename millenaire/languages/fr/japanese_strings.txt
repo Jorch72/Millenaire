@@ -1,5 +1,12 @@
 culture.japanese=Japonaise
 
+village.gunji=village militaire
+village.japanese_controlled=village contrôlé
+village.japanese_customcontrolled=village contrôlé perso
+village.nogyo=village agricole
+village.seiji=village impérial
+village.trading=village commercial
+
 villager.japanese_boy=Garçon
 villager.japanese_girl=Fille
 villager.japanese_teenagermale=Jeune
@@ -18,7 +25,7 @@ villager.japanese_crafter=Artisan
 villager.japanese_armysmith=Maitre forgeron
 villager.japanese_sculptor=Sculpteur
 villager.japanese_kuge=Kuge
-villager.japanese_merchant=Marchant
+villager.japanese_merchant=Marchand
 villager.japanese_chickenfarmer=Éleveur de volaille
 villager.japanese_smith=Forgeron
 villager.japanese_fisherman=Pécheur
@@ -26,8 +33,8 @@ villager.japanese_farmer=Fermier
 villager.japanese_farmerchief=Chef fermier
 villager.japanese_farmwife=Femme du fermier
 villager.japanese_womanservant=Servante
-villager.japanese_merchant_food=Marchant de nourriture
-villager.japanese_merchant_blacksmith=Marchant d'outils
+villager.japanese_merchant_food=Marchand de nourriture
+villager.japanese_merchant_blacksmith=Marchand d'outils
 villager.japanese_bravewoman=Femme courageuse
 villager.japanese_bandit=Bandit japonais
 villager.japanese_brewer=Maître brasseur

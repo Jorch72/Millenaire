@@ -10,7 +10,7 @@ mayan_shaman.greeting=Ts'aakik tal teech. / 신은은 너를 보호해줄거야.
 
 villager.gorest=He'lel bisik na. / 휴식을 취해
 villager.gorest=Ichil chuy ti wenel beora. / 난 지금 자야해
-villager.gorest=Yaaawn. / 
+villager.gorest=Yaaawn. / *하품*
 
 villager.gopray=Pixan taka gnat ichil k'a'am hoch. / 신은 우리에게 많은 수확물을 가져다줄거야
 villager.gopray=Pixan an gnat. / 영혼은 우리를 도와주고있어

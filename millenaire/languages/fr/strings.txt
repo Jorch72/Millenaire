@@ -7,6 +7,10 @@ startup.bonus=Contenu bonus activé.
 startup.devmode1=Le mode développeur est activé. Ce mode est conçu pour tester Millénaire, pas pour jouer.
 startup.devmode2=Pour le désactiver, allez dans millenaire-custom/ et retirez la ligne "devmode".
 
+startup.outdatedversion=Vous utilisez la version <0> de Millénaire. La version <1> est disponible, avec comme changements : <2>. Vous pouvez la télécharger sur www.millenaire.org.
+startup.outdatedversiondev=Vous utilisez la version de test <0> de Millénaire. La version de test <1> est disponible, avec comme changements : <2>. Vous pouvez la télécharger sur www.millenaire.org.
+
+
 command.nogenerate=<0> ne générera plus de nouveaux villages dans ce monde.
 command.willgenerate=<0> génère à nouveau des nouveaux villages pour ce monde.
 command.astarpathing=Pathing A* activé
@@ -16,19 +20,21 @@ command.inactive=Inactif
 command.active=Actif
 command.frozen=Figé
 command.villagelist=<4>: <0> (<1>) est à <2> mètres <3>.
+command.villagelisttranslated=<4> (<5>): <0> (<1>) est à <2> mètres <3>.
 command.villagelistkeylonebuilding=<0> est à <1> mètres <2>.
 command.facingdirection=Vous êtes façe <0>.
 command.noknowvillage=Aucun village connu à moins de deux kilomètres. Continuez de chercher!
 command.newvillagefound=Nouveau village trouvé: <0> de type <1> et de culture <2> est à <3> mètres <4>.
+command.newvillagefoundtranslated=Nouveau village trouvé: <0> de type <1> (<5>) et de culture <2> est à <3> mètres <4>.
 command.newlonebuildingfound=Nouveau bâtiment trouvé: <0> est à <1> mètres <2>.
 command.pathrebuild=La carte et le pathing de <0> ont été reconstruits.
 
-command.renamevillage_explanations=Cette commande doit avoir le nom souhaité comme premier argument et optionellement le qualificatif comme deuxième argument 
+command.renamevillage_explanations=Cette commande doit avoir le nom souhaité comme premier argument et optionellement le qualificatif comme deuxième argument
 command.renamevillage_notplayer=Cette commande ne peut être exécutée que par un admin (elle s'applique au village le plus proche)
 command.renamevillage_noclosevillage=Pas de village trouvé à moins de 50 mètres.
 command.renamevillage_notification=<0> a renommé le village <1> à <2>.
 
-command.listactivevillages_list=Le village <0> est actif. Il connaît <1> villageois (<2> dans les archives). Lors des 20 derniers ticks, il a prit <3> microsecondes pour traiter les bâtiments et <4> pour les villageois. Guardé actif par: <4>
+command.listactivevillages_list=Le village <0> est actif. Il connaît <1> villageois (<2> dans les archives). Lors des 20 derniers ticks, il a prit <3> microsecondes pour traiter les bâtiments et <4> pour les villageois. Guardé actif par: <5>
 
 
 //Text used in various UI parts, in no specific order:
@@ -134,6 +140,8 @@ ui.enchantedsword=Epée enchantée
 ui.selectabuildingproject=Choisissez un bâtiment
 ui.selectabuildingproject_custom=Reconnaître un bâtiment déjà construit par vous:
 ui.selectabuildingproject_standard=Bâtiments Millénaire à construire:
+ui.custom=Perso :
+ui.millenaireplan=Bâtiment Millénaire :
 ui.projectadded=Le projet a été ajouté à la liste
 ui.problemat=Problème à <0>: <1>
 ui.constructionforbidden=construction interdite
@@ -217,7 +225,7 @@ custombuilding.sign=panneau
 custombuilding.field=champ
 custombuilding.spawn=paille (sera détruite; indique là où apparaîtront les animaux)
 custombuilding.sapling=arbustre ou arbre
-custombuilding.stall=laine jaune (sera détruite; indique là où les marchants vendront)
+custombuilding.stall=laine jaune (sera détruite; indique là où les marchands vendront)
 custombuilding.mining=grès, pierre lisse, sable, argile ou gravier
 custombuilding.furnace=four
 custombuilding.mudbrick=brique humide
@@ -280,6 +288,8 @@ quest.cqcheckquestlistandhelp=Pressez '<0>' pour plus d'information ou pour acc�
 
 
 error.unknownitem=Nom d'object inconnu
+error.backwardtime=Le temps a reculé de <0> à <1> ! Faire reculer le temps (en utilisant "/time set" par exemple) casse les villages Millénaire.
+
 
 //Errors
 ui.updateEntity=Erreur dans TileEntityBuilding.updateEntity(). Regardez millenaire.log.
@@ -308,6 +318,7 @@ panels.notyetbuilt=Pas encore construit
 panels.nbupgradesleft=<0> améliorations restantes.
 panels.finished=terminé
 panels.houseunoccupied=Cette maison est inoccupée. Des enfants devenus jeunes adultes viendront s'installer ici et deviendront des adultes.
+panels.house=Maison
 panels.man=Homme
 panels.woman=Femme
 panels.children=Enfant
@@ -511,6 +522,18 @@ goal.makejapaneseweapons=Fabrique de l'armement japonais
 goal.cookchicken=Cuit du poulet
 goal.cooklamb=Cuit de l'agneau
 goal.cookpork=Cuit du porc
+goal.carveice=Taille de la glace
+goal.cookpotato=Cuit une pomme de terre
+goal.harvestpotatohome= Récolte les pomme de terre
+goal.makecarving=Taille une statue
+goal.packbirchsod=Prépare le sod en bouleau
+goal.packjunglesod=Prépare le sod en bois de jungle
+goal.packsprucesod=Prépare le sod en épicéa
+goal.packoaksod=Prépare le sod en chêne
+goal.packsnow=Tasse de la neige
+goal.packsnowblock=Tasse un block de neige
+goal.plantpotatohome=Plante des pomme de terre
+goal.shoveldirt=Creuse de la terre
 goal.cooksteak=Cuit du bœuf
 goal.harvestvines=Vendange
 
@@ -539,6 +562,9 @@ goal.makedirtwall=Fabrique du pisé
 
 goal.makechiseledstone=Sculpte des pierres
 goal.makestainedglass=Fabrique des vitraux
+
+goal.inspectconstruction=Inspecte une construction
+
 
 //other
 other.west=ouest
@@ -710,7 +736,7 @@ hof.frenchversion1=Aide pour la
 hof.frenchversion2=version française
 hof.wikicontributions=Contributions à la wiki
 hof.improvementsjapanese1=Améliorations des
-hof.improvementsjapanese2=villages japonais 
+hof.improvementsjapanese2=villages japonais
 hof.lonebuildings=Bâtiments isolés
 hof.obsidiantools1=Icônes des
 hof.obsidiantools2=outils d'obsidienne
@@ -728,6 +754,7 @@ hof.gradlebuild1=Nouveau
 hof.gradlebuild2=Build Gradle
 hof.112testing=Tests pour 1.12
 hof.communitywork=Communauté
+hof.development=Développement
 
 pujas.invanme=Pujas
 pujas.panditfee=Pour le pandit
@@ -822,47 +849,7 @@ chunk.village=<0>
 chunk.chunkforced=Forçé
 
 
-achievementpage.name=Millénaire
-achievement.firstcontact.name=Premier contact
-achievement.firstcontact.desc=Rencontrez un villageois
-achievement.cresus.name=Crésus
-achievement.cresus.desc=Obtenez un denier or
-achievement.summoningwand.name=Invocation
-achievement.summoningwand.desc=Achetez une baguette d’invocation et utilisez-la pour créer un village
-achievement.villageleader.name=Chef de village
-achievement.villageleader.desc=Devenez chef dans une culture et fondez un village contrôlé
-achievement.thequest.name=La Quête
-achievement.thequest.desc=Accomplissez une quête pour un villageois
-achievement.maitreapenser.name=Maître à penser
-achievement.maitreapenser.desc=Rencontrez le Sadhu ou l'Alchimiste
-achievement.forbiddenknwoledge.name=Connaissances interdites
-achievement.forbiddenknwoledge.desc=Terminez les deux chapitres de la quête de la création
-achievement.puja.name=Un peu d'aide des dieux
-achievement.puja.desc=Faites faire un puja à un pandit
-achievement.explorer.name=Explorateur
-achievement.explorer.desc=Visitez un bâtiment isolé
-achievement.marcopolo.name=Marco Polo
-achievement.marcopolo.desc=Visitez des villages de trois cultures dans un seul monde
-achievement.magellan.name=Fernand de Magellan
-achievement.magellan.desc=Visitez des villages de toutes les cultures dans un seul monde
-achievement.selfdefense.name=Légitime défense
-achievement.selfdefense.desc=Tuez un bandit
-achievement.pantheon.name=Le Panthéon
-achievement.pantheon.desc=Trouvez le mystérieux Panthéon
 
-achievement.darkside.name=Le côté obscur
-achievement.darkside.desc=Tuez un villageois
-achievement.scipio.name=Carthago delenda est
-achievement.scipio.desc=Détruisez un village avec la baguette de négation
-achievement.attila.name=Attila
-achievement.attila.desc=Atteignez la réputation "fléau de Dieu" dans trois cultures
-
-achievement.cheers.name=A la santé de Minecraft !
-achievement.cheers.desc=Buvez un alcool Millénaire
-achievement.hired.name=Main d'œuvre
-achievement.hired.desc=Embauchez un villageois
-achievement.masterfarmer.name=Maître fermier
-achievement.masterfarmer.desc=Cultivez une plante Millénaire
 
 
 config.pagetitle=Réglages Millénaire
@@ -875,13 +862,13 @@ config.page.devtools=Outils développeurs
 
 
 config.village_list_key.label=Touche liste des villages
-config.village_list_key.desc=Touche pour afficher la liste des villages environnants. Défaut: <0>.
+config.village_list_key.desc=Touche pour afficher la liste des villages environnants. Défaut : <0>.
 
 config.quest_list_key.label=Touche panneau d'information
-config.quest_list_key.desc=Touche pour afficher le panneau d'information Millénaire. Défaut: <0>.
+config.quest_list_key.desc=Touche pour afficher le panneau d'information Millénaire. Défaut : <0>.
 
 config.escort_key.label=Touche mode escortes
-config.escort_key.desc=Touche pour changer le mode des escortes (agressif ou non). Défaut: <0>.
+config.escort_key.desc=Touche pour changer le mode des escortes (agressif ou non). Défaut : <0>.
 
 config.fallback_language.label=Langue de recours
 config.fallback_language.desc=Langue de recours, pour les textes non disponibles dans la principale.
@@ -902,13 +889,13 @@ config.display_names.label=Afficher le nom des villageois
 config.display_names.desc=Afficher le nom, le métier et la tâche en cours au dessus des villageois.
 
 config.villagers_names_distance.label=Distance d'affichage des noms
-config.villagers_names_distance.desc=Distance à laquelle les noms apparaissent. Défaut: <0>.
+config.villagers_names_distance.desc=Distance à laquelle les noms apparaissent. Défaut : <0>.
 
 config.villagers_sentence_in_chat_distance_client.label=Phrases dans le chat (MJ)
-config.villagers_sentence_in_chat_distance_client.desc=Distance maximale où afficher les phrases des villageois dans le chat en multi-joueur. Défaut: <0>.
+config.villagers_sentence_in_chat_distance_client.desc=Distance maximale où afficher les phrases des villageois dans le chat en multi-joueur. Défaut : <0>.
 
 config.villagers_sentence_in_chat_distance_sp.label=Phrases dans le chat (solo)
-config.villagers_sentence_in_chat_distance_sp.desc=Distance maximale où afficher les phrases des villageois dans le chat en solo. Défaut: <0>.
+config.villagers_sentence_in_chat_distance_sp.desc=Distance maximale où afficher les phrases des villageois dans le chat en solo. Défaut : <0>.
 
 config.generate_villages.label=Générer des villages
 config.generate_villages.desc=Générer des villages Millénaire dans les nouveaux tronçons.
@@ -917,40 +904,49 @@ config.generate_lone_buildings.label=Générer des bâtiments
 config.generate_lone_buildings.desc=Générer des bâtiments isolés dans les nouveaux tronçons.
 
 config.keep_active_radius.label=Rayon de chargement des tronçons
-config.keep_active_radius.desc=Rayon autour du joueur dans lequel Millénaire essayera de garder les tronçons chargés. Défaut: <0>.
+config.keep_active_radius.desc=Rayon autour du joueur dans lequel Millénaire essayera de garder les tronçons chargés. Défaut : <0>.
 
 config.min_village_distance.label=Distance min entre villages
-config.min_village_distance.desc=Distance minimale entre deux villages générés. Défaut: <0>.
+config.min_village_distance.desc=Distance minimale entre deux villages générés. Défaut : <0>.
 
 config.min_village_lonebuilding_distance.label=Distance min villages/bâtiments
-config.min_village_lonebuilding_distance.desc=Distance minimale entre villages et bâtiments isolés générés. Défaut: <0>.
+config.min_village_lonebuilding_distance.desc=Distance minimale entre villages et bâtiments isolés générés. Défaut : <0>.
 
 config.min_lonebuilding_distance.label=Distance min entre bâtiments
-config.min_lonebuilding_distance.desc=Distance minimale entre deux bâtiments isolés générés. Défaut: <0>.
+config.min_lonebuilding_distance.desc=Distance minimale entre deux bâtiments isolés générés. Défaut : <0>.
 
 config.spawn_protection_radius.label=Rayon de protection spawn
-config.spawn_protection_radius.desc=Rayon autour du point d'apparition dans lequel Millénaire ne génère rien. Défaut: <0>.
+config.spawn_protection_radius.desc=Rayon autour du point d'apparition dans lequel Millénaire ne génère rien. Défaut : <0>.
+
+config.village_spawn_completion_max_percentage.label=Progrès initial maximum
+config.village_spawn_completion_max_percentage.desc=Progrès initial maximum (en %) qu'un village peut avoir si éloigné du point d'apparition. Défaut : <0>.
+
+config.village_spawn_completion_min_distance.label=Distance minimum pour progrès
+config.village_spawn_completion_min_distance.desc=Distance minimum du point d'apparition à partir de laquelle les villages peuvent avoir un progrès initial. Défaut : <0>.
+
+config.village_spawn_completion_max_distance.label=Distance maximum pour progrès
+config.village_spawn_completion_max_distance.desc=Distance du point d'apparition à partir de laquelle les villages peuvent avoir le progrès initial maximum. Défaut : <0>.
 
 config.village_radius.label=Rayon des villages
-config.village_radius.desc=Rayon des villages normaux (pas des hameaux). Défaut: <0>.
+config.village_radius.desc=Rayon des villages normaux (pas des hameaux). Défaut : <0>.
 
 config.min_distance_between_buildings.label=Distance min entre bâtiments
-config.min_distance_between_buildings.desc=Distance minimale entre deux bâtiments d'un village. Défaut: <0>.
+config.min_distance_between_buildings.desc=Distance minimale entre deux bâtiments d'un village. Défaut : <0>.
 
 config.village_paths.label=Construire des chemins de village
 config.village_paths.desc=Générer les chemins dans les nouveaux villages et les faire mettre à jour par les villageois.
 
 config.max_children_number.label=Nombre max d'enfants
-config.max_children_number.desc=Nombre maximal d'enfants dans un village. Défaut: <0>.
+config.max_children_number.desc=Nombre maximal d'enfants dans un village. Défaut : <0>.
 
 config.background_radius.label=Rayon relations des villages
-config.background_radius.desc=Rayon dans lequel les villages ont des relations (diplomacie, commerce, raids). Défaut: <0>. 
+config.background_radius.desc=Rayon dans lequel les villages ont des relations (diplomacie, commerce, raids). Défaut : <0>.
 
 config.bandit_raid_radius.label=Rayon raid de bandits
-config.bandit_raid_radius.desc=Rayon dans lequel les bandits attaquent les villages. Défaut: <0>.
+config.bandit_raid_radius.desc=Rayon dans lequel les bandits attaquent les villages. Défaut : <0>.
 
 config.raiding_rate.label=Chance de raid en %
-config.raiding_rate.desc=Chance sur 100 qu'un village ou bâtiment de bandits tente un raid chaque nuit. Défaut: <0>.
+config.raiding_rate.desc=Chance sur 100 qu'un village ou bâtiment de bandits tente un raid chaque nuit. Défaut : <0>.
 
 config.generate_colour_chart.label=Générer l'échantillon des couleurs
 config.generate_colour_chart.desc=Générer l'échantillon des couleurs utilisables dans les plans de bâtiments.
@@ -983,8 +979,9 @@ config.page.system.desc=Réglages concernant le fonctionement de Millénaire
 config.send_statistics.label=Envoie de statistiques
 config.send_statistics.desc=Autoriser l'envoie de statistiques anonymes à Millénaire (version, langue...).
 
+config.send_advancement_login.label=Page Progrès
+config.send_advancement_login.desc=Autoriser l'envoie de votre login Minecraft à Millénaire, pour pouvoir afficher vos progrès sur millenaire.org.
 
-send_statistics
 
 tradehelp.title=<0> - Commerce
 tradehelp.goodssold=Marchandises vendues
@@ -1024,7 +1021,7 @@ tradehelp.normantimberframes=Les charpentiers normands produisent ces colombages
 tradehelp.normanwheat=Les villageois normands fabriquent du pain et nourrissent leur bétail avec du blé.
 
 tradehelp.byzantinetools=Les forgerons byzantins utilisent du fer et du cuir pour produire des outils en fer et des armures byzantines.
-tradehelp.byzantinefeta=Les byzantins produisent de la feta dans les élevages de moutons. Ces fromages guérissent le joueur et aident les villageois à avoir des enfants. 
+tradehelp.byzantinefeta=Les byzantins produisent de la feta dans les élevages de moutons. Ces fromages guérissent le joueur et aident les villageois à avoir des enfants.
 tradehelp.byzantinebooks=Les byzantines produisent des livres à partir de bois et de cuir.
 tradehelp.byzantinewine=Les byzantins produisent du vin à partir de raisin dans les tavernes. Le vin guérit et regénère le joueur et aide les villageois à avoir des enfants. Il donne également un bonus "Résistance" temporaire.
 tradehelp.byzantinesilk=Les byzantins produisent de la soie et s'en servent pour fabriquer des peintures, des icônes et des vêtements luxueux pour les byzantins riches.

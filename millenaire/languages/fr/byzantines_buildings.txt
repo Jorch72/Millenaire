@@ -61,3 +61,12 @@ lonecastle_a_praying_a0=Salle de prières
 
 gifthouse_a0=Maison bonus
 playersmallhouse_a0=Petite maison
+
+crossbyzantine_a0=Calvaire
+parkbyzantine_a0=Bouleau
+parkbyzantine_b0=Chêne
+parkbyzantine_c0=Chêne
+parkbyzantine_d0=Parc
+shrinebyzantine_a0=Chapelle
+wellbyzantine_a0=Puit
+wellbyzantine_b0=Puit

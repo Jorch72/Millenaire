@@ -1,5 +1,13 @@
 culture.indian=Indian
 
+village.indian_agricole_hamlet=agricultural hamlet
+village.indian_agricole=agricultural village
+village.indian_controlled=controlled village
+village.indian_customcontrolled=custom controlled village
+village.indian_fort_hamlet=military hamlet
+village.indian_fort=fort
+village.indian_palace=palace
+
 villager.indian_boy=Boy
 villager.indian_girl=Girl
 villager.indian_teenagerMale=Youth
@@ -33,3 +41,4 @@ shop.forge=Tools
 shop.armyforge=Armours & weapons
 shop.adivasifarm=Adivasi products
 shop.deserttradeoutpost=Precious merchandise
+shop.sculptor=Purchases stone

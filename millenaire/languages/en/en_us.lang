@@ -41,7 +41,6 @@ item.millenaire.normanboots.name=Norman Boots
 item.millenaire.rice.name=Rice
 item.millenaire.turmeric.name=Turmeric
 item.millenaire.vegcurry.name=Vegetarian Curry
-item.millenaire.chickenmeat.name=Raw Chicken
 item.millenaire.chickencurry.name=Murgh Curry
 item.millenaire.brickmould.name=Brick Mould
 item.millenaire.rasgulla.name=Rasgulla
@@ -149,12 +148,12 @@ item.millenaire.byzantineplate.name=Byzantine Chestplate
 item.millenaire.byzantinehelmet.name=Byzantine Helmet
 item.millenaire.byzantinemace.name=Byzantine Mace
 item.millenaire.feta.name=Feta
-item.millenaire.winebasic.name=Vin
+item.millenaire.winebasic.name=Wine
 item.millenaire.clothes_byz_wool.name=Wool Byzantine clothes
 item.millenaire.clothes_byz_silk.name=Silk Byzantine clothes
 
 item.millenaire.souvlaki.name=Souvlaki
-item.millenaire.purse.name=Bourse à deniers
+item.millenaire.purse.name=Deniers Pouch
 
 item.millenaire.mayanquestcrown.name=Mayan Crown
 
@@ -181,6 +180,103 @@ tile.millenaire.treespawn.name=Tree Spawn Point
 tile.millenaire.soil.name=Plant Soil Block
 tile.millenaire.decorblock.name=Wall Decoration Block
 
+item.millenaire.bearmeat_raw.name=Raw Bear Meat
+item.millenaire.bearmeat_cooked.name=Bear Steak
 
-achievement.indian_food=A Spicy Taste
-achievement.indian_food.desc=Get rice or turmeric
+advancements.firstcontact.name=Millénaire
+advancements.firstcontact.desc=Meet a Millénaire villager
+advancements.cresus.name=Millénaire Millionaire
+advancements.cresus.desc=Earn a denier or
+advancements.summoningwand.name=Summoning
+advancements.summoningwand.desc=Buy a Wand of Summoning and generate a village with it
+advancements.thequest.name=The Quest
+advancements.thequest.desc=Complete a quest given by a villager
+advancements.maitreapenser.name=Maître à penser
+advancements.maitreapenser.desc=Meet the Sadhu or the Alchemist
+advancements.explorer.name=Explorer
+advancements.explorer.desc=Explore a lone building
+advancements.marcopolo.name=Marco Polo
+advancements.marcopolo.desc=Visit villages of three cultures in the same world
+advancements.magellan.name=Fernand de Magellan
+advancements.magellan.desc=Visit villages of all cultures in the same world
+advancements.selfdefense.name=Self-defense
+advancements.selfdefense.desc=Kill a bandit
+advancements.pantheon.name=The Panthéon
+advancements.pantheon.desc=Visit the mysterious Panthéon
+
+advancements.darkside.name=The dark side
+advancements.darkside.desc=Kill a villager
+advancements.scipio.name=Carthago delenda est
+advancements.scipio.desc=Destroy a village with the Negation Wand
+advancements.attila.name=Attila
+advancements.attila.desc=Gain the "Scourge of God" reputation in three cultures
+
+advancements.cheers.name=Three cheers for Minecraft!
+advancements.cheers.desc=Drink a Millénaire alcohol
+advancements.hired.name=Hired hand
+advancements.hired.desc=Hire a villager
+advancements.masterfarmer.name=Expert farmer
+advancements.masterfarmer.desc=Plant a Millénaire crop
+
+advancements.friendindeed.name=A friend indeed
+advancements.friendindeed.desc=Reach "friend of the village" reputation in a village
+
+advancements.rep_norman.name=Amis pour la vie
+advancements.rep_norman.desc=Reach "one of us" reputation in a Norman village
+advancements.rep_indian.name=Village Bhai
+advancements.rep_indian.desc=Reach "one of us" reputation in an Indian village
+advancements.rep_mayan.name=Sacred Bonds
+advancements.rep_mayan.desc=Reach "one of us" reputation in a Mayan village
+advancements.rep_japanese.name=Konichiwa
+advancements.rep_japanese.desc=Reach "one of us" reputation in a Japanese village
+advancements.rep_byzantines.name=Greetings, Roman!
+advancements.rep_byzantines.desc=Reach "one of us" reputation in a Byzantine village
+
+advancements.complete_norman.name=Norman Complete
+advancements.complete_norman.desc=Help a Norman village where you are at least "one of us" complete all its buildings
+advancements.complete_indian.name=Maharchitect
+advancements.complete_indian.desc=Help an Indian village where you are at least "one of us" complete all its buildings
+advancements.complete_mayan.name=Top Knot Administrator
+advancements.complete_mayan.desc=Help a Mayan village where you are at least "one of us" complete all its buildings
+advancements.complete_japanese.name=Rising Sun
+advancements.complete_japanese.desc=Help a Japanese village where you are at least "one of us" complete all its buildings
+advancements.complete_byzantines.name=New New Rome
+advancements.complete_byzantines.desc=Help a Byzantine village where you are at least "one of us" complete all its buildings
+
+advancements.leader_norman.name=Sa Majesté Steve
+advancements.leader_norman.desc=Become a Norman leader and create a controlled Norman village
+advancements.leader_indian.name=Tiny Maharaja
+advancements.leader_indian.desc=Become an Indian leader and create a controlled Indian village
+advancements.leader_mayan.name=Village God-King
+advancements.leader_mayan.desc=Become a Mayan leader and create a controlled Mayan village
+advancements.leader_japanese.name=Dandelion Throne
+advancements.leader_japanese.desc=Become a Japanese leader and create a controlled Japanese village
+advancements.leader_byzantines.name=Born Outside Purple
+advancements.leader_byzantines.desc=Become a Byzantine leader and create a controlled Byzantine village
+
+
+advancements.wq_norman.name=Big Bang
+advancements.wq_norman.desc=Complete the "Alchemist" chapter of the Creation Quest
+advancements.wq_indian.name=Forbidden Knowledge
+advancements.wq_indian.desc=Complete the "Sadhu" chapter of the Creation Quest
+advancements.wq_mayan.name=Godly Crown
+advancements.wq_mayan.desc=Complete the "Fallen King" chapter of the Creation Quest
+
+advancements.puja.name=A little help from the Gods
+advancements.puja.desc=Pay a pandit to perform a puja
+advancements.sacrifice.name=Blood for Hungry Gods
+advancements.sacrifice.desc=Pay a shaman to perform a sacrifice
+
+advancements.viking.name=Return of the Vikings
+advancements.viking.desc=Have a village you control successfully carry out a raid
+
+advancements.mp_weapon.name=Exotic Warrior
+advancements.mp_weapon.desc=Use a Millénaire mélée weapon on another player
+advancements.mp_hiredgoon.name=Hitman
+advancements.mp_hiredgoon.desc=Hire a villager and have him attack another player
+advancements.mp_raidonplayer.name=All your base are belong to me
+advancements.mp_raidonplayer.desc=Have a village you control successfully raid another controlled village
+advancements.mp_friendlyvillage.name=Utopia
+advancements.mp_friendlyvillage.desc=Be "friend of the village" in a village with at least three other "friends of the village"
+advancements.mp_neighbourtrade.name=Side Income
+advancements.mp_neighbourtrade.desc=Have another player trade with a village you control

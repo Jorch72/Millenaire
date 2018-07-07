@@ -29,8 +29,8 @@ Mineur : Mijnwerker. Woont en werkt in een groeve, waar hij onvermoeibaar zand e
 
 Charpentier : Timmerman. Woont en werkt in een timmermans huis, waar hij houten frames maakt voor gebruik bij het bouwen.
 
-Marchant : Handelaar. Gaat van herberg naar herberg, en handelt goederen tusen dorpen. Het is zijn lot om te zwerven voor het goede van dorpelingen.
+Marchand : Handelaar. Gaat van herberg naar herberg, en handelt goederen tusen dorpen. Het is zijn lot om te zwerven voor het goede van dorpelingen.
 
-Marchant étranger : Buitenlandse handelaar. Handelaren van ver weg zullen markten bezoeken om hun exotische goederen te verkopen, voordat ze er vandoor gaan met je hard verdiende geld.
+Marchand étranger : Buitenlandse handelaar. Handelaren van ver weg zullen markten bezoeken om hun exotische goederen te verkopen, voordat ze er vandoor gaan met je hard verdiende geld.
 
 Garçon / fille : Jongen en meisje. Wonen bij hun ouders en groeien s'nachts, totdat ze groot genoeg zijn om te verhuizen en volwassen te worden.

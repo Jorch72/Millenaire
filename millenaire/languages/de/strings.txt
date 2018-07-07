@@ -766,47 +766,7 @@ chunk.chunkcoords=Chunk: <0>
 chunk.village=<0>
 chunk.chunkforced=Geladen halten erzwingen
 
-achievementpage.name=Millénaire
-achievement.firstcontact.name=Erster Kontakt
-achievement.firstcontact.desc=Treffe einen Dorfbewohner
-achievement.cresus.name=Krösus
-achievement.cresus.desc=Verdiene einen Denier Or
-achievement.summoningwand.name=Beschwörung
-achievement.summoningwand.desc=Kaufe einen Beschwörungsstab und erschaffe ein Dorf mit ihm.
-achievement.villageleader.name=Dorf Oberhaupt
-achievement.villageleader.desc=Werde ein Dorf Oberhaupt einer Kultur und erstelle ein von Dir Kontrolliertes Dorf
-achievement.thequest.name=Die Quest
-achievement.thequest.desc=Beende eine Quest, die Dir ein Dorfbewohner aufgetragen hat
-achievement.maitreapenser.name=Mentor
-achievement.maitreapenser.desc=Treffe den Sadhu oder den Alchemisten
-achievement.forbiddenknwoledge.name=Verbotenes Wissen
-achievement.forbiddenknwoledge.desc=Beende die zwei Kapitel der Erschaffungsquest
-achievement.puja.name=Ein bisschen Hilfe von den Göttern
-achievement.puja.desc=Bezahle einen Pandit um ein Puja durchzuführen
-achievement.explorer.name=Entdecker
-achievement.explorer.desc=Entdecke ein alleinstehendes Gebäude
-achievement.marcopolo.name=Marco Polo
-achievement.marcopolo.desc=Besuche Dörfer von 3 Kulturen in der selben Welt
-achievement.magellan.name=Fernand de Magellan
-achievement.magellan.desc=Besuche Dörfer aller Kulturen in der selben Welt
-achievement.selfdefense.name=Selbstverteidigung
-achievement.selfdefense.desc=Töte einen Banditen
-achievement.pantheon.name=Die Ruhmeshalle
-achievement.pantheon.desc=Besuche die mysteriöse Ruhmeshalle
 
-achievement.darkside.name=Die dunkle Seite
-achievement.darkside.desc=Töte einen Dorfbewohner
-achievement.scipio.name=Carthago delenda est
-achievement.scipio.desc=Zerstöre ein Dorf mit dem Zerstörungsstab
-achievement.attila.name=Attila
-achievement.attila.desc=Erlange den Ruf "Geißel Gottes" in 3 Kulturen
-
-achievement.cheers.name=Ein dreifaches Hoch auf Minecraft!
-achievement.cheers.desc=Trinke ein alkoholisches Getränk aus Millenaire
-achievement.hired.name=Geliehenes Händchen
-achievement.hired.desc=Heuere einen Dorfbewohner an
-achievement.masterfarmer.name=Experten Landwirt
-achievement.masterfarmer.desc=Planze eine Millenaire Saat
 
 config.pagetitle=Millenaire Einstellungen
 config.page.uisettings=UI Einstellungen

@@ -24,5 +24,6 @@ goal=gosocialise
 goal=chat
 goal=gopray
 goal=goDrink
+goal=inspectconstruction
 
 baseAttackStrength=6

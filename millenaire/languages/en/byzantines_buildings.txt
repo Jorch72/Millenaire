@@ -61,3 +61,13 @@ lonecastle_a_praying_a0=Chapel
 
 gifthouse_a0=Gift House
 playersmallhouse_a0=Small House
+
+
+crossbyzantine_a0=Wayside Cross
+parkbyzantine_a0=Birch
+parkbyzantine_b0=Oak
+parkbyzantine_c0=Oak
+parkbyzantine_d0=Park
+shrinebyzantine_a0=Shrine
+wellbyzantine_a0=Well
+wellbyzantine_b0=Well

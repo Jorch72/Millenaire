@@ -29,12 +29,12 @@ newchat;key:byzantines,v1:adult,v2:adult,weigth:5
 v1;0;Ces byzantins m'énervent! / Византийцы действуют мне на нервы!
 v2;30;Oui, tu as vu comme ils nous prennent de haut? / Ты видел, какие они высокие и могучие?
 v1;60;Tout ça parce qu'ils prétendent être romains. / Всё потому-что они утверждают, что они римляне.
-v2;100;Quelle blague. Des romains dégénérés, alors. / Какая шутка. Римляне выродилась, затем.
+v2;100;Quelle blague. Des romains dégénérés, alors. / Какая шутка. Римляне выродились, затем.
 v1;130;On devrait organiser un raid chez eux. / Мы должны организовать рейд на них!
 v2;160;On est vikings après tout! / Мы викинги в конце концов!
 
 newchat;key:storm,weigth:10
-v1;0;Il y a eu un orage terrible hier. / Вчера была страшный шторм.
+v1;0;Il y a eu un orage terrible hier. / Вчера был страшный шторм.
 v2;30;Oui, j'ai cru que le toit allait s'envoler. / В самом деле, я думал, что крыша сломается.
 v1;60;Il faudrait les renforcer tous. / Мы должны укреплять их.
 
@@ -97,10 +97,10 @@ v1;110;Déjà fait hier. Et les poulets aussi. / Уже сделал, вчера
 newchat;key:paris,v1:adult,v2:adult,weigth:2
 v1;0;Quel coin paumé ici, quand même. J'aimerai voir autre chose un jour... / Что за изолированное место. Я бы хотел видеть что-то ещё однажды...
 v2;30;Les autres villages sont tous pareils. / В других деревнях всё то же самое.
-v1;60;Pas un village! Un bourg. Ou même une ville! / Не в деревнях!В Городе. Или даже в большом городе!
+v1;60;Pas un village! Un bourg. Ou même une ville! / Не в деревнях! В городе. Или даже в большом городе!
 v2;90;Quoi, comme Rouen? Tu es fou, c'est à des jours d'ici. / Как Руан? Ты с ума сошёл, эти дни отсюда.
 v1;120;Rouen... ou même... Pourquoi pas Paris? / Руан... или может быть... Почему не Париж?
-v1;150;Tu te rend compte, on dit qu'il y aurait 25 000 personnes là-bas! / Можешь ли ты представить, люди говорят, что там живут 25 000 людей!
+v1;150;Tu te rend compte, on dit qu'il y aurait 25 000 personnes là-bas! / Можешь ли ты представить, люди говорят, что там живёт 25 000 человек!
 v2;180;Tu divague, mon pauvre. 25 000 personnes au même endroit? Et où on les mettrait? / Ты сходишь с ума. 25 000 в одном месте? Где они будут ходить?
 
 newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
@@ -133,7 +133,7 @@ v1;0;Sois sage, ou l'homme des limbes t'emportera cette nuit! / Будь хор�
 v2;40;Pfff, j'ai passé l'âge de croire à ces bêtises. / Пффф, я слишком стар, чтобы верить в эту ерунду.
 
 newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
-v1;0;Alors beauté, qu'est ce que tu fais ce soir? / Красота, что ты делаешь сегодня вечером?
+v1;0;Alors beauté, qu'est ce que tu fais ce soir? / Красотка, что ты делаешь сегодня вечером?
 v2;40;$targetfirstname, je t'ai déjà dit non! / $targetfirstname, Я уже сказала тебе, нет!
 v1;60;Quel caractère! / Такой характер!
 v2;80;Quel nigaud! / Такой идиотизм!
@@ -145,13 +145,13 @@ v2;60;Et bien quoi, bel homme? / Тогда что, красавчик?
 v1;90;Tu sais bien comme elle est jalouse! / Ты знаешь, какая она ревнивая!
 v2;120;Et? Elle te fait peur? / И что? Ты испугался её?
 v1;140;Peur? Elle? Quelle blague! / Испугался? Её? Ты шутишь!
-v2;160;Ha!
+v2;160;Ha! / Ха!
 
 newchat;key:frerejacques,v1:child,v2:child,weigth:10
 v1;0;Frère Jacques, frère Jacques / Брат Джон, брат Джон
 v2;30;Dormez-vous? Dormez-vous? / Ты спишь, ты спишь?
 v1;60;Sonnez les matines! Sonnez les matines! / Звонить в колокола утром! Звонить в колокола утром!
-v2;100;Ding, daing, dong. Ding, daing, dong!
+v2;100;Ding, daing, dong. Ding, daing, dong! / Дин, дин, дон. Дин, дин, дон!
 
 
 newchat;key:alouette,v1:child,v2:child,weigth:10
@@ -221,9 +221,9 @@ v2;110;Non. / Нет.
 
 newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
 v1;0;J'adore préparer des tripes. D'abord, saigner la vache... / Я люблю готовить Рубец. Во-первых, нужно выпустить кровь корове...
-v1;40;Puis extraire les boyaux... / Затем собрать кишки ...
+v1;40;Puis extraire les boyaux... / Затем собрать кишки...
 v2;60;Arrête, tu me dégoutes! / Прекрати, ты мне противен!
-v1;80;Mais tu adores les tripes! / Но ты любишь Рубец!
+v1;80;Mais tu adores les tripes! / Но ты же любишь Рубец!
 v2;110;Et je ne veux pas savoir comment elles sont faites. / И я не хочу знать, как они сделаны.
 
 newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
@@ -241,7 +241,7 @@ v1;150;*soupir* / *взгляд*
 
 
 newchat;key:knight,v1:vtype:knight,weigth:10
-v1;0;Regarde mon château! Une vraie forteresse! / Посмотрите на мой замок!Реальная крепость!
+v1;0;Regarde mon château! Une vraie forteresse! / Посмотрите на мой замок! Реальная крепость!
 v2;30;Vous êtes si puissant, seigneur! / Вы сильный, мой Лорд!
 v1;60;Quand le Duc Guillaume reviendra, il me fera sûrement Comte! / Когда герцог Уильям вернется, он, несомненно, сделает меня графом!
 v2;100;Vive le Compte $targetfirstname! / Ура графу $targetfirstname!
@@ -268,7 +268,7 @@ v1;70;Et quels habitants charmants! / И, что за очаровательны
 newchat;key:miner,v1:vtype:merchant,weigth:10
 v1;0;J'ai composé une petite chanson, tu veux l'écouter? / Я придумал песенку, хотите послушать?
 v2;40;Vas-y! / Давай послушаем!
-v1;50;Heigh-ho, heigh-ho, heigh-ho, heigh-ho...
+v1;50;Heigh-ho, heigh-ho, heigh-ho, heigh-ho... / Хей-хо, хей-хо, хей-хо, хей-хо...
 v2;70;Ca commence bien... / Многообещающее начало...
 v1;90;Je rentre du boulot! / Это,  когда я иду с работы!
 v2;110;Et moi j'ai beaucoup à faire. / И у меня есть ещё много работы.
@@ -317,7 +317,7 @@ v1;60;Voilà! / В самом деле!
 newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
 v1;0;Pourquoi est-ce toujours les femmes qui construisent? / Почему всегда одна женщина в здание?
 v2;40;Si ça te gène, je m'occupe du prochain bâtiment. / Если это беспокоит тебя, я буду заботиться о следующем.
-v1;80;Vraiment? Tu es adorable! Alors, pour les rideaux, n'oublie pas de... / Действительно! Это так мило! Таким образом, в отношении, шторы не забудьте...
+v1;80;Vraiment? Tu es adorable! Alors, pour les rideaux, n'oublie pas de... / Действительно? Это так мило! Таким образом, в отношении, шторы не забудьте...
 v2;120;En fait non, je vais te laisser faire. / На самом деле нет, я думаю, что я позволю тебе сделать это.
 
 
@@ -349,7 +349,7 @@ v1;60;Et elle est plus grande que celle du village voisin! / И она боль�
 
 newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
 v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / Теперь у нас есть гостиница, мы можем торговать!
-v2;40;Autrement dit, les marchants de passage vont se servir dans nos resources. / Иными словами, торговцы, проходя мимо помогут сами нашим ресурсам.
+v2;40;Autrement dit, les marchands de passage vont se servir dans nos resources. / Иными словами, торговцы, проходя мимо помогут сами нашим ресурсам.
 v1;80;Tu as toujours été cynique. / Ты всегда был циничным.
 
 

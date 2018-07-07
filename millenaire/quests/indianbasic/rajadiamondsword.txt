@@ -3,7 +3,7 @@ chanceperhour:0.1
 maxsimultaneous:1
 
 step:new
-definevillager:key=startvillager,type=indian/indian_raja,forbiddenplayertag=rajadiamondsword_done
+definevillager:key=startvillager,type=indian/indian_raja,forbiddentag=rajadiamondsword_done
 definevillager:key=general,type=indian/indian_rajputgeneral,relatedto=startvillager,relation=nearbyvillage
 villager:startvillager
 rewardgood:diamondsword,1

@@ -35,9 +35,9 @@ Mineur :  Gruvarbetare. Bor och arbetar i gruvan, tröttsamt samlar in sten och 
 
 Charpentier : Snickare. Bor och arbetar i snickarens hus, Där han gör träramar att användas till att bygga med.
 
-Marchant : Köpman. Går från värdshus till värdshus, byter varor från en by till en annan. Det är hans öde att resa omkring för alla bybors skull.
+Marchand : Köpman. Går från värdshus till värdshus, byter varor från en by till en annan. Det är hans öde att resa omkring för alla bybors skull.
 
-Marchant étranger : Utländsk köpman. Köpmän från fjärran ställen som besöker marknaden för att sälja sina exotiska varor, innan han lämmnar med dina hårt tjänade deniers.
+Marchand étranger : Utländsk köpman. Köpmän från fjärran ställen som besöker marknaden för att sälja sina exotiska varor, innan han lämmnar med dina hårt tjänade deniers.
 NEW_PAGE
 Children
 

@@ -59,3 +59,12 @@ groveoakbyzantine_a0=Eichenhain
 
 lonecastle_a_training_a0=Trainingsfeld
 lonecastle_a_praying_a0=Gebetssaal
+
+
+crossbyzantine_a0Wegekreuz
+parkbyzantine_a0Birke
+parkbyzantine_b0=Eiche
+parkbyzantine_c0=Eiche
+parkbyzantine_d0=Park
+shrinebyzantine_a0Schrein
+wellbyzantine_a0Brunnen

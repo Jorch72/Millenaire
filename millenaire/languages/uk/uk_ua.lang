@@ -150,3 +150,45 @@ item.pathslabs = Шлях з плит
 item.pathsandstone = Шлях з плит пісковику
 item.pathochretiles = Шлях з охра плит
 item.pathgravelslabs = Шлях з плит і гравію
+
+
+advancements.firstcontact.name = Millénaire
+advancements.firstcontact.desc = Зустрінь поселенця
+advancements.cresus.name = Крез
+advancements.cresus.desc = Отримай негативну репутацію
+advancements.summoningwand.name = Закликання
+advancements.summoningwand.desc = Купити Жезл призову і створити з його допомогою село
+advancements.villageleader.name = Перший хлопець на селі
+advancements.villageleader.desc = Стань лідером і створи своє поселення
+advancements.thequest.name = Квест
+advancements.thequest.desc = Виконай квест, даний поселенцем
+advancements.maitreapenser.name = Гуру
+advancements.maitreapenser.desc = Зустрінь Садху або Алхіміка
+advancements.forbiddenknwoledge.name = Забуті знання
+advancements.forbiddenknwoledge.desc = Виконай дві глави Квеста створення
+advancements.puja.name = Маленький подарунок Богів
+advancements.puja.desc = Заплати вченому чоловікові для представлення Пуджі
+advancements.explorer.name = Дослідник
+advancements.explorer.desc = Досліджуй самотнє будівля
+advancements.marcopolo.name = Марко Поло
+advancements.marcopolo.desc = Завітай поселення 3х різних культур в одному світі
+advancements.magellan.name = Фернанд Магеллан
+advancements.magellan.desc = Завітай поселення всіх культур в одному світі
+advancements.selfdefense.name = Самозахист
+advancements.selfdefense.desc = Убий бандита
+advancements.pantheon.name = Пантеон
+advancements.pantheon.desc = Завітай таємничий Пантеон
+
+advancements.darkside.name = Темна сторона
+advancements.darkside.desc = Убий селюка
+advancements.scipio.name = Карфаген має бути зруйнований
+advancements.scipio.desc = зруйнували поселення Жезлом Заперечення
+advancements.attila.name = Аттіла
+advancements.attila.desc = Отримай репутацію Бича Божего в 3-х культурах
+
+advancements.cheers.name = Вип'ємо за MineCraft!
+advancements.cheers.desc = Випий алкоголь з мода Millionaire
+advancements.hired.name = Поміщик
+advancements.hired.desc = Найми роботягу
+advancements.masterfarmer.name = Фермер першу категорії
+advancements.masterfarmer.desc = зародитися культуру Millénaire

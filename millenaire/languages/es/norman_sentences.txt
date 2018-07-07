@@ -80,7 +80,7 @@ priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / Rezar es más d
 villager.calltoarms=Aux armes ! Aux armes ! / ¡A las armas!¡A las armas!
 villager.calltoarms=Montjoi Saint-Denis!
 villager.calltoarms=Tous pour un ! / ¡Todos para uno!
-villager.calltoarms=Aux armes, citoyens!
+villager.calltoarms=Aux armes, citoyens! / ¡A las armas, ciudadanos!
 
 monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / Si la vanidad no fuera un pecado, diría que mis manuscritos son los mas bellos del país.
 

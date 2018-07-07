@@ -108,7 +108,7 @@ v1;120;Ma'... Kin ma' k'áat! Kin ma' k'áat! Kin ma' k'áat! / Nei... Jeg vil i
 newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6;
 v1;0;¡Taatáa yéetel na' yaan k'aw! ¡To'on yaan léeyli'e' cho' tin otoch! / Mamma og pappa er så urettferdige! Vi må alltid rydde rommene våre!
 v2;30;¡Kurx! ¡To'on p'aax e'es yéetel k'áat hun kuxtal hach tsikbe’en! / Ja! Vi burde gjøre opprør og kreve å bli behandlet bedre!
-v1;60;¡To'on il! ¡Teech na'! / La oss kjempe! Fokuser på mor!Let's fight! Focus on Mother! 
+v1;60;¡To'on il! ¡Teech na'! / La oss kjempe! Fokuser på mor!
 
 newchat;key:japanese,v1:adult,weigth:8;
 v1;0;Eh, $taargetfirstname, il. / Hei, $targetfirstname, se på dette.
@@ -260,80 +260,3 @@ v1;0;Nahil maya antal tsíib máas chichha'an ti' lu'um. / Maya-arkitektur er de
 v2;30;Yaan yiknal túulis áaktum utia'al tuunich ka to'on beet lelo' hats'utsil. / Det er all steinen det utgjøres av som gjør det hele så skjønt.
 v1;60;Kin k'áat bahux nah utai'al tuunich to'on yaan ka beet. / Jeg lurer på hvor mange hjem av stein vi vil lage?
 v2;90;Chéen k'iin a'al, amikoo. / Bare tiden vil vise, min venn.
-
-newchat;key:cacaoyer,weigth:7;
-v1;0;Det finnes kun noen få kakaotrær her, dette stedet er usunt.
-v2;40;La oss plante noen.
-v1;80;Sier du! Kakaobønner er ekstremt dyre!
-v2;120;Ek Chuah vil hjelpe oss.
-
-newchat;key:chickenegg,weigth:5;
-v1;0;Vi har ikke nok kyllinger til ofringen.
-v2;40;Jeg tror vi gikk forbi $name. La oss spørre dem om å få kjøpt noen egg.
-v1;90;Du har rett, la oss gjøre det.
-
-newchat;key:ahmunghanan,weigth:6;
-v1;0;Takket være Ah Mun og Ghanan så er avlingene gode. Priset være dem!
-v2;30;La oss takke dem gjennom bønn.
-v1;80;Hva kan vi tilby dem?
-v2;120;Ikke vær dum! Blodet vårt, selvfølgelig.
-
-newchat;key:badweather,weigth:8;
-v1;0;Chac er sint. Det er dårlig vær.
-v2;40;Vi ber ikke nok.
-
-newchat;key:monotheisme,weigth:4;
-v1;0;Virkelig? Er $name en monoteist?
-V2;35;Det virker ikke som om religionen vår blir tatt seriøst...
-v1;75;Kom igjen, ingen slik person kan være dum nok til ikke å tro på gudene våre.
-
-newchat;key:mayangods,v1:adult,v2:adult,weigth:8;
-v1;0;Troen er vårt eneste våpen i dette merkelige stedet.
-v2;40;Med situasjonen som vi er i så må vi straffe dem som fornærmer gudene våre.
-v1;80;Vi kan absolutt ikke la dem få bli fornærmet.
-
-newchat;key:poktapok,weigth:7;
-v1;0;Jeg elsker Pok-ta-Pok!
-v2;40;Jeg også! Jeg må si at det er en av de få morsomme aktivitetene vi har her.
-v1;80;Det er sant. Det er kjedelig... og jeg mistet den siste ballen min!
-
-newchat;key:year,weigth:5;
-v1;0;Vi visste før noen annen at et år har presist 365,2420 dager.
-v2;40;Vi er gode i alle områder: matematikk, kunst, geografi...
-
-newchat;key:puja,weigth:6;
-v1;0;Gikk du for å be?
-v2;35;Selvfølgelig! En ordentlig maya må jo det!
-v1;80;Haha! Selvfølgelig! For et dumt spørsmål det var.
-
-newchat;key:endofworld,weigth:3;
-v1;0;Our shamans and our astrologers see something.
-v2;40;Oh really? What?
-v1;80;They see an important event in the year 2012.
-v2;120;You do not think they are planning a little too far ahead?
-
-newchat;key:xaire,weigth:3;
-v1;0;Xaire, $targetfirstname!
-v2;30;"Xaire?" Hva betyr "xaire"?
-v1;70;En bysantiner hilste på meg på den måten.
-v2;110;Kom igjen nå da. Du er en maya. La oss hilse på hverandre på vårt eget språk.
-v1;150;En ordentlig maya må ha kunnskap innen alle felter.
-v2;200;Jeg skal gi deg den om at det er fint å kunne snakke flere språk, men du skal ikke tale på den måten i landsbyen!
-
-newchat;key:bloodbis,v1:adult,v2:adult,weigth:2;
-v1;0;La oss maltraktere oss i løpet av den neste bønnen.
-v2;40;Jeg har allerede gjort det. Har ikke du?
-v1;80;J-j-jeg foretrekker å spare på blodet mitt...
-v2;120;Og nå gjør du det igjen! Hver gang du ser besluttet ut så ombestemmer du deg!
-v1;160;Jeg vil ikke!
-v2;200;Nekter du å ære gudene våre?!
-
-newchat;key:cacao,weigth:6;
-v1;0;Kakao er sunt og herlig...
-v2;40;Sunt, ja vel! Men herlig, det er ikke sant! Wah er så mye bedre.
-v1;80;Kakao er gudenes favorittmat. Spis det de tilbyr deg.
-
-newchat;key:reborn,weigth:7;
-v1;0;For en skjønn sommerfugl der borte. Kanskje det er vennen vår som ble ofret for fire år siden?
-v2;40;Jeg tror at han ville ha vært en kolibri i stedet!
-v1;80;Vi ville ikke vært de som visste det.

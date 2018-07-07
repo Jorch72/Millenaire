@@ -3,7 +3,7 @@ chanceperhour:0.1
 maxsimultaneous:1
 
 step:new
-definevillager:key=startvillager,type=norman/knight
+definevillager:key=startvillager,type=norman/knight,forbiddentag=knightstonedelivery_done
 definevillager:key=miner,type=norman/loneminer,relatedto=startvillager,relation=nearbyvillage
 villager:startvillager
 duration:48
@@ -20,3 +20,5 @@ requiredgood:stone,256
 rewardreputation:2*64
 rewardmoney:2*64
 penaltyreputation:2*64
+settagsuccess:startvillager,knightstonedelivery_done
+settagfailure:startvillager,knightstonedelivery_done

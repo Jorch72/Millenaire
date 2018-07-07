@@ -91,7 +91,7 @@ adivasifarmdelivery_2_description_timeup=You did not return the goods to $startv
 adivasifarmdelivery_2_listing=Deliver the goods from $peasant_villagename$ to $startvillager_villagername$'s farm, $peasant_startvillager_direction$ to the $peasant_startvillager_distance$ of $peasant_villagename$.
 
 traderdiamonds_0_label=Jewel delivery
-traderdiamonds_0_description=Namaste, $name. I have heard you are trustworthy and a friend of us Hindus, and I have a valuable delivery to make. The lovely Rani $rani_villagername$ of $rani_villagename$ has ordered priceless gems from me for some new jewellery. Would you deliver them to her palace? It's $rani_distance$ to the $rani_direction$ from here. You can keep two of the gems as a reward.
+traderdiamonds_0_description=Namaste, $name. I have heard you are trustworthy and a friend of us Indians, and I have a valuable delivery to make. The lovely Rani $rani_villagername$ of $rani_villagename$ has ordered priceless gems from me for some new jewellery. Would you deliver them to her palace? It's $rani_distance$ to the $rani_direction$ from here. You can keep two of the gems as a reward.
 traderdiamonds_0_description_success=Do not show anyone else those diamonds! I don't want them getting stolen.
 traderdiamonds_0_description_refuse=Too dangerous for you, I believe?
 traderdiamonds_1_label=Deliver diamonds

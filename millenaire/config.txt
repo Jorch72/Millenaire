@@ -74,6 +74,18 @@ min_lonebuilding_distance=600
 //Spawn Protection Radius; Area around the Spawn Point where Millénaire will not generate buildings. Default: 150.
 spawn_protection_radius=150
 
+//Progrès initial maximum; Progrès initial maximum (en %) qu'un village peut avoir si éloigné du point d'apparition. Défaut : 25.
+//Max Progress on Spawn; Maximum initial progress a village can have (in %) when generated far from the Spawn Point. Default: 25.
+village_spawn_completion_max_percentage=25
+
+//Distance minimum pour progrès; Distance minimum du point d'apparition à partir de laquelle les villages peuvent avoir un progrès initial. Défaut : 2000.
+//Minimum Distance for Progress; Minimum distance from the Spawn Point at which villages can start with some initial progress. Default: 2000.
+village_spawn_completion_min_distance=2000
+
+//Distance maximum pour progrès; Distance du point d'apparition à partir de laquelle les villages peuvent avoir le progrès initial maximum. Défaut : 10000.
+//Maximum Distance for Progress; Distance from the Spawn Point at which villages can reach the maximum initial progress. Default: 10000.
+village_spawn_completion_max_distance=10000
+
 //--------------------------------------------------------------------------------------------
 //       Réglages villages    -    Village Behaviour
 //--------------------------------------------------------------------------------------------
@@ -84,7 +96,7 @@ keep_active_radius=300
 
 //Rayon des villages; Rayon des villages normaux (pas des hameaux). Défaut: 80.
 //Radius of Villages; Radius of normal villages (not hamlets). Default: 80.
-village_radius=80
+village_radius=90
 
 //Distance min entre bâtiments; Distance minimale entre deux bâtiments d'un village. Défaut: 2.
 //Min Distance Between Buildings; Minimal distance between two buildings in a village. Default: 2.
@@ -116,7 +128,11 @@ raiding_rate=20
 
 //Envoie de statistiques; Autoriser l'envoie de statistiques anonymes à Millénaire (version, langue...).
 //Statistics; Whether to authorize the sending of anonymous statistics (version, language...) to the Millénaire.
-send_statistics=null
+send_statistics=true
+
+//Page Progrès; Autoriser l'envoie de votre login Minecraft à Millénaire, pour pouvoir afficher vos progrès sur millenaire.org.
+//Advancements Page; Whether to send your Minecraft login to the Millénaire server, to allow your advancements to be visible on millenaire.org.
+send_advancement_login=false
 
 //--------------------------------------------------------------------------------------------
 //       Outils développeurs    -    Dev Tools

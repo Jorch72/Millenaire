@@ -51,6 +51,8 @@ core:quarry
 core:paddy
 core:grove
 core:sugarplantation
+core:villagetree
+core:hindushrine
 
 //to be built after the core ones
 secondary:spicegarden

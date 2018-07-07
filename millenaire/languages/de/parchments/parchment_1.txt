@@ -52,10 +52,10 @@ Lebt und arbeitet in einer Schreinerei, wo er Fachwerke für Gebäude herstellt.
 <darkblue>Moine : Mönche
 lebt in der Abtei, wo er sorgfältig alte Bücher auf neue Pergamente kopiert. Eine Kunst, seiner Meinung nach.
 
-<darkblue>Marchant : Händler
+<darkblue>Marchand : Händler
 Geht von Gasthaus zu Gasthaus, verkauft Waren von einem Dorf zum andern. Es ist sein Job zu wandern, zum Wohle aller Dorfbewohner.
 
-<darkblue>Marchant étranger : Auswärtige Händler
+<darkblue>Marchand étranger : Auswärtige Händler
 Kaufleute aus weit entfernten Orten besuchen Märkte, um ihre exotischen Waren zu verkaufen, bevor Sie mit Ihren hart verdienten Denier wieder verschwinden.
 
 <darkred>Kinder

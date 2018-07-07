@@ -35,9 +35,9 @@ Mineur : Minatore. Vive e lavora in una cava, scavando instancabilmente pietra e
 
 Charpentier : Carpentiere. Vive e lavora nella casa del carpentiere, dove produce strutture in legno da usare nella costruzione di nuovi edifici.
 
-Marchant : Mercante. Si sposta di locanda in locanda, commerciando beni da un villaggio a un altro. Il suo destino è di errare, per il bene di tutti gli abitanti del villaggio.
+Marchand : Mercante. Si sposta di locanda in locanda, commerciando beni da un villaggio a un altro. Il suo destino è di errare, per il bene di tutti gli abitanti del villaggio.
 
-Marchant étranger : Mercante straniero. Mercanti provenienti da terre lontane faranno visita al mercato locale per vendere i loro beni esotici, prima di lasciare il villaggio con i loro deniers giustamente guadagnati.
+Marchand étranger : Mercante straniero. Mercanti provenienti da terre lontane faranno visita al mercato locale per vendere i loro beni esotici, prima di lasciare il villaggio con i loro deniers giustamente guadagnati.
 NEW_PAGE
 Bambini
 

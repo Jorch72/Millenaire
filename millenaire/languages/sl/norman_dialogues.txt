@@ -349,7 +349,7 @@ v1;60;Et elle est plus grande que celle du village voisin! / In večja kot sosed
 
 newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
 v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / Sedaj ko imamo krčmo, lahko trgujemo!
-v2;40;Autrement dit, les marchants de passage vont se servir dans nos resources. / Drugače, trgovci nam bodo pomagali z surovinami.
+v2;40;Autrement dit, les marchands de passage vont se servir dans nos resources. / Drugače, trgovci nam bodo pomagali z surovinami.
 v1;80;Tu as toujours été cynique. / Vedno si bil posmehljiv.
 
 

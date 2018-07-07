@@ -770,47 +770,7 @@ chunk.chunkcoords=Del: <0>
 chunk.village=<0>
 chunk.chunkforced=Tvangslastet
 
-achievementpage.name=Millénaire
-achievement.firstcontact.name=Første kontakt
-achievement.firstcontact.desc=Møt en landsbyboer
-achievement.cresus.name=Krøsus
-achievement.cresus.desc=Tjen en denier or
-achievement.summoningwand.name=Tilkalling
-achievement.summoningwand.desc=Kjøp en tilkallingsstav og skap en landsby med den
-achievement.villageleader.name=Landsbyleder
-achievement.villageleader.desc=Bli leder av en kultur og skap en kontrollert landsby
-achievement.thequest.name=Oppdraget
-achievement.thequest.desc=Fullfør et oppdrag gitt av en landsbyboer
-achievement.maitreapenser.name=Maître à penser
-achievement.maitreapenser.desc=Møt sadhuen eller alkymisten
-achievement.forbiddenknwoledge.name=Forbudt kunnskap
-achievement.forbiddenknwoledge.desc=Fullfør de to kapitlene til skapelsesoppdraget
-achievement.puja.name=Litt hjelp fra gudene
-achievement.puja.desc=Betal en pandit for å få utført et pudjsa
-achievement.explorer.name=Utforsker
-achievement.explorer.desc=Utforsk en enslig bygning
-achievement.marcopolo.name=Marco Polo
-achievement.marcopolo.desc=Besøk landsbyer av tre ulike kulturer innen den samme verdenen
-achievement.magellan.name=Ferdinand Magellan
-achievement.magellan.desc=Besøk landsbyer av alle de forskjellige kulturene innen den samme verdenen
-achievement.selfdefense.name=Selvforsvar
-achievement.selfdefense.desc=Drep en banditt
-achievement.pantheon.name=Panthéon-kirken
-achievement.pantheon.desc=Besøk den mystiske Panthéon-kirken
 
-achievement.darkside.name=Den mørke siden
-achievement.darkside.desc=Drep en landsbyboer
-achievement.scipio.name=Carthago delenda est
-achievement.scipio.desc=Ødelegg en landsby med negasjonsstaven
-achievement.attila.name=Attila
-achievement.attila.desc=Få "pest og plage"-omdømmet innen tre kulturer
-
-achievement.cheers.name=Tre ganger hurra for Minecraft!
-achievement.cheers.desc=Drikk en alkoholholdig Millénaire-drikk
-achievement.hired.name=Leiekar
-achievement.hired.desc=Hyr en landsbyboer
-achievement.masterfarmer.name=Ekspertbonde
-achievement.masterfarmer.desc=Plant en Millénaire-avling
 
 
 config.pagetitle=Millénaire-innstillinger

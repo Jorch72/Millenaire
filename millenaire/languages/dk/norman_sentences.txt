@@ -77,7 +77,7 @@ priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / At bede er hår
 villager.calltoarms=Aux armes ! Aux armes ! / Til våben! Til våben!
 villager.calltoarms=Montjoi Saint-Denis!
 villager.calltoarms=Tous pour un ! / Alle for 1!
-villager.calltoarms=Aux armes, citoyens!
+villager.calltoarms=Aux armes, citoyens! / Til våbnet, borgere!
 
 monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / Hvis ikke forfængelighed var en synd, ville jeg sige mine manuskrifter er de bedste i verdenen.
 

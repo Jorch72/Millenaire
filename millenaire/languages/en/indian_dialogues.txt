@@ -195,7 +195,6 @@ v1;140;Jab unke betey ki shaadi hogi, tab dono paas me honge. / When his son wil
 //जब उनके बेटे की शादी होगी, तब दोनों पास में होंगे |
 
 
-
 newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
 v1;0;Gaon ke mukhiye ne apni patni ke liye sone ke kangan laaye. / The village chief got his wife gold bracelets.
 v1;60;Par aap mere liye kuch nahi laatey... / But you've never gotten any jewellery for me...
@@ -215,8 +214,6 @@ v2;50;Gaon ke bahar ek aadmi sharaab aur moongfali bechta hai. / There is a man 
 v1;110;Sach? Maine socha tha ki gaon mein sharaab par pratibandh laga diya gaya hai. / Really? I thought it was forbidden to sell alcohol in the village!
 v2;160;Yeh kisi aur ko mat batana. / Don't tell anyone else.
 v1;200;Chalo, hum aaj shaam ko vahan jaatey hai. / Ok, let’s go there today in the evening.
-
-
 
 
 //मैने कई दिनों से शराब नही पिया है|
@@ -241,10 +238,27 @@ v1;0;Mere paas bahut saare dost hai.         / I have many friends.
 //मेरे पास बहुत सारे दोस्त हैं |
 
 
-
-
 newchat;key:childoneliner3,v1:child,v2:child,weigth:10
 v1;0;Meri maa shaam ko mujhe khelne nahi deti hai. / My mother doesn't allow me to play after dark.
 
 
 //मेरी माँ शाम को खेलने नही देती है |
+
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Namaskaar! / Hello!
+v2;50;Kya tumane dekha? / Did you see that?
+v1;100;Kya dekhoon? / See what?
+v2;150;Mainne dekha ... ek zombee! / I saw... a zombie!
+v1;200;Vaastav mein? / Really?
+v2;250;Haan! Yah bahut daraavana tha! Usane mujhe yah bhee bataaya ki yah aapako khaega! / Yes! It was so scary! It even told me that it would eat you!
+v1;300;Ahhhhh! Maan! Ek zombee mujhe khaane ja raha hai! / Ahhhhh! Mommy! A zombie is going to eat me!
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Namaskaar! / Hello!
+v2;50;Kya tumane dekha? / Did you see that?
+v1;100;Kya dekhoon? / See what?
+v2;150;Mainne dekha ... ek lata! / I saw... a creeper!
+v1;200;Vaastav mein? / Really?
+v2;250;Haan! Yah bahut daraavana tha! yah vahaan ek ped uda diya! / Yes! It was so scary! It blew up a tree over there!
+v1;300;Lekin ruko, mera pasandeeda ped vahaan par tha ... waaaaaaa / But wait, my favorite tree was over there... WAAAAAAAA

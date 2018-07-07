@@ -34,6 +34,8 @@ core:well
 core:tank
 core:playersmallhouse
 core:playerestate
+core:villagetree
+core:hindushrine
 
 //Custom
 customBuilding:custom_peasanthouse

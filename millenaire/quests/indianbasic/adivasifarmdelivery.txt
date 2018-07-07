@@ -3,7 +3,7 @@ chanceperhour:0.1
 maxsimultaneous:1
 
 step:new
-definevillager:key=startvillager,type=indian/indian_adivasipeasant
+definevillager:key=startvillager,type=indian/indian_adivasipeasant,forbiddentag=adivasifarm_done
 definevillager:key=peasant,type=indian/indian_peasant,relatedto=startvillager,relation=nearbyvillage
 villager:startvillager
 duration:48
@@ -27,3 +27,5 @@ requiredgood:rasgulla,8
 rewardreputation:2*64
 rewardmoney:2*64
 penaltyreputation:2*64
+settagsuccess:startvillager,adivasifarm_done
+settagfailure:startvillager,adivasifarm_done

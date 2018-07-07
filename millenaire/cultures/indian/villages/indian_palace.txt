@@ -51,12 +51,13 @@ player:gifthouse
 core:largepeasanthouse
 core:quarry
 core:paddy
-
+core:hindushrine
 
 //to be built after the core ones
 secondary:quarry
 secondary:archives
 secondary:soldierhouse
+secondary:villagetree
 
 //never for this type of village
 never:pandithouse

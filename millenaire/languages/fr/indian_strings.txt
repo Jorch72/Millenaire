@@ -1,5 +1,13 @@
 culture.indian=Indienne
 
+village.indian_agricole_hamlet=hameau agricole
+village.indian_agricole=village agricole
+village.indian_controlled=village contrôlé
+village.indian_customcontrolled=village contrôlé perso
+village.indian_fort_hamlet=hameau militaire
+village.indian_fort=fort
+village.indian_palace=palais
+
 villager.indian_boy=Garçon
 villager.indian_girl=Fille
 villager.indian_teenagerMale=Jeune
@@ -19,8 +27,8 @@ villager.indian_sculptor=Sculteur
 villager.indian_panditayin=Femme du prêtre
 villager.indian_raja=
 villager.indian_rani=
-villager.indian_merchant=Marchant
-villager.indian_lonetrader=Marchant isolé
+villager.indian_merchant=Marchand
+villager.indian_lonetrader=Marchand isolé
 villager.indian_adivasipeasant=Paysan adivasi
 villager.indian_adivasipeasantwife=Paysanne adivasi
 villager.indian_sadhu=
@@ -33,3 +41,4 @@ shop.forge=Outils
 shop.armyforge=Armes & armures
 shop.adivasifarm=Produits adivasi
 shop.deserttradeoutpost=Marchandises précieuses
+shop.sculptor=Achat de pierre

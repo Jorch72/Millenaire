@@ -8,6 +8,7 @@ biome:Taiga
 biome:TaigaHills
 biome:Extreme Hills
 biome:Extreme Hills M
+biome:River
 
 //biomes o'plenty
 biome:coniferous forest

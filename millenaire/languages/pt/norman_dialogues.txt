@@ -349,7 +349,7 @@ v1;60;Et elle est plus grande que celle du village voisin! / E é maior do que a
 
 newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
 v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / Agora que temos uma albergaria, podemos negociar!
-v2;40;Autrement dit, les marchants de passage vont se servir dans nos resources. / Ou seja, os comerciantes vão passar por aqui e apropriar-se dos nossos bens.
+v2;40;Autrement dit, les marchands de passage vont se servir dans nos resources. / Ou seja, os comerciantes vão passar por aqui e apropriar-se dos nossos bens.
 v1;80;Tu as toujours été cynique. / És sempre tão cínico.
 
 

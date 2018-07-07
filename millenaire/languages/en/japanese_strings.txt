@@ -1,5 +1,12 @@
 culture.japanese=Japanese
 
+village.gunji=military village
+village.japanese_controlled=controlled village
+village.japanese_customcontrolled=custom controlled village
+village.nogyo=agricultural village
+village.seiji=imperial village
+village.trading=trading village
+
 villager.japanese_boy=Boy
 villager.japanese_girl=Girl
 villager.japanese_teenagermale=Youth

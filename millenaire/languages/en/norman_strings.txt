@@ -1,5 +1,17 @@
 culture.norman=Norman
 
+village.agricole=agricultural village
+village.artisans=artisan village
+village.bourg_autonome=autonomous town
+village.controlled=controlled village
+village.customcontrolled=custom controlled village
+village.ecclesiastique=ecclesiastic village
+village.militaire=military village
+village.grosbourg=town
+village.hameau_abbatiale=abbatial hamlet
+village.hameau_agricole=agricultural hamlet
+village.hameau_artisans=artisan hamlet
+
 //Norman:
 villager.abbot=Abbot
 villager.carpenter=Carpenter

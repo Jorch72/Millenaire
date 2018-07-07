@@ -1,0 +1,73 @@
+quarrybyzantine_A0=Kamieniolom
+grovebyzantine_A0=Zagajnik
+testfarm_A0=Farma
+testfarm_A_backerei_A0=Mlyn
+churchbyzantine_A0=Plac budowy kosciola
+churchbyzantine_A9=Cerkiew prawoslawna
+churchbyzantine_A_altar_A0=Oltarz
+artisanbyzantine_A0=Dom artysty
+workshopbyzantine_A0=Warsztat
+ancienttemplebyzantine_A0=Antyczna Swiatynia
+ancienttheatrebyzantine_A0=Antyczny Teatr
+bakerybyzantine_A0=Piekarnia
+placebyzantine_A0=Ratusz
+fortbyzantine_A0=Fort
+forgebyzantine_A0=Kuznia
+villa urbana_A0=Villa Urbana
+tavernbyzantine_A0=Tawerna
+bakerybyzantine_A0=Piekarnia
+fisherbyzantine_A0=Chata rybaka
+lumberbyzantine_A0=Chata drwala
+watchtowerbyzantine_A0=Wieza straznicza
+chapelbyzantine_A0=Kaplica
+farmbyzantine_A0=Farma
+sheepbyzantine_A0=Farma owiec
+playerfortbyzantine_A0=Fort
+innbyzantine_A0=Karczma
+guesthousebyzantine_A0=Pensjonat
+basilkabyzantine_A0=Targ
+barracksbyzantine_A0=Koszary
+barracksbyzantine_A_bed_A0=Sypialnia koszar
+presbyterybyzantine_A0=Prezbiterium
+fortbyzantine_A_forge_A0=Kuznia
+playerfortbyzantine_A_forge_A0=Kuznia
+well_A0=Studnia
+
+oaktower_A0=Wieza straznicza
+birchtower_A0=Wieza straznicza
+pinetower_A0=Wieza straznicza
+jungletower_A0=Wieza straznicza
+
+placebyzantine_a_basilica_a0=Forum
+vineyardbyzantine_a0=Winnica
+grovebirchbyzantine_a0=Brzozowy zagajnik
+silkfarmbyzantine_a0=Farma jedwabiu
+playerfortbyzantine_a_bed3_a0=Sypialnia fortu
+fortbyzantine_a_bed3_a0=Sypialnia fortu
+playerfortbyzantine_a_bed2_a0=Sypialnia fortu
+fortbyzantine_a_bed1_a0=Sypialnia fortu
+playerfortbyzantine_a_bed1_a0=Sypialnia fortu
+fortbyzantine_a_bed2_a0=Sypialnia fortu
+lighthouse_a0=Latarnia morska
+architectbyzantine_a0=Studio architekta
+lonecastle_a_living_a0=Samotna sypialnia fortu
+lonecastle_a0=Samotny fort
+lonesheepfarm_a0=Samotna farma owiec
+lonesheepfarm_b0=Samotna farma owiec
+groveoakbyzantine_a0=Debowy zagajnik
+
+lonecastle_a_training_a0=Plac cwiczebny
+lonecastle_a_praying_a0=Kaplica
+
+gifthouse_a0=Dom - Prezent
+playersmallhouse_a0=Maly dom
+
+
+crossbyzantine_a0=Przydrozny krzyz
+parkbyzantine_a0=Brzoza
+parkbyzantine_b0=Dab
+parkbyzantine_c0=Dab
+parkbyzantine_d0=Park
+shrinebyzantine_a0=Miejsce kultu
+wellbyzantine_a0=Studnia
+wellbyzantine_b0=Studnia

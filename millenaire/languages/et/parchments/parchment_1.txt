@@ -35,9 +35,9 @@ Dissler : Dissler. Elab ja töötab töökojas, kus ta teeb puitraame mida kasut
 
 Moine : Munk. elab kloostris, kus ta raskustega kopeerib vana raamatuid uutele pärgamentidele. See on kunst tema arvates.
 
-Marchant : Kaupmees. Käib baaridest baaridesse, vahetab kaupa külast külla. See on tema töö liikuda ringi külaelanike hüvanguks.
+Marchand : Kaupmees. Käib baaridest baaridesse, vahetab kaupa külast külla. See on tema töö liikuda ringi külaelanike hüvanguks.
 
-Marchant étranger : Võõr kaupmees. Kaupmehed kaugetest kohtadest külastavad turge et müüa eksootilist kaupa, enne kui nad lahkuvad raskelt teenidud denaaridega.
+Marchand étranger : Võõr kaupmees. Kaupmehed kaugetest kohtadest külastavad turge et müüa eksootilist kaupa, enne kui nad lahkuvad raskelt teenidud denaaridega.
 NEW_PAGE
 Lapsed
 

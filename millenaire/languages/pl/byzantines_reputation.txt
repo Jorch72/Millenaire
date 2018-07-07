@@ -1,0 +1,10 @@
+0;Obcy;Jako handlarze musimy akceptowac wszystkich. Ale nie musimy im ufac.
+4*64;Znana twarz;Ostatnio jestes czesto widziany na rzymskich terenach.
+16*64;Regularny gosc;Xaire, $name! Milo Cie widziec. Co tam?
+64*64;Ulubiony handlarz;Wszyscy tutaj ciesza sie, ze Cie widza. Masz cos na handel z nami?
+2*64*64;Przyjaciel wioski;Jestes czescia naszej wioski $name, teraz Ci ufamy!
+8*64*64;Jeden z nas;Uznajemy Cie teraz za rzymskiego obywatela, $name. Moze nie urodziles sie jednym z nas, ale teraz mozesz byc dumny nazywajac siebie prawdziwym Rzymianinem.
+32*64*64;Naturalny przywodca;$name, zyskales zaufanie i respekt Bizantyjczykow. Oni pojda za Toba wszedzie.
+-64;Nieznosny;Nie jestes dobry, $name. Uwazaj, gdzie stapasz.
+-4*64;Nielubiany obcy;Akceptujemy handlarzy, ale nie ludzi takich jak ty. Miej sie na bacznosci.
+-16*64;Wrog publiczny;To bylo ponizajace dla calego Imperium Rzymskiego pozostawic Cie zywym. Jesli dalej cieszysz sie zyciem, opusc tereny Rzymu i nigdy nie wracaj.

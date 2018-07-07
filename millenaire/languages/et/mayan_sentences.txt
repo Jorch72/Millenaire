@@ -10,7 +10,7 @@ mayan_shaman.greeting=Ts'aakik tal teech. / Vaimud kaitsevad sind.
 
 villager.gorest=He'lel bisik na. / Uni võttab üle.
 villager.gorest=Ichil chuy ti wenel beora. / Ma pean magama nüüd.
-villager.gorest=Yaaawn. / 
+villager.gorest=Yaaawn. / *haigutama*
 
 villager.gopray=Pixan taka gnat ichil k'a'am hoch. / Vaimud saadavad meile hea saagi.
 villager.gopray=Pixan an gnat. / Vaimud aitavad meid.

@@ -10,7 +10,6 @@ pathmaterial:pathgravel
 pathmaterial:pathochretiles
 
 //Vanilla biomes
-biome:River
 biome:Plains
 biome:Sunflower Plains
 biome:Savanna
@@ -46,11 +45,12 @@ core:forgebyzantine
 core:workshopbyzantine
 core:tavernbyzantine
 core:vineyardbyzantine
-core:well
+core:parkbyzantine
 
 //to be built after the core ones
 secondary:silkfarmbyzantine
 secondary:quarrybyzantine
+secondary:crossbyzantine
 
 never:bakerybyzantine
 never:farmbyzantine

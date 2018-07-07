@@ -3,7 +3,7 @@ chanceperhour:0.1
 maxsimultaneous:1
 
 step:new
-definevillager:key=startvillager,type=norman/abbot
+definevillager:key=startvillager,type=norman/abbot,forbiddentag=abbotbookdelivery_done
 definevillager:key=loneabbot,type=norman/loneabbot,relatedto=startvillager,relation=nearbyvillage
 villager:startvillager
 rewardgood:paper,1
@@ -22,3 +22,5 @@ requiredgood:book,2
 rewardreputation:2*64
 rewardmoney:2*64
 penaltyreputation:2*64
+settagsuccess:startvillager,abbotbookdelivery_done
+settagfailure:startvillager,abbotbookdelivery_done

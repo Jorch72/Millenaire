@@ -951,47 +951,7 @@ chunk.chunkcoords=区块：<0>
 chunk.village=<0>
 chunk.chunkforced=强制加载
 
-achievementpage.name=村庄
-achievement.firstcontact.name=邂逅
-achievement.firstcontact.desc=与村民的初遇
-achievement.cresus.name=大富豪
-achievement.cresus.desc=咱赚钱啦
-achievement.summoningwand.name=召唤
-achievement.summoningwand.desc=购买召唤之杖并唤出村民
-achievement.villageleader.name=村长
-achievement.villageleader.desc=成为领导者并创建出你统治下的村庄
-achievement.thequest.name=任务
-achievement.thequest.desc=完成村民交付给你的任务
-achievement.maitreapenser.name=领袖
-achievement.maitreapenser.desc=与圣人或炼金术士相见
-achievement.forbiddenknwoledge.name=禁忌的知识
-achievement.forbiddenknwoledge.desc=完成两个章节的创世任务
-achievement.puja.name=来自神灵的些微帮助
-achievement.puja.desc=祭神
-achievement.explorer.name=探索者
-achievement.explorer.desc=探索独立建筑
-achievement.marcopolo.name=马可.波罗
-achievement.marcopolo.desc=至少拜访过三个文明的村庄
-achievement.magellan.name=麦哲伦
-achievement.magellan.desc=拜访过所有文明的村庄
-achievement.selfdefense.name=自卫
-achievement.selfdefense.desc=杀死强盗
-achievement.pantheon.name=万神殿-荣耀殿堂
-achievement.pantheon.desc=参观神秘的万神殿
 
-achievement.darkside.name=堕入黑暗
-achievement.darkside.desc=杀死一个村民
-achievement.scipio.name=隳名城
-achievement.scipio.desc=用否定权杖毁灭村庄
-achievement.attila.name=上帝之鞭
-achievement.attila.desc=至少在三个文明赢得"灾难之神"称号
-
-achievement.cheers.name=为Minecraft欢呼三声吧！
-achievement.cheers.desc=喝下特有烈酒
-achievement.hired.name=雇佣人手
-achievement.hired.desc=雇佣一个村民
-achievement.masterfarmer.name=专业老农
-achievement.masterfarmer.desc=种植特有作物
 
 
 config.pagetitle=Millénaire 设置

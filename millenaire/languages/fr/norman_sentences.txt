@@ -39,6 +39,8 @@ villager.godrink=C'est à boire qu'il nous faut !
 villager.godrink=Un cidre n'a jamais fait de mal à personne.
 villager.gopray=Je parle à Dieu, pas vous, $name.
 
+villager.inspectconstruction=Vous croyiez ces ignorants capable de construire de tels bâtiments par eux même ? Que nenni !
+
 farmer.BringBackResourcesHome=Récoltons ce blé doré.
 farmer.CollectCrop=On dirait que le blé est mûr.
 farmer.PlantSeeds=Je plante, et je récolterai.

@@ -45,12 +45,3 @@ newchat;key:loneVillage,weigth:10
 v1;0;Vareto. ola eínai pánta to ídio edo. / Aburrido. Es todo el tiempo lo mismo por aqui.
 v2;30;Touláchiston eínai eirinikí. / Al menos es pacífico.
 v1;60;Típota idiaítero gia éna apomakrysméno chorio san ti dikí mas! / Nada especial para una remota villa como la nuestra!
-
-newchat;key:city,v1:adult,v2:adult,weigth:2
-v1;0;Otan ímoun mikros, íthela na eínai énas exerevnitís, na anakalýpsoun néa edáfi kai na pliroún endiaférontes néous anthropous. Allá tora? Eímai kollísei se afto to apomakrysméno chorioudáki. Thélo na páo kai na episkeftheíte néa méri. / Cuando era joven quería ser explorador, visitar lugares y tierras remotas y conocer gente interesante. Pero ahora estoy estancado en esta remota aldea. Quiero irme y visitar nuevos lugares.
-v2;30;Allá den tha vreíte megáli diaforá sto állo chorio. Eímaste oloi lígo polý to ídio. / But you won't find much difference in the other village. We're all pretty much the same.
-v1;60;Den milo gia ta choriá. Milo gia tis poleis, í akoma kai i poli! / I am not speaking about villages. I am speaking about towns, or even the city!
-v2;90;I poli? Ennoeís Konstantinoúpoli? / THE city? You mean Constantinople? 
-v1;120;Nai! To kéntro tis éndoxis aftokratorías mas. Eínai to thávma tou kosmou. / Yeah! The centre of our glorious empire. It is the wonder of the world.
-v1;150;Ypárchoun perissoteroi apo 500 000 ánthropoi pou zoun ekeí, boreíte na imangine afto?! / There are more than 500 000 people living there, can you imangine that?!
-v2;180;Akoúgetai adýnato gia ména. 500 000 ánthropoi se éna méros? / Sounds impossible to me. 500 000 people in one place? Dream on!

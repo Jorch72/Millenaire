@@ -35,9 +35,9 @@ Mineur : Miner. Lives and work in a quarry, tirelessly mining stone and sand. Wh
 
 Charpentier : Carpenter. Lives and work in a carpenter's house, where he makes timberframes for use in building construction.
 
-Marchant : Merchant. Goes from inn to inn, trading goods from one village to an other. It is his fate to roam for the good of all the villagers.
+Marchand : Merchant. Goes from inn to inn, trading goods from one village to an other. It is his fate to roam for the good of all the villagers.
 
-Marchant étranger : foreign merchant. Merchants from far-away places will visit markets to sell their exotic goods, before leaving with your hard-earned deniers.
+Marchand étranger : foreign merchant. Merchants from far-away places will visit markets to sell their exotic goods, before leaving with your hard-earned deniers.
 NEW_PAGE
 Children
 

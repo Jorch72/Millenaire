@@ -9,7 +9,7 @@ mayan_shaman.greeting=Ts'aakik tal teech. / Spirits protect you.
 
 villager.gorest=He'lel bisik na. / Rest takes over.
 villager.gorest=Ichil chuy ti wenel beora. / I have to sleep now.
-villager.gorest=Yaaawn. / 
+villager.gorest=Yaaawn. / *yawns*
 
 villager.gopray=Pixan taka gnat ichil k'a'am hoch. / Spirits send us a stong harvest.
 villager.gopray=Pixan an gnat. / Spirits help us.

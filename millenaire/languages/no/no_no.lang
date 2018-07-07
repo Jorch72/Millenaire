@@ -151,3 +151,45 @@ tile.millenaire.pathslabs.name=Hellevei
 tile.millenaire.pathsandstone.name=Sandsteinhellevei
 tile.millenaire.pathochretiles.name=Okerhellevei
 tile.millenaire.pathgravelslabs.name=Heller og grusvei
+
+
+advancements.firstcontact.name=Millénaire
+advancements.firstcontact.desc=Møt en landsbyboer
+advancements.cresus.name=Krøsus
+advancements.cresus.desc=Tjen en denier or
+advancements.summoningwand.name=Tilkalling
+advancements.summoningwand.desc=Kjøp en tilkallingsstav og skap en landsby med den
+advancements.villageleader.name=Landsbyleder
+advancements.villageleader.desc=Bli leder av en kultur og skap en kontrollert landsby
+advancements.thequest.name=Oppdraget
+advancements.thequest.desc=Fullfør et oppdrag gitt av en landsbyboer
+advancements.maitreapenser.name=Maître à penser
+advancements.maitreapenser.desc=Møt sadhuen eller alkymisten
+advancements.forbiddenknwoledge.name=Forbudt kunnskap
+advancements.forbiddenknwoledge.desc=Fullfør de to kapitlene til skapelsesoppdraget
+advancements.puja.name=Litt hjelp fra gudene
+advancements.puja.desc=Betal en pandit for å få utført et pudjsa
+advancements.explorer.name=Utforsker
+advancements.explorer.desc=Utforsk en enslig bygning
+advancements.marcopolo.name=Marco Polo
+advancements.marcopolo.desc=Besøk landsbyer av tre ulike kulturer innen den samme verdenen
+advancements.magellan.name=Ferdinand Magellan
+advancements.magellan.desc=Besøk landsbyer av alle de forskjellige kulturene innen den samme verdenen
+advancements.selfdefense.name=Selvforsvar
+advancements.selfdefense.desc=Drep en banditt
+advancements.pantheon.name=Panthéon-kirken
+advancements.pantheon.desc=Besøk den mystiske Panthéon-kirken
+
+advancements.darkside.name=Den mørke siden
+advancements.darkside.desc=Drep en landsbyboer
+advancements.scipio.name=Carthago delenda est
+advancements.scipio.desc=Ødelegg en landsby med negasjonsstaven
+advancements.attila.name=Attila
+advancements.attila.desc=Få "pest og plage"-omdømmet innen tre kulturer
+
+advancements.cheers.name=Tre ganger hurra for Minecraft!
+advancements.cheers.desc=Drikk en alkoholholdig Millénaire-drikk
+advancements.hired.name=Leiekar
+advancements.hired.desc=Hyr en landsbyboer
+advancements.masterfarmer.name=Ekspertbonde
+advancements.masterfarmer.desc=Plant en Millénaire-avling

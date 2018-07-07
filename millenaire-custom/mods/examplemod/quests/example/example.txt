@@ -33,7 +33,7 @@ description_en:My husband $guard_villagername$ the guard is starving and I forgo
 description_success_en:Thank you my good man!
 description_refuse_en:You are really not the helpfull kind.
 label_fr:Le repas du mari
-description_fr:Mon mari $guard_villagername$ le guarde est affamé et j'ai oublié son déjeuner! Pourriez-vous lui apporter ce boudin?
+description_fr:Mon mari $guard_villagername$ le garde est affamé et j'ai oublié son déjeuner! Pourriez-vous lui apporter ce boudin?
 description_success_fr:Merci, vous êtes très aimable!
 description_refuse_fr:Vous n'êtes pas très aimable.
 

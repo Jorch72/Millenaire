@@ -349,7 +349,7 @@ v1;60;Et elle est plus grande que celle du village voisin! / E soprattutto è pi
 
 newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
 v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / Ora che abbiamo una locanda, possiamo commerciare!
-v2;40;Autrement dit, les marchants de passage vont se servir dans nos resources. / In altre parole, i mercanti che passeranno di qui si arricchiranno sfruttando le nostre risorse.
+v2;40;Autrement dit, les marchands de passage vont se servir dans nos resources. / In altre parole, i mercanti che passeranno di qui si arricchiranno sfruttando le nostre risorse.
 v1;80;Tu as toujours été cynique. / Sei sempre così cinico.
 
 

@@ -152,3 +152,45 @@ tile.millenaire.pathslabs.name=Stufenweg
 tile.millenaire.pathsandstone.name=Sandsteinstufenweg
 tile.millenaire.pathochretiles.name=Ockerstufenweg
 tile.millenaire.pathgravelslabs.name=Stufen und Schotterweg
+
+
+advancements.firstcontact.name=Millénaire
+advancements.firstcontact.desc=Treffe einen Dorfbewohner
+advancements.cresus.name=Krösus
+advancements.cresus.desc=Verdiene einen Denier Or
+advancements.summoningwand.name=Beschwörung
+advancements.summoningwand.desc=Kaufe einen Beschwörungsstab und erschaffe ein Dorf mit ihm.
+advancements.villageleader.name=Dorf Oberhaupt
+advancements.villageleader.desc=Werde ein Dorf Oberhaupt einer Kultur und erstelle ein von Dir Kontrolliertes Dorf
+advancements.thequest.name=Die Quest
+advancements.thequest.desc=Beende eine Quest, die Dir ein Dorfbewohner aufgetragen hat
+advancements.maitreapenser.name=Mentor
+advancements.maitreapenser.desc=Treffe den Sadhu oder den Alchemisten
+advancements.forbiddenknwoledge.name=Verbotenes Wissen
+advancements.forbiddenknwoledge.desc=Beende die zwei Kapitel der Erschaffungsquest
+advancements.puja.name=Ein bisschen Hilfe von den Göttern
+advancements.puja.desc=Bezahle einen Pandit um ein Puja durchzuführen
+advancements.explorer.name=Entdecker
+advancements.explorer.desc=Entdecke ein alleinstehendes Gebäude
+advancements.marcopolo.name=Marco Polo
+advancements.marcopolo.desc=Besuche Dörfer von 3 Kulturen in der selben Welt
+advancements.magellan.name=Fernand de Magellan
+advancements.magellan.desc=Besuche Dörfer aller Kulturen in der selben Welt
+advancements.selfdefense.name=Selbstverteidigung
+advancements.selfdefense.desc=Töte einen Banditen
+advancements.pantheon.name=Die Ruhmeshalle
+advancements.pantheon.desc=Besuche die mysteriöse Ruhmeshalle
+
+advancements.darkside.name=Die dunkle Seite
+advancements.darkside.desc=Töte einen Dorfbewohner
+advancements.scipio.name=Carthago delenda est
+advancements.scipio.desc=Zerstöre ein Dorf mit dem Zerstörungsstab
+advancements.attila.name=Attila
+advancements.attila.desc=Erlange den Ruf "Geißel Gottes" in 3 Kulturen
+
+advancements.cheers.name=Ein dreifaches Hoch auf Minecraft!
+advancements.cheers.desc=Trinke ein alkoholisches Getränk aus Millenaire
+advancements.hired.name=Geliehenes Händchen
+advancements.hired.desc=Heuere einen Dorfbewohner an
+advancements.masterfarmer.name=Experten Landwirt
+advancements.masterfarmer.desc=Planze eine Millenaire Saat

@@ -1,0 +1,57 @@
+culture.byzantines=Bizantyjczycy
+
+villager.teenagerMale=Nastolatek
+villager.teenagerFemale=Nastolatka
+villager.boy_byzantine=Chlopiec
+villager.girl_byzantine=Dziewczynka
+villager.farmiller_byzantine=Mlynarz
+villager.farmiller_wife_byzantine=Zona mlynarza
+villager.wife_byzantine=Zona
+villager.miner_byzantine=Gornik
+villager.artisan_byzantine=Artysta
+villager.patriarch_byzantine=Patriarcha
+villager.lumberman_byzantine=Drwal
+villager.shepherd_byzantine=Pasterz
+villager.shepherd_female_byzantine=Pasterka
+villager.fisherman_byzantine=Rybak
+villager.baron_byzantine=Baron
+villager.richwife_byzantine=Bogata kobieta
+villager.merchant_norman=Normanski handlarz
+villager.merchant_hindi=Hinduski handlarz
+villager.merchant_mayan=Majanski handlarz
+villager.merchant_japanese=Japonski handlarz
+villager.centurio_byzantine=Centurion
+villager.soldier_byzantine=Zolnierz
+villager.playersoldier_byzantine=Zolnierz
+villager.smith_byzantine=Kowal
+villager.merchant_byzantine=Handlarz
+villager.pastor_byzantine=Pastor
+villager.artwife_byzantine=Zona artysty
+villager.architect_byzantine=Architekt
+villager.silkfarmer_byzantine=Tkacz jedwabiu
+villager.silkfarmerwife_byzantine=cz jedwabiu
+villager.armysmith_byzantine=Platnerz
+
+villager.smuggler_silk=Handlarz jedwabiu
+villager.merchant_art=Handlarz dzielami sztuki
+villager.merchant_food=Handlarz jedzenia
+villager.merchant_materials=Handlarz kamieni
+
+villager.keeperOak_byzantine=Straznik
+villager.keeperBirch_byzantine=Straznik
+villager.keeperTropical_byzantine=Straznik
+villager.keeperPine_byzantine=Straznik
+villager.loneshepherd_byzantine=Pasterz
+villager.loneshepherdf_byzantine=Pasterka
+villager.keeper_byzantine=Latarnik
+
+shop.townhall=Glowny sklep
+shop.forge=Narzedzia
+shop.armyforge=Narzedzia, bron i zbroje
+shop.lonetower=Jedzenie
+shop.tavernbyz=Wino
+shop.lonesheep=Welna
+shop.bakery=Piekarnia
+shop.fishery=Ryby
+shop.sheepfarm=Baranina, skory i feta
+shop.clothing=Ubrania

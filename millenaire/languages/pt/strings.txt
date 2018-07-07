@@ -770,47 +770,7 @@ chunk.chunkcoords=Chunk: <0>
 chunk.village=<0>
 chunk.chunkforced=Carregamento forçado
 
-achievementpage.name=Millénaire
-achievement.firstcontact.name=Primeiro contacto
-achievement.firstcontact.desc=Conhecer um aldeão
-achievement.cresus.name=Creso
-achievement.cresus.desc=Ganhar um Denier Or
-achievement.summoningwand.name=Convocação
-achievement.summoningwand.desc=Comprar uma Varinha de Convocação e gerar uma aldeia com ela
-achievement.villageleader.name=Líder de aldeia
-achievement.villageleader.desc=Tornar-se líder numa cultura e criar uma aldeia controlável
-achievement.thequest.name=A Missão
-achievement.thequest.desc=Completar uma missão dada por um aldeão
-achievement.maitreapenser.name=Maître à penser
-achievement.maitreapenser.desc=Conhecer o Sadhu ou o Alquimista
-achievement.forbiddenknwoledge.name=Conhecimento proibido
-achievement.forbiddenknwoledge.desc=Completar os dois capítulos da Jornada da Criação
-achievement.puja.name=Uma pequena ajuda dos Deuses
-achievement.puja.desc=Pagar a um sacerdote para realizar um ritual
-achievement.explorer.name=Explorador
-achievement.explorer.desc=Explorar uma construção isolada
-achievement.marcopolo.name=Marco Polo
-achievement.marcopolo.desc=Visitar aldeias de três culturas num único mundo
-achievement.magellan.name=Fernão de Magalhães
-achievement.magellan.desc=Visitar aldeias de todas as culturas num único mundo
-achievement.selfdefense.name=Auto-defesa
-achievement.selfdefense.desc=Matar um bandido
-achievement.pantheon.name=O Panteão
-achievement.pantheon.desc=Visitar o misterioso Panteão
 
-achievement.darkside.name=O lado negro
-achievement.darkside.desc=Matar um aldeão
-achievement.scipio.name=Delenda est Carthago
-achievement.scipio.desc=Destruir uma aldeia com a Varinha de Negação
-achievement.attila.name=Átila
-achievement.attila.desc=Ter a reputação de "Praga de Deus" em três culturas
-
-achievement.cheers.name=Três vivas para o Minecraft!
-achievement.cheers.desc=Beber álcool do Millénaire
-achievement.hired.name=Mercenário
-achievement.hired.desc=Contratar um aldeão
-achievement.masterfarmer.name=Agricultor experiente
-achievement.masterfarmer.desc=Cultivar uma planta do Millénaire
 
 
 config.pagetitle=Definições do Millénaire

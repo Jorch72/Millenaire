@@ -28,6 +28,7 @@ core:scultorhouse
 core:paddy
 core:grove
 core:sugarplantation
+core:villagetree
 
 //to be built after the core ones
 secondary:spicegarden
@@ -35,6 +36,7 @@ secondary:villagetemple
 secondary:archives
 secondary:bazaar
 secondary:tank
+secondary:hindushrine
 
 //never for this type of village
 never:forge

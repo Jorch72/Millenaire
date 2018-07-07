@@ -741,47 +741,7 @@ chunk.chunkcoords=Chunk: <0>
 chunk.village=<0>
 chunk.chunkforced=Geforceerd-geladen
 
-achievementpage.name=Millénaire
-achievement.firstcontact.name=Eerste contact
-achievement.firstcontact.desc=Ontmoet een dorpeling
-achievement.cresus.name=Croesus
-achievement.cresus.desc=Verdien een denier or
-achievement.summoningwand.name=Verschijning
-achievement.summoningwand.desc=Koop een oproepstaf en creeër een dorp
-achievement.villageleader.name=Dorpsleider
-achievement.villageleader.desc=Wordt leider in een cultuur en maak een bestuurd dorp
-achievement.thequest.name=De Quest
-achievement.thequest.desc=Voltooi een Quest gegeven door een dorpeling
-achievement.maitreapenser.name=Maître à penser
-achievement.maitreapenser.desc=Ontmoet de Sadhu of de Alchemist
-achievement.forbiddenknwoledge.name=Verboden kennis
-achievement.forbiddenknwoledge.desc=Voltooi 2 hoofdstukken van de creatie quest
-achievement.puja.name=Een beetje hulp van de goden
-achievement.puja.desc=Betaal een priester en doe een gebed
-achievement.explorer.name=Verkenner
-achievement.explorer.desc=Verken een geïsoleerd gebouw
-achievement.marcopolo.name=Marco Polo
-achievement.marcopolo.desc=Bezoek 3 dorpen van 3 culturen in het spel
-achievement.magellan.name=Fernand de Magellan
-achievement.magellan.desc=Bezoek dorpen van alle culturen in dezelfde wereld
-achievement.selfdefense.name=Zelfverdediging
-achievement.selfdefense.desc=Vermoord een bandiet
-achievement.pantheon.name=The Panthéon
-achievement.pantheon.desc=Bezoek het mysterieuze Panthéon
 
-achievement.darkside.name=De donkere kant
-achievement.darkside.desc=Vermoord een dorpeling
-achievement.scipio.name=Carthago delenda est
-achievement.scipio.desc=Vernietig een dorp met de staf der negatievering
-achievement.attila.name=Attila
-achievement.attila.desc=Verkrijg de "Gesel van God" reputatie in 3 culturen
-
-achievement.cheers.name=Diemaal proost voor minecraft!
-achievement.cheers.desc=Drink alcohol in millénaire
-achievement.hired.name=Gehuurde hulp
-achievement.hired.desc=Huur een dorpeling
-achievement.masterfarmer.name=Professioneel boer
-achievement.masterfarmer.desc=Plant een Millénaire gewas.
 
 
 quest.close=Sluiten

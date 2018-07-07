@@ -1,2 +1,1 @@
-priority:15000;native:Krebati;startLevel:-1;orientation:2;width:19;length:17;male:soldier_byzantine;type:subbuilding
-
+priority:900;native:Krebati;startLevel:-1;orientation:2;width:19;length:17;male:soldier_byzantine;type:subbuilding

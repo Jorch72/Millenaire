@@ -9,3 +9,11 @@ All files present in millenaire-custom will replace the file present in millenai
 - tradedgoods.txt for each cultures
 
 The content of those files are instead added to that of the corresponding file in millenaire.
+
+Most of Millénaire's specific content directories, for example:
+- goals/genericcrafting/
+- cultures/<culture>/buildings/
+- cultures/<culture>/villagers/
+
+support putting content in subdirectories. This has no effect on how files behave and is purely for organisation purpose.
+One small exception: buidings added to cultures/<culture>/buildings/lone/ will not be added to villages, as they are intended for custom buildings.

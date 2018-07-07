@@ -340,3 +340,6 @@ pathslabs_slab;millenaire:pathslabs_slab;0
 pathsandstone_slab;millenaire:pathsandstone_slab;0
 pathochretiles_slab;millenaire:pathochretiles_slab;0
 pathgravelslabs_slab;millenaire:pathgravelslabs_slab;0
+
+bearmeat_raw;millenaire:bearmeat_raw;0
+bearmeat_cooked;millenaire:bearmeat_cooked;0

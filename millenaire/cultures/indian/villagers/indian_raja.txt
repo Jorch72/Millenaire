@@ -11,7 +11,7 @@ goal=gosocialise
 goal=chat
 goal=gorest
 goal=gopray
-
+goal=inspectconstruction
 
 toolneededclass=meleeweapons
 

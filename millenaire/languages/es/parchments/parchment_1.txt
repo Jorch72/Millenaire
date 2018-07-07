@@ -34,9 +34,9 @@ Mineur : Minero. Vive y trabaja en una cantera, mina sin descanso piedra y arena
 
 Charpentier : Carpintero. Vive y trabaja en una casa de carpintero, en donde hace marcos de madera para ser usados en contrucciones de edificios.
 
-Marchant : Mercader. Va de posada en posada, comerciando bienes de un pueblo al otro. Su destino es vagar, por el bien de todos los pueblos.
+Marchand : Mercader. Va de posada en posada, comerciando bienes de un pueblo al otro. Su destino es vagar, por el bien de todos los pueblos.
 
-Marchant étranger : Mercader extranjero. Mercaderes provenientes de lugares muy lejanos visitarán los mercados para vender sus productos exóticos.
+Marchand étranger : Mercader extranjero. Mercaderes provenientes de lugares muy lejanos visitarán los mercados para vender sus productos exóticos.
 NEW_PAGE
 Niños
 

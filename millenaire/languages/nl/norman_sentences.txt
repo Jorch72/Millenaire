@@ -79,7 +79,7 @@ priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / Bidden is meer 
 villager.calltoarms=Aux armes ! Aux armes ! / Te wapen! Te wapen!
 villager.calltoarms=Montjoi Saint-Denis!
 villager.calltoarms=Tous pour un ! / Allen voor een!
-villager.calltoarms=Aux armes, citoyens!
+villager.calltoarms=Aux armes, citoyens! / Op wapens, burgers!
 
 monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / Als ijdelheid geen zonde was, zou ik zeggen dat mijn manuscripten de mooiste van het land zijn.
 

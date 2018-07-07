@@ -39,7 +39,7 @@ v1;120;Yaáxil tak pool, ¡óot na'at! / Instead of protesting about me complain
 newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10;
 v1;0;Ah, tin uts amikoo, ¡$targetfirstname! ¿Bixi' antal? / Ah my good friend $targetfirstname! How do you do? 
 v2;30;¡Toh oolal, $targetfirstname! Meen ka in páahtal, meyahil bin k'aas. / Hello $targetfirstname! Doing what I can really, Buisness is bad. 
-v1;60;¿Teech p'aat koonol tuunich ich Hindis? / Have you stopped selling stone to the Indians? 
+v1;60;¿Teech p'aat koonol tuunich ich Indians? / Have you stopped selling stone to the Indians? 
 v2;90;Kux. Behla'e' leo'ob Japanese sahkab máako'ob k'a'ay meyah, leito'ob ma' k'abeet. / Yes. Now that independant Japanese miners offered their services, they don't need me anymore. 
 v1;120;Teech ts'a'ah wa ba'ax hach. / You just have to offer them something else. 
 v2;150;¿Teech yaan hun tuukul? / You have any ideas? 
@@ -137,7 +137,7 @@ v2;150;Ma', $targetfirstname. Kin péek óol tin kuxtal waye' meyahil. / Not at 
 newchat;key:cereal,v2:vtype:mayan_farmer,weigth:9;
 v1;0;Kin k'áat pak'al arroz. / I'm going to try and grow some rice. 
 v2;30;¿Arroz? ¿Ba'ax yaan? / Rice? What is that? 
-v1;60;Hun aban in maan utia'al Hindu. ¡Letio'ob t'aan yaan ki'! / A plant I bought from the Hindu. They say its delicious! 
+v1;60;Hun aban in maan utia'al Indians. ¡Letio'ob t'aan yaan ki'! / A plant I bought from the Indians. They say its delicious! 
 v2;90;¿Kin páahtal túum? / Could I try a taste? 
 v1;120;Yah tu yool, ma'. Kin pak' neek'. / Sadly no. I need to plant each grain. 
 v2;150;Lelo' ma' antal k'abéet. / That won't work. 
@@ -181,7 +181,7 @@ v2;30;¿Yéetel teech il lelo'ob nahils? / And did you see their buildings?
 v1;60;Kurx kin il lelo'ob, hach hela'am. / Yes I did, Very strange. 
 v2;90;¿Pak'lu'um? ¿Ka haah xuul? / Bricks? What's the point!? 
 v1;120;Letio'ob ts'aa ba'al utia'al xukul, he'ebix Normans. / They even use that glass stuff, just like the Normans do. 
-v2;150;Túun, kurx leio'ob il hach máan táanil ka indians. Letio'ob chéen yaan hool. / True, but they seem more advanced then the Hindu though. They don't have anything in their windows. 
+v2;150;Túun, kurx leio'ob il hach máan táanil ka indians. Letio'ob chéen yaan hool. / True, but they seem more advanced then the Indians though. They don't have anything in their windows. 
 
 newchat;key:dialogchildmother,v1:child,v2:adult,v2:female,rel:parent,weigth:10;
 v1;0;¡Na'! ¿Kin páathal bin báaxal táanakb chan kaah? / Mama! Can I go play further from the village? 

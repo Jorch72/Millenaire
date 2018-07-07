@@ -144,3 +144,45 @@ tile.millenaire.pathgravelslabs.name=Steen- en grindpad
 item.millenaire.sake.name=Sake
 item.millenaire.ikayaki.name=Ikayaki
 item.millenaire.cacauhaa.name=Cacauhaa
+
+
+advancements.firstcontact.name=Millénaire
+advancements.firstcontact.desc=Ontmoet een dorpeling
+advancements.cresus.name=Croesus
+advancements.cresus.desc=Verdien een denier or
+advancements.summoningwand.name=Verschijning
+advancements.summoningwand.desc=Koop een oproepstaf en creeër een dorp
+advancements.villageleader.name=Dorpsleider
+advancements.villageleader.desc=Wordt leider in een cultuur en maak een bestuurd dorp
+advancements.thequest.name=De Quest
+advancements.thequest.desc=Voltooi een Quest gegeven door een dorpeling
+advancements.maitreapenser.name=Maître à penser
+advancements.maitreapenser.desc=Ontmoet de Sadhu of de Alchemist
+advancements.forbiddenknwoledge.name=Verboden kennis
+advancements.forbiddenknwoledge.desc=Voltooi 2 hoofdstukken van de creatie quest
+advancements.puja.name=Een beetje hulp van de goden
+advancements.puja.desc=Betaal een priester en doe een gebed
+advancements.explorer.name=Verkenner
+advancements.explorer.desc=Verken een geïsoleerd gebouw
+advancements.marcopolo.name=Marco Polo
+advancements.marcopolo.desc=Bezoek 3 dorpen van 3 culturen in het spel
+advancements.magellan.name=Fernand de Magellan
+advancements.magellan.desc=Bezoek dorpen van alle culturen in dezelfde wereld
+advancements.selfdefense.name=Zelfverdediging
+advancements.selfdefense.desc=Vermoord een bandiet
+advancements.pantheon.name=The Panthéon
+advancements.pantheon.desc=Bezoek het mysterieuze Panthéon
+
+advancements.darkside.name=De donkere kant
+advancements.darkside.desc=Vermoord een dorpeling
+advancements.scipio.name=Carthago delenda est
+advancements.scipio.desc=Vernietig een dorp met de staf der negatievering
+advancements.attila.name=Attila
+advancements.attila.desc=Verkrijg de "Gesel van God" reputatie in 3 culturen
+
+advancements.cheers.name=Diemaal proost voor minecraft!
+advancements.cheers.desc=Drink alcohol in millénaire
+advancements.hired.name=Gehuurde hulp
+advancements.hired.desc=Huur een dorpeling
+advancements.masterfarmer.name=Professioneel boer
+advancements.masterfarmer.desc=Plant een Millénaire gewas.

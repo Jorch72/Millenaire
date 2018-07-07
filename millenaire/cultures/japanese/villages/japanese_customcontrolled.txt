@@ -42,6 +42,7 @@ core:japanesehut
 core:japanesehouse
 core:japanesehousemedium
 core:japanesehouselarge
+core:japanesearcheryrange
 
 
 customBuilding:custom_japaneselmh

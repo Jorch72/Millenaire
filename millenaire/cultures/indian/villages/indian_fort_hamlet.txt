@@ -39,6 +39,8 @@ secondary:soldierhouse
 secondary:brickkiln
 secondary:armyforge
 secondary:archives
+secondary:villagetree
+secondary:hindushrine
 
 //never for this type of village
 never:pandithouse

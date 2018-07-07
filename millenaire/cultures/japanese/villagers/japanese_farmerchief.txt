@@ -14,7 +14,7 @@ goal=huntmonster
 goal=bringBackResourcesHome
 goal=harvestwheathome
 goal=plantwheathome
-
+goal=inspectconstruction
 
 collectGood=seeds
 collectGood=rice

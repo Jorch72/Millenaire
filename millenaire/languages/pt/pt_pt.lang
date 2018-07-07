@@ -149,3 +149,46 @@ tile.millenaire.pathslabs.name=Caminho de Degraus
 tile.millenaire.pathsandstone.name=Caminho de Degraus de Arenito
 tile.millenaire.pathochretiles.name=Caminho de Degraus de Ocre
 tile.millenaire.pathgravelslabs.name=Caminho de Gravilha e Degraus
+
+
+
+advancements.firstcontact.name=Millénaire
+advancements.firstcontact.desc=Conhecer um aldeão
+advancements.cresus.name=Creso
+advancements.cresus.desc=Ganhar um Denier Or
+advancements.summoningwand.name=Convocação
+advancements.summoningwand.desc=Comprar uma Varinha de Convocação e gerar uma aldeia com ela
+advancements.villageleader.name=Líder de aldeia
+advancements.villageleader.desc=Tornar-se líder numa cultura e criar uma aldeia controlável
+advancements.thequest.name=A Missão
+advancements.thequest.desc=Completar uma missão dada por um aldeão
+advancements.maitreapenser.name=Maître à penser
+advancements.maitreapenser.desc=Conhecer o Sadhu ou o Alquimista
+advancements.forbiddenknwoledge.name=Conhecimento proibido
+advancements.forbiddenknwoledge.desc=Completar os dois capítulos da Jornada da Criação
+advancements.puja.name=Uma pequena ajuda dos Deuses
+advancements.puja.desc=Pagar a um sacerdote para realizar um ritual
+advancements.explorer.name=Explorador
+advancements.explorer.desc=Explorar uma construção isolada
+advancements.marcopolo.name=Marco Polo
+advancements.marcopolo.desc=Visitar aldeias de três culturas num único mundo
+advancements.magellan.name=Fernão de Magalhães
+advancements.magellan.desc=Visitar aldeias de todas as culturas num único mundo
+advancements.selfdefense.name=Auto-defesa
+advancements.selfdefense.desc=Matar um bandido
+advancements.pantheon.name=O Panteão
+advancements.pantheon.desc=Visitar o misterioso Panteão
+
+advancements.darkside.name=O lado negro
+advancements.darkside.desc=Matar um aldeão
+advancements.scipio.name=Delenda est Carthago
+advancements.scipio.desc=Destruir uma aldeia com a Varinha de Negação
+advancements.attila.name=Átila
+advancements.attila.desc=Ter a reputação de "Praga de Deus" em três culturas
+
+advancements.cheers.name=Três vivas para o Minecraft!
+advancements.cheers.desc=Beber álcool do Millénaire
+advancements.hired.name=Mercenário
+advancements.hired.desc=Contratar um aldeão
+advancements.masterfarmer.name=Agricultor experiente
+advancements.masterfarmer.desc=Cultivar uma planta do Millénaire

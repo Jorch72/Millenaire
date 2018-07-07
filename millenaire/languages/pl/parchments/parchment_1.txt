@@ -35,9 +35,9 @@ Mineur : Gornik. Zyje i pracuje w kamieniolomie, niezmordowanie kopiac kamien i 
 
 Charpentier : Ciesla. Zyje w warsztacie ciesli, gdzie robi ramy drewniane uzywane przy budowie budynkow.
 
-Marchant : Handlarz. Chodzi od zajazdu do zajazdu, handlujac towarami miedzy wioskami. Jego losem jest wedrowka za dobrami dla wszystkich wiesniakow.
+Marchand : Handlarz. Chodzi od zajazdu do zajazdu, handlujac towarami miedzy wioskami. Jego losem jest wedrowka za dobrami dla wszystkich wiesniakow.
 
-Marchant étranger : Obcy handlarz. Kupcy z odleglych miejsc odwiedzaja targ by sprzedawac swoje egzotyczne towary, zanim odejda ze swoimi ciezko zarobionymi denarami.
+Marchand étranger : Obcy handlarz. Kupcy z odleglych miejsc odwiedzaja targ by sprzedawac swoje egzotyczne towary, zanim odejda ze swoimi ciezko zarobionymi denarami.
 NEW_PAGE
 Dziecko
 

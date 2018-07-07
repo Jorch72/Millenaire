@@ -35,11 +35,11 @@ Carrière. Domicile du mineur et de sa femme, c'est de là qu'il tire des quanti
 
 Maison du charpentier : C'est là que le charpentier fabrique des colombages à partir de bois amené par sa femme.
 
-Auberge. Les marchants en visitent y logent pendant qu'ils récoltent des ressources du village. Si elle est vide, un adolescent peut s'y installer pour commencer une carrière commerciale.
+Auberge. Les marchands en visitent y logent pendant qu'ils récoltent des ressources du village. Si elle est vide, un adolescent peut s'y installer pour commencer une carrière commerciale.
 
-Relais. Plus petit qu'une taverne, ce bâtiment peut accueillir des marchants d'autres villages, mais n'attirera pas d'adolescent. Présent uniquement dans les hameaux.
+Relais. Plus petit qu'une taverne, ce bâtiment peut accueillir des marchands d'autres villages, mais n'attirera pas d'adolescent. Présent uniquement dans les hameaux.
 
-Marché. Tout village respectable finira par construire ce bâtiment pour pouvoir accueillir des marchants porteurs de biens exotiques!
+Marché. Tout village respectable finira par construire ce bâtiment pour pouvoir accueillir des marchands porteurs de biens exotiques!
 NEW_PAGE
 Bâtiments inhabités
 

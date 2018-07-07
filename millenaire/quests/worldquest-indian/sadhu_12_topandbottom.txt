@@ -22,4 +22,4 @@ duration:1048
 steprequiredplayertag:action_bottomoftheworld_complete
 setplayertagsuccess:sadhu_12_topandbottom
 rewardreputation:2*64
-setactiondatasuccess:sadhuqueststatus,13
+setactiondatasuccess:sadhuqueststatus,14

@@ -12,7 +12,6 @@ lakeQualifier:le-lac
 oceanQualifier:l'océan
 
 //Vanilla biomes
-biome:River
 biome:Plains
 biome:Sunflower Plains
 biome:Extreme Hills+

@@ -5,6 +5,8 @@ startup.radiuswarning=WARNING: Setting the village radius so high should not be 
 startup.bonus=Bonus content enabled.
 startup.devmode1=Developer mode is active. This mode is designed to test Millénaire, not to play it.
 startup.devmode2=To disable it, go to millenaire-custom and remove the "devmode" line.
+startup.outdatedversion=You are using version <0> of Millénaire. Version <1> is available, with changes like <2>. You can download it on www.millenaire.org.
+startup.outdatedversiondev=You are using test version <0> of Millénaire. Test version <1> is available, with changes like <2>. You can download it on www.millenaire.org.
 
 command.nogenerate=<0> will no longer generate villages on new chunks in this world.
 command.willgenerate=<0>  will now generate villages on new chunks in this world.
@@ -15,10 +17,12 @@ command.inactive=Inactive
 command.active=Active
 command.frozen=Frozen
 command.villagelist=<4>: <0> (<1>) is <2> metres <3>.
+command.villagelisttranslated=<4> (<5>): <0> (<1>) is <2> metres <3>.
 command.villagelistkeylonebuilding=<0> is <1> metres <2>.
 command.facingdirection=You are looking <0>.
 command.noknowvillage=No known village closer than 2 km. Keep searching!
 command.newvillagefound=New village located: <0> of type <1> and culture <2> is <3> metres <4>.
+command.newvillagefoundtranslated=New village located: <0> of type <1> (<5>) and culture <2> is <3> metres <4>.
 command.newlonebuildingfound=New building located: <0> is <1> metres <2>.
 command.pathrebuild=The map and the pathing of <0> have been rebuilt.
 
@@ -133,6 +137,8 @@ ui.enchantedsword=Enchanted sword
 ui.selectabuildingproject=Select a building project
 ui.selectabuildingproject_custom=Register a building you have already built:
 ui.selectabuildingproject_standard=Millénaire building for construction:
+ui.custom=Custom:
+ui.millenaireplan=Millénaire design:
 ui.projectadded=The project has been added to the list
 ui.problemat=Problem at <0>: <1>
 ui.constructionforbidden=construction forbidden
@@ -284,7 +290,7 @@ quest.cqcheckquestlistandhelp=Press '<0>' for more information or to access the 
 
 
 error.unknownitem=Unknown Item Name
-
+error.backwardtime=World time has gone from <0> to <1>! Moving the time backward (using "/time set" for example) will break Millénaire.
 
 
 //Errors
@@ -314,6 +320,7 @@ panels.notyetbuilt=not yet built
 panels.nbupgradesleft=<0> upgrades left to build.
 panels.finished=finished
 panels.houseunoccupied=This house is unoccupied. Children that have grown into youth will eventually move in and become adults.
+panels.house=House
 panels.man=Man
 panels.woman=Woman
 panels.children=Children
@@ -558,6 +565,8 @@ goal.makepath=Crafting path blocks
 goal.makechiseledstone=Chiseling stones
 goal.makestainedglass=Making stained glass
 
+goal.inspectconstruction=Inspecting a construction
+
 //other
 other.west=West
 other.east=East
@@ -747,6 +756,7 @@ hof.gradlebuild1=New
 hof.gradlebuild2=Gradle Build
 hof.112testing=Testing for 1.12
 hof.communitywork=Community Work
+hof.development=Development
 
 pujas.invanme=Pujas
 pujas.panditfee=Pandit's fee
@@ -841,47 +851,6 @@ chunk.chunkcoords=Chunk: <0>
 chunk.village=<0>
 chunk.chunkforced=Force-loaded
 
-achievementpage.name=Millénaire
-achievement.firstcontact.name=First contact
-achievement.firstcontact.desc=Meet a villager
-achievement.cresus.name=Croesus
-achievement.cresus.desc=Earn a denier or
-achievement.summoningwand.name=Summoning
-achievement.summoningwand.desc=Buy a Wand of Summoning and generate a village with it
-achievement.villageleader.name=Village leader
-achievement.villageleader.desc=Become leader in a culture and create a controlled village
-achievement.thequest.name=The Quest
-achievement.thequest.desc=Complete a quest given by a villager
-achievement.maitreapenser.name=Maître à penser
-achievement.maitreapenser.desc=Meet the Sadhu or the Alchemist
-achievement.forbiddenknwoledge.name=Forbidden knowledge
-achievement.forbiddenknwoledge.desc=Complete the two chapters of the Creation Quest
-achievement.puja.name=A little help from the Gods
-achievement.puja.desc=Pay a pandit to perform a puja
-achievement.explorer.name=Explorer
-achievement.explorer.desc=Explore a lone building
-achievement.marcopolo.name=Marco Polo
-achievement.marcopolo.desc=Visit villages of three cultures in the same world
-achievement.magellan.name=Fernand de Magellan
-achievement.magellan.desc=Visit villages of all cultures in the same world
-achievement.selfdefense.name=Self-defense
-achievement.selfdefense.desc=Kill a bandit
-achievement.pantheon.name=The Panthéon
-achievement.pantheon.desc=Visit the mysterious Panthéon
-
-achievement.darkside.name=The dark side
-achievement.darkside.desc=Kill a villager
-achievement.scipio.name=Carthago delenda est
-achievement.scipio.desc=Destroy a village with the Negation Wand
-achievement.attila.name=Attila
-achievement.attila.desc=Gain the "Scourge of God" reputation in three cultures
-
-achievement.cheers.name=Three cheers for Minecraft!
-achievement.cheers.desc=Drink a Millénaire alcohol
-achievement.hired.name=Hired hand
-achievement.hired.desc=Hire a villager
-achievement.masterfarmer.name=Expert farmer
-achievement.masterfarmer.desc=Plant a Millénaire crop
 
 
 config.pagetitle=Millénaire Settings
@@ -950,6 +919,15 @@ config.min_lonebuilding_distance.desc=Minimum distance between lone buildings. D
 config.spawn_protection_radius.label=Spawn Protection Radius
 config.spawn_protection_radius.desc=Area around the Spawn Point where Millénaire will not generate buildings. Default: <0>.
 
+config.village_spawn_completion_max_percentage.label=Max Progress on Spawn
+config.village_spawn_completion_max_percentage.desc=Maximum initial progress a village can have (in %) when generated far from the Spawn Point. Default: <0>.
+
+config.village_spawn_completion_min_distance.label=Minimum Distance for Progress
+config.village_spawn_completion_min_distance.desc=Minimum distance from the Spawn Point at which villages can start with some initial progress. Default: <0>.
+
+config.village_spawn_completion_max_distance.label=Maximum Distance for Progress
+config.village_spawn_completion_max_distance.desc=Distance from the Spawn Point at which villages can reach the maximum initial progress. Default: <0>.
+
 config.village_radius.label=Radius of Villages
 config.village_radius.desc=Radius of normal villages (not hamlets). Default: <0>.
 
@@ -1001,7 +979,11 @@ config.page.system=System Settings
 config.page.system.desc=General settings regarding Millénaire
 
 config.send_statistics.label=Statistics
-config.send_statistics.desc=Whether to authorize the sending of anonymous statistics (version, language...) to the Millénaire.
+config.send_statistics.desc=Whether to authorize the sending of anonymous statistics (version, language...) to the Millénaire servers.
+
+config.send_advancement_login.label=Advancements Page
+config.send_advancement_login.desc=Whether to send your Minecraft login to the Millénaire server, to allow your advancements to be visible on millenaire.org.
+
 
 tradehelp.title=<0> - Trading
 tradehelp.goodssold=Goods Sold

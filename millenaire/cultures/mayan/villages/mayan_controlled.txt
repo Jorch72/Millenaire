@@ -28,6 +28,7 @@ core:mayanarmyforge
 core:mayanguard
 core:mayanshamangrounds
 core:mayanalter
+core:mayanbakery
 core:mayanballcourt
 core:mayancalendar
 core:mayancave
@@ -41,6 +42,9 @@ core:mayanwatchtower
 core:mayanplayersmallhouse
 core:mayanplayerlargehouse
 core:mayanplayerestate
+core:mayanbigwell
+core:mayanshrine
+core:mayanwell
 
 customBuilding:custom_mayanhouse
 customBuilding:custom_mayanlumber

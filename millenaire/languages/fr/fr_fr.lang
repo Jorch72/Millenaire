@@ -36,7 +36,7 @@ item.millenaire.normanpickaxe.name=Pioche normande
 item.millenaire.normanaxe.name=Hache normande
 item.millenaire.normanshovel.name=Pelle normande
 item.millenaire.normanhoe.name=Houe normande
-item.millenaire.normanbroadsword.name=Epée normande
+item.millenaire.normanbroadsword.name=Épée normande
 item.millenaire.normanhelmet.name=Casque normand
 item.millenaire.normanplate.name=Plastron normand
 item.millenaire.normanlegs.name=Jambières normandes
@@ -71,7 +71,7 @@ item.millenaire.parchment_villagescroll.name=Parchemin du village
 item.millenaire.parchment_indianvillagers.name=Villageois indiens
 item.millenaire.parchment_indianitems.name=Objets indiens
 item.millenaire.parchment_indianbuildings.name=Bâtiments indiens
-item.millenaire.parchment_indianfull.name=Parchement indien complet
+item.millenaire.parchment_indianfull.name=Parchemin indien complet
 
 tile.millenaire.stairs_timberframe.name=Escalier de colombage
 tile.millenaire.stairs_thatch.name=Escalier de chaume
@@ -166,14 +166,14 @@ tile.millenaire.pathdirt.name=Chemin de terre
 tile.millenaire.pathgravel.name=Chemin de graviers
 tile.millenaire.pathslabs.name=Chemin de dalles
 tile.millenaire.pathsandstone.name=Chemin de dalles de grès
-tile.millenaire.pathochretiles.name=Chemin de dalles ochres
+tile.millenaire.pathochretiles.name=Chemin de dalles ocres
 tile.millenaire.pathgravelslabs.name=Chemin de dalles et graviers
 
 tile.millenaire.pathdirt_slab.name=Chemin de terre
 tile.millenaire.pathgravel_slab.name=Chemin de graviers
 tile.millenaire.pathslabs_slab.name=Chemin de dalles
 tile.millenaire.pathsandstone_slab.name=Chemin de dalles de grès
-tile.millenaire.pathochretiles_slab.name=Chemin de dalles ochres
+tile.millenaire.pathochretiles_slab.name=Chemin de dalles ocres
 tile.millenaire.pathgravelslabs_slab.name=Chemin de dalles et graviers
 
 tile.millenaire.markerblock.name=Bloc de marquage
@@ -184,3 +184,106 @@ tile.millenaire.freeblock.name=Bloc Gratuit
 tile.millenaire.treespawn.name=Emplacement d'arbre
 tile.millenaire.soil.name=Emplacement de culture
 tile.millenaire.decorblock.name=Emplacement de décoration murale
+
+item.millenaire.bearmeat_raw.name=Viande d'ours crue
+item.millenaire.bearmeat_cooked.name=Steak d'ours
+
+
+advancements.firstcontact.name=Millénaire
+advancements.firstcontact.desc=Rencontrez un villageois Millénaire
+advancements.cresus.name=Millionnaire Millénaire
+advancements.cresus.desc=Obtenez un denier or
+advancements.summoningwand.name=Invocation
+advancements.summoningwand.desc=Achetez une baguette d’invocation et utilisez-la pour créer un village
+advancements.thequest.name=La Quête
+advancements.thequest.desc=Accomplissez une quête pour un villageois
+advancements.maitreapenser.name=Maître à penser
+advancements.maitreapenser.desc=Rencontrez le Sadhu ou l'Alchimiste
+advancements.explorer.name=Explorateur
+advancements.explorer.desc=Visitez un bâtiment isolé
+advancements.marcopolo.name=Marco Polo
+advancements.marcopolo.desc=Visitez des villages de trois cultures dans un seul monde
+advancements.magellan.name=Fernand de Magellan
+advancements.magellan.desc=Visitez des villages de toutes les cultures dans un seul monde
+advancements.selfdefense.name=Légitime défense
+advancements.selfdefense.desc=Tuez un bandit
+advancements.pantheon.name=Le Panthéon
+advancements.pantheon.desc=Trouvez le mystérieux Panthéon
+
+advancements.darkside.name=Le côté obscur
+advancements.darkside.desc=Tuez un villageois
+advancements.scipio.name=Carthago delenda est
+advancements.scipio.desc=Détruisez un village avec la baguette de négation
+advancements.attila.name=Attila
+advancements.attila.desc=Atteignez la réputation "fléau de Dieu" dans trois cultures
+
+advancements.cheers.name=A la santé de Minecraft !
+advancements.cheers.desc=Buvez un alcool Millénaire
+advancements.hired.name=Main d'œuvre
+advancements.hired.desc=Embauchez un villageois
+advancements.masterfarmer.name=Maître fermier
+advancements.masterfarmer.desc=Cultivez une plante Millénaire
+
+advancements.friendindeed.name=Un vrai ami
+advancements.friendindeed.desc=Atteignez la réputation "ami du village" dans un village
+
+advancements.rep_norman.name=Amis pour la vie
+advancements.rep_norman.desc=Atteignez la réputation "un des nôtres" dans un village norman
+advancements.rep_indian.name=Village Bhai
+advancements.rep_indian.desc=Atteignez la réputation "un des nôtres" dans un village indien
+advancements.rep_mayan.name=Liens sacrés
+advancements.rep_mayan.desc=Atteignez la réputation "un des nôtres" dans un village maya
+advancements.rep_japanese.name=Konichiwa
+advancements.rep_japanese.desc=Atteignez la réputation "un des nôtres" dans un village japonais
+advancements.rep_byzantines.name=Salutations, Romain!
+advancements.rep_byzantines.desc=Atteignez la réputation "un des nôtres" dans un village byzantin
+
+advancements.complete_norman.name=Complet Normand
+advancements.complete_norman.desc=Aidez un village normand où vous êtes "un des nôtres" à terminer tous leurs bâtiments
+advancements.complete_indian.name=Maharchitecte
+advancements.complete_indian.desc=Aidez un village indien où vous êtes "un des nôtres" à terminer tous leurs bâtiments
+advancements.complete_mayan.name=Le haut de la pyramide
+advancements.complete_mayan.desc=Aidez un village maya où vous êtes "un des nôtres" à terminer tous leurs bâtiments
+advancements.complete_japanese.name=Soleil levant
+advancements.complete_japanese.desc=Aidez un village japonais où vous êtes "un des nôtres" à terminer tous leurs bâtiments
+advancements.complete_byzantines.name=La nouvelle nouvelle Rome
+advancements.complete_byzantines.desc=Aidez un village byzantin où vous êtes "un des nôtres" à terminer tous leurs bâtiments
+
+advancements.leader_norman.name=Sa Majesté Steve
+advancements.leader_norman.desc=Devenez un chef normand et fondez votre village contrôlé
+advancements.leader_indian.name=Petit Maharaja
+advancements.leader_indian.desc=Devenez un chef indien et fondez votre village contrôlé
+advancements.leader_mayan.name=Dieu-Roi du village
+advancements.leader_mayan.desc=Devenez un chef maya et fondez votre village contrôlé
+advancements.leader_japanese.name=Le trône pissenlit
+advancements.leader_japanese.desc=Devenez un chef japonais et fondez votre village contrôlé
+advancements.leader_byzantines.name=Né hors du pourpre
+advancements.leader_byzantines.desc=Devenez un chef byzantin et fondez votre village contrôlé
+
+
+advancements.wq_norman.name=Big Bang
+advancements.wq_norman.desc=Complétez le chapitre "l'Alchimiste" de la quête de la création
+advancements.wq_indian.name=Connaissances interdites
+advancements.wq_indian.desc=Complétez le chapitre "le Sadhu" de la quête de la création
+advancements.wq_mayan.name=La couronne divine
+advancements.wq_mayan.desc=Complétez le chapitre "le Roi déchu" de la quête de la création
+
+
+advancements.puja.name=Un peu d'aide des dieux
+advancements.puja.desc=Faites faire un puja à un pandit
+advancements.sacrifice.name=Du sang pour les dieux
+advancements.sacrifice.desc=Faites faire un sacrifice à un shaman
+
+advancements.viking.name=Le retour des vikings
+advancements.viking.desc=Faites faire un raid réussit à un de vos villages contrôlés
+
+advancements.mp_weapon.name=Guerrier exotique
+advancements.mp_weapon.desc=Utilisez une arme de mêlée Millénaire contre un autre joueur
+advancements.mp_hiredgoon.name=Tueur à gages
+advancements.mp_hiredgoon.desc=Embauchez un villageois et faites attaquer un autre joueur
+advancements.mp_raidonplayer.name=All your base are belong to me
+advancements.mp_raidonplayer.desc=Faites faire un raid réussit à un de vos villages sur le village d'un autre joueur
+advancements.mp_friendlyvillage.name=Utopie
+advancements.mp_friendlyvillage.desc=Devenez "ami du village" dans un village qui a déjà au moins trois "amis du village"
+advancements.mp_neighbourtrade.name=Revenus annexes
+advancements.mp_neighbourtrade.desc=Possédez un village contrôlé où un autre joueur commerce

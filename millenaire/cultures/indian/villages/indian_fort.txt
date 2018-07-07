@@ -50,11 +50,13 @@ core:paddy
 core:grove
 core:soldierhouse
 core:forge
+core:hindushrine
 
 //to be built after the core ones
 secondary:spicegarden
 secondary:peasanthouse
 secondary:quarry
+secondary:villagetree
 secondary:soldierhouse
 secondary:brickkiln
 secondary:archives

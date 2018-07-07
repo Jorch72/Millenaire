@@ -39,7 +39,10 @@ core:presbyterybyzantine
 core:silkfarmbyzantine
 core:vineyardbyzantine
 core:workshopbyzantine
-core:well
+core:wellbyzantine
+core:parkbyzantine
+core:shrinebyzantine
+core:crossbyzantine
 
 //custom
 customBuilding:custom_farmbyzantine

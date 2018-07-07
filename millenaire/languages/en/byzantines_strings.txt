@@ -1,5 +1,11 @@
 culture.byzantines=Byzantine
 
+village.controlled=controlled village
+village.customcontrolled=custom controlled village
+village.emporikos=commercial village
+village.military=fort
+village.ortodox=religious village
+
 villager.teenagerMale=Youth
 villager.teenagerFemale=Youth
 villager.boy_byzantine=Boy

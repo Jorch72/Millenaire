@@ -37,9 +37,9 @@ Charpentier: Vit et travail dans une maison de charpentier, d'où il fait du boi
 
 Moine: Vit à l'abbaye dans lequel il copie soigneusement les livres anciens sur de nouveaux parchemins. Un art, selon lui.$
 
-Marchant: Va d'auberge en auberge, vendant des biens d'un village à un autre. C'est son destin d'errer pour le bien de tous les villageois.
+Marchand: Va d'auberge en auberge, vendant des biens d'un village à un autre. C'est son destin d'errer pour le bien de tous les villageois.
 
-Marchant étranger: Des marchands de contrées lointaines se rendront au marché pour vendre des biens exotiques, avant de partir avec vos deniers durement gagné.
+Marchand étranger: Des marchands de contrées lointaines se rendront au marché pour vendre des biens exotiques, avant de partir avec vos deniers durement gagné.
 NEW_PAGE
 Enfants:
 

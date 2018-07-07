@@ -39,6 +39,8 @@ villager.godrink=C'est à boire qu'il nous faut! / I need a drink!
 villager.godrink=Un cidre n'a jamais fait de mal à personne. / A cider never hurt anyone.
 villager.gopray=Je parle à Dieu, pas vous, $name. / I'm speaking to God, not you, $name.
 
+villager.inspectconstruction=Vous croyiez ces ignorants capable de construire de tels bâtiments par eux même ? Que nenni ! / Did you believe those ignorant farmers capable of building such constructions on their own ? Of course not!
+
 farmer.BringBackResourcesHome=Récoltons ce blé doré. / Let's bring back that golden wheat.
 farmer.CollectCrop=On dirait que le blé est mûr. / Looks like the wheat is ripe.
 farmer.PlantSeeds=Je plante, et je récolterai. / I sow, and then I will harvest.

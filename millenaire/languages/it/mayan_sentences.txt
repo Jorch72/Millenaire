@@ -10,7 +10,7 @@ mayan_shaman.greeting=Ts'aakik tal teech. / Che gli Spiriti di proteggano.
 
 villager.gorest=He'lel bisik na. / E' ora di riposare.
 villager.gorest=Ichil chuy ti wenel beora. / Ho bisogno di dormire adesso.
-villager.gorest=Yaaawn. / 
+villager.gorest=Yaaawn. / *sbadiglia*
 
 villager.gopray=Pixan taka gnat ichil k'a'am hoch. / Spiriti mandateci un raccolto abbondante.
 villager.gopray=Pixan an gnat. / Spiriti aiutateci.

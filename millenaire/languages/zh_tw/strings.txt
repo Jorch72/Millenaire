@@ -769,47 +769,7 @@ chunk.chunkcoords=數據塊座標位置 : <0>
 chunk.village=<0>
 chunk.chunkforced=強制-加載
 
-achievementpage.name=Millénaire
-achievement.firstcontact.name=首次接觸
-achievement.firstcontact.desc=遇見一位村民
-achievement.cresus.name=有錢人
-achievement.cresus.desc=多賺點錢吧
-achievement.summoningwand.name=召喚吧！
-achievement.summoningwand.desc=購買一把生成法杖並創造一座村莊吧
-achievement.villageleader.name=村莊領袖
-achievement.villageleader.desc=成為文化的領袖並創造一座受控制的村莊
-achievement.thequest.name=任務
-achievement.thequest.desc=完成一位村民所交待的任務
-achievement.maitreapenser.name=導師
-achievement.maitreapenser.desc=與聖者或鍊金術士會見
-achievement.forbiddenknwoledge.name=禁忌的知識
-achievement.forbiddenknwoledge.desc=完成兩章的創世任務
-achievement.puja.name=得到神的一點點幫助。
-achievement.puja.desc=付錢請梵學家舉辦法會
-achievement.explorer.name=探險家
-achievement.explorer.desc=探索到一座獨立建築
-achievement.marcopolo.name=馬可波羅
-achievement.marcopolo.desc=在同一個世界裡拜訪了三種文化的村莊
-achievement.magellan.name=費爾南德·德麥哲倫
-achievement.magellan.desc=在同一個世界裡拜訪了所有文化的村莊
-achievement.selfdefense.name=自衛
-achievement.selfdefense.desc=殺死強盜
-achievement.pantheon.name=萬神殿
-achievement.pantheon.desc=拜訪神秘的萬神殿
 
-achievement.darkside.name=黑暗的一面
-achievement.darkside.desc=殺死一位村民
-achievement.scipio.name=迦太基一定要被消滅！
-achievement.scipio.desc=用消滅法杖摧毀一座村莊
-achievement.attila.name=阿提拉
-achievement.attila.desc=在三種文化間得到「神派來的天譴」的聲望
-
-achievement.cheers.name=為Minecraft三呼萬歲！
-achievement.cheers.desc=喝Millénaire的酒
-achievement.hired.name=雇工
-achievement.hired.desc=僱用一位村民
-achievement.masterfarmer.name=專業農民
-achievement.masterfarmer.desc=種植Millénaire的作物
 
 
 config.pagetitle=Millénaire 設定

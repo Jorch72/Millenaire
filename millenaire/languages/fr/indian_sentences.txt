@@ -14,7 +14,7 @@ merchant_villagewoman.greeting=Ek akeelii mahila ke lie safar karna mushkil hai 
 
 male.gorest=Ab jaakey aaram karta hoon. / Maintenant, je vais aller me reposer.
 male.gorest=Subah sey kaam kar raha hoon. / Je travaille depuis ce matin.
-male.gorest=Main thak gaya hoon. / Je suis fatigué. 
+male.gorest=Main thak gaya hoon. / Je suis fatigué.
 
 female.gorest=Ab jaakey aaram karti hoon. / Maintenant, je vais aller me repoer.
 female.gorest=Subah sey kaam kar rahi hoon. / je travaille depuis ce matin.
@@ -23,19 +23,23 @@ female.gorest=Main thak gayi hoon. / Je suis fatiguée.
 villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / Dieu, faites que la récolte soit bonne, cette fois.
 villager.gopray=Bhagwan, bas aap hi ka sahara hai. / Dieu, tu es notre seul espoir.
 
+villager.inspectconstruction=Mujhe lagata hai ki hamaare raajamistree aise achchhe kaam karate hain. / J'aime voir nos maçons produire de tels ouvrages.
+
+
 indian_lumberman.BringBackResourcesHome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / Cela va être difficile de rammener tout ce bois à la maison.
 indian_lumberman.ChopTrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / Il semble que je vais passer ma vie à couper ces arbres.
 indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / Maintenant, je vais rassembler tout le bois.
-indian_lumberman.PlantSaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / Plus je plante d'arbres, plus la vie sera facile. 
+indian_lumberman.PlantSaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / Plus je plante d'arbres, plus la vie sera facile.
 
 indian_peasant.DryBrick=Ghar bananey key liye kitney inth chahiyey? / De combien de briques avons-nous besoin pour construire une maison ?
-indian_peasant.GatherBrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / Le soleil est fort, elles sèchent vite aujourd'hui. 
+indian_peasant.GatherBrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / Le soleil est fort, elles sèchent vite aujourd'hui.
 indian_peasant.CookBrick= Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / Regarde comme les briques cuisent bien dans le feu.
 villager.PlantRice=Is saal barish achchi hui toh phasal accha hoga. / Il pleut à verse, la récolte sera bonne cette année.
 villager.HarvestRice=Is baar barish acchi honey sey phasal bhi acchi hui hai. / À cause de bonnes pluies cette fois, la récolte sera bonne aussi.
 villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / Après tout, chacun a besoin de curcuma.
 villager.HarvestTurmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / Cette récolte de curcuma rend mes mains jaunes.
 indian_peasant.SlaughterChicken=Bahut kha liya ghas-phoos. / J'ai eu assez de curry végétarien!
+indian_peasant.SlaughterChicken=Main murgiyon se napharat karata hoon ve zor se aur khae jaane ke alaava any kisee bhee any uddeshy kee seva nahin karate hain. / Je déteste les poulet. Ils sont bruyants et ne font rien à part se faire manger.
 
 indian_peasantwife.GetHouseTHResources=Sab kuch toh thakur ko dey dena padta hai. / Tout finit toujours dans la maison du propriétaire.
 indian_peasantwife.GetGoodsHousehold=Inkey liye chahey jitna bhi khana lao, kam padta hai. / Peu importe ce que vous faite pour cette famille, ce n'est jamais assez !

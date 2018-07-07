@@ -12,7 +12,7 @@ goal=makemayangoldblock
 goal=gosocialise
 goal=chat
 
-requiredGood=stone,20
+requiredGood=stone,40
 requiredGood=sandstone,20
 requiredGood=gold,20
 

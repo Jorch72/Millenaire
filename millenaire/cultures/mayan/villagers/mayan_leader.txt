@@ -16,6 +16,7 @@ goal=huntmonster
 goal=gosocialise
 goal=chat
 goal=bringBackResourcesHome
+goal=inspectconstruction
 
 toolneededclass=meleeweapons
 toolneededclass=armour

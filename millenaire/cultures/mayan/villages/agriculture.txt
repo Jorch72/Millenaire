@@ -13,6 +13,8 @@ biome:JungleEdge
 biome:JungleEdge M
 biome:Birch Forest
 biome:Birch Forest M
+biome:Mesa Plateau F
+biome:Mesa Platau F M
 
 //biomes o'plenty
 biome:bayou
@@ -44,6 +46,7 @@ core:mayanhouse
 core:mayanlargepeasanthouse2
 core:mayanmining
 core:mayancacaofarm
+core:mayanbigwell
 
 //to be built after the core ones
 secondary:mayangrove
@@ -54,6 +57,7 @@ secondary:mayanmarket
 secondary:mayancrafter
 secondary:mayanobsidiancrafter
 secondary:mayanshamangrounds
+secondary:mayanwell
 
 //never for this type of village
 never:mayanarmyforge

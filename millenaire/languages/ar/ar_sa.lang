@@ -140,3 +140,45 @@ item.millenaire.clothes_byz_silk.name=ملابس الحرير البيزنطي
 
 item.millenaire.souvlaki.name=سوفلاكي
 item.millenaire.purse.name=منحة أموال
+
+
+advancements.firstcontact.name=Millénaire
+advancements.firstcontact.desc=مقابلة قروي
+advancements.cresus.name=كرويسوس
+advancements.cresus.desc=كسب دينار
+advancements.summoningwand.name=استدعاء
+advancements.summoningwand.desc=شراء عصا إستدعاء وبناء قرية بها
+advancements.villageleader.name=قائد القرية
+advancements.villageleader.desc=أصبح زعيماً في حضارة وأنشيء لك قرية اخرى تحت سيطرتك
+advancements.thequest.name=المهمة
+advancements.thequest.desc=أكمل مهمة أعطيت لك من قبل  قروي
+advancements.maitreapenser.name=المعلم
+advancements.maitreapenser.desc=قابل السادهو او الكيميائي
+advancements.forbiddenknwoledge.name=المعرفة المحرمة
+advancements.forbiddenknwoledge.desc=أكمل فصلين من مهام الإنشاء
+advancements.puja.name=القليل من المساعدة من الآلهة
+advancements.puja.desc=دفع بانديت لتنفيذ بوجا
+advancements.explorer.name=مستكشف
+advancements.explorer.desc=أستكشف مبنى منعزل او وحيد
+advancements.marcopolo.name=ماركو بولو
+advancements.marcopolo.desc=زر قرى ثلاثة حضارات بالعالم نفسه
+advancements.magellan.name=فرناند دي ماجلان
+advancements.magellan.desc=زر قرى كل الحضارات بالعالم نفسه
+advancements.selfdefense.name=الدفاع عن النفس
+advancements.selfdefense.desc=أقتل قاطع طريق او لص
+advancements.pantheon.name=البانثيون
+advancements.pantheon.desc=قم بزيارة بانتيون الغامض
+
+advancements.darkside.name=الجانب المظلم
+advancements.darkside.desc=أقتل قروي
+advancements.scipio.name=Carthago delenda est
+advancements.scipio.desc=دمر قرية بعصا النفي
+advancements.attila.name=أتيلا
+advancements.attila.desc=اكتساب سمعة "آفة من الله" في الثقافات الثلاث
+
+advancements.cheers.name=ثلاثة هتافات لماين كرافت!
+advancements.cheers.desc=أشرب كحول Millénaire
+advancements.hired.name=وظف يد للخدمة
+advancements.hired.desc=وظف قروي
+advancements.masterfarmer.name=مزارع خبير
+advancements.masterfarmer.desc=أزرع محصول Millénaire

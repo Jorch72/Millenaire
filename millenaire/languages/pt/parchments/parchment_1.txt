@@ -37,9 +37,9 @@ Charpentier: Carpinteiro. Vive e trabalha numa carpintaria, onde fabrica armaç�
 
 Moine: Monge. Vive na abadia, na qual ele copia arduamente livros antigos para novos pergaminhos. Uma arte, segundo ele.
 
-Marchant: Comerciante. Viaja de albergaria em albergaria, negociando bens de uma aldeia para outra. Faz parte do seu destino deambular pelo bem de todos os aldeões.
+Marchand: Comerciante. Viaja de albergaria em albergaria, negociando bens de uma aldeia para outra. Faz parte do seu destino deambular pelo bem de todos os aldeões.
 
-Marchant Étranger: Comerciante Estrangeiro. Comerciantes de terras longínquas que visitam os mercados para vender os seus produtos exóticos, não indo embora sem antes se encherem dos deniers ganhos arduamente com o suor e lágrimas do jogador.
+Marchand Étranger: Comerciante Estrangeiro. Comerciantes de terras longínquas que visitam os mercados para vender os seus produtos exóticos, não indo embora sem antes se encherem dos deniers ganhos arduamente com o suor e lágrimas do jogador.
 NEW_PAGE
 Crianças
 

@@ -8,7 +8,6 @@ biome:ExtremeHills
 biome:ExtremeHills M
 biome:ExtremeHills+
 biome:ExtremeHills+ M
-biome:River
 biome:Taiga
 biome:Taiga M
 biome:Forest

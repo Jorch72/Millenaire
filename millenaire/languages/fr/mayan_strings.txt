@@ -1,6 +1,12 @@
 
 culture.mayan=Maya
 
+village.agriculture=village agricole
+village.mayan_controlled=village contrôlé
+village.mayan_customcontrolled=village contrôlé perso
+village.military=village militaire
+village.religious=village religieux
+
 villager.mayan_boy=Garçon
 villager.mayan_girl=Fille
 villager.mayan_teenagerMale=Jeune
@@ -19,7 +25,7 @@ villager.mayan_armysmith=Forgeron militaire
 villager.mayan_sculptor=Sculpteur
 villager.mayan_shamanwife=Femme du chamane
 villager.mayan_king=Roi
-villager.mayan_merchant=Marchant
+villager.mayan_merchant=Marchand
 villager.mayan_chickenfarmer=Éleveur de volaille
 villager.mayan_farmer=Fermier
 villager.mayan_obsidiancrafter=Artisan d'obsidienne
@@ -51,3 +57,4 @@ shop.mayansheepchickenfarm=Volaille
 shop.mayanobsidiancrafter=Objets en obsidienne
 shop.lonemayanfarm=Produits fermiers
 shop.mayancocoa=Cacao & cacauhaa
+shop.mayansculptor=Achat de pierre et d'or

@@ -49,3 +49,6 @@ loneshrine_A0=Lone Hindu Shrine
 sadhutree_A0=Sadhu's Tree
 
 gifthouse_a0=Gift House
+
+villagetree_a0=Village Tree
+hindushrine_a0=Hindu Statue

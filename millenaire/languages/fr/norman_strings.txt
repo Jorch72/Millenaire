@@ -1,6 +1,19 @@
 
 culture.norman=Normande
 
+village.agricole=
+village.artisans=
+village.bourg_autonome=
+village.controlled=village contrôlé
+village.customcontrolled=village contrôlé perso
+village.ecclesiastique=
+village.militaire=
+village.grosbourg=
+village.hameau_abbatiale=
+village.hameau_agricole=
+village.hameau_artisans=
+
+
 //Name of the villager types
 //Left empty when no translation is needed
 //Norman:
@@ -62,7 +75,7 @@ shop.townhall=Magasin central
 shop.forge=Outils
 shop.armoury=Armes & armures
 shop.bakery=Pain
-shop.cattlefarm=Produits ovins
+shop.cattlefarm=Produits bovins
 shop.pigfarm=Produits porcins
 shop.sheepchickenfarm=Volaille
 shop.tavern=Alcool

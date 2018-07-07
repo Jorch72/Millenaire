@@ -161,12 +161,12 @@ planks jungle;minecraft:planks;variant=jungle;false;177/128/92
 planks acacia;minecraft:planks;variant=acacia;false;177/10/160
 planks dark oak;minecraft:planks;variant=dark_oak;false;50/44/25
 
-saplings;minecraft:sapling;0;false;0/50/0;;;0
-saplings pine;minecraft:sapling;1;false;0/50/10;;;0
-saplings birch;minecraft:sapling;2;false;0/50/20;;;0
-saplings jungle;minecraft:sapling;3;false;0/50/30;;;0
-saplings acacia;minecraft:sapling;3;false;0/50/40;;;0
-saplings dark oak;minecraft:sapling;3;false;0/50/50;;;0
+saplings;minecraft:sapling;type=oak;false;0/50/0;;;0
+saplings pine;minecraft:sapling;type=spruce;false;0/50/10;;;0
+saplings birch;minecraft:sapling;type=birch;false;0/50/20;;;0
+saplings jungle;minecraft:sapling;type=jungle;false;0/50/30;;;0
+saplings acacia;minecraft:sapling;type=acacia;false;0/50/40;;;0
+saplings dark oak;minecraft:sapling;type=dark_oak;false;0/50/50;;;0
 
 water;minecraft:water;0;true;0/255/255;;;0
 sand;minecraft:sand;0;false;228/231/113
@@ -176,6 +176,11 @@ glass pane;minecraft:glass_pane;0;true;180/255/255
 
 lapis;minecraft:lapis_block;0;false;0/40/255
 sandstone;minecraft:sandstone;0;false;185/188/41
+sandstonechiseled;minecraft:sandstone;1;false;185/188/51;minecraft:sandstone;;1
+sandstonesmooth;minecraft:sandstone;2;false;185/188/61;minecraft:sandstone;;1
+redsandstone;minecraft:red_sandstone;0;false;250/188/41
+redsandstonechiseled;minecraft:red_sandstone;1;false;250/188/51;minecraft:red_sandstone;;1
+redsandstonesmooth;minecraft:red_sandstone;2;false;250/188/61;minecraft:red_sandstone;;1
 yellowflower;minecraft:yellow_flower;0;false;255/255/65;;;0
 redflower;minecraft:red_flower;0;false;255/50/50;;;0
 steelblock;minecraft:iron_block;0;false;204/204/204;minecraft:iron_ingot;;9
@@ -270,12 +275,12 @@ lava;minecraft:flowing_lava;0;true;232/57/16;;;0
 lavastill;minecraft:lava;0;true;232/57/17;;;0
 netherrack;minecraft:netherrack;0;false;253/56/11
 tnt;minecraft:tnt;0;false;253/52/6
-oak leaves;minecraft:leaves;0;false;40/107/14;;;0
-pine leaves;minecraft:leaves;1;false;42/111/15;;;0
-birch leaves;minecraft:leaves;2;false;44/119/15;;;0
-jungle leaves;minecraft:leaves;3;false;46/119/15;;;0
-acacia leaves;minecraft:leaves2;0;false;48/119/15;;;0
-dark oak leaves;minecraft:leaves2;1;false;50/119/15;;;0
+oak leaves;minecraft:leaves;decayable=false,variant=oak;false;40/107/14;;;0
+pine leaves;minecraft:leaves;decayable=false,variant=spruce;false;42/111/15;;;0
+birch leaves;minecraft:leaves;decayable=false,variant=birch;false;44/119/15;;;0
+jungle leaves;minecraft:leaves;decayable=false,variant=jungle;false;46/119/15;;;0
+acacia leaves;minecraft:leaves2;decayable=false,variant=acacia;false;48/119/15;;;0
+dark oak leaves;minecraft:leaves2;decayable=false,variant=dark_oak;false;50/119/15;;;0
 melon;minecraft:melon_block;0;false;75/243/10
 pine sappling;minecraft:sapling;1;true;21/147/21;;;0
 bedrock;minecraft:bedrock;0;false;40/42/40
@@ -334,7 +339,7 @@ cauldronempty;minecraft:cauldron;0;false;120/120/120;minecraft:iron_ingot;;7
 cauldronfull;minecraft:cauldron;3;false;120/120/125;minecraft:iron_ingot;;7
 netherwart;minecraft:nether_wart;3;true;150/10/62;;;0
 
-chiseled stone brick;minecraft:stonebrick;3;false;88/88/88
+chiseled stone brick;minecraft:stonebrick;3;false;88/88/88;minecraft:stone;;1
 smooth sandstone;minecraft:sandstone;2;false;195/178/51
 cobblestone wall;minecraft:cobblestone_wall;0;false;74/74/74;minecraft:cobblestone;;1
  
@@ -679,19 +684,71 @@ glass pane red;minecraft:stained_glass_pane;14;true;180/255/241
 glass pane black;minecraft:stained_glass_pane;15;true;180/255/240
 
 
-glass pane white;minecraft:carpet;0;true;190/255/239
-glass pane orange;minecraft:carpet;1;true;190/255/254
-glass pane magenta;minecraft:carpet;2;true;190/255/253
-glass pane light blue;minecraft:carpet;3;true;190/255/252
-glass pane yellow;minecraft:carpet;4;true;190/255/251
-glass pane lime;minecraft:carpet;5;true;190/255/250
-glass pane pink;minecraft:carpet;6;true;190/255/249
-glass pane gray;minecraft:carpet;7;true;190/255/248
-glass pane light gray;minecraft:carpet;8;true;190/255/247
-glass pane cyan;minecraft:carpet;9;true;190/255/246
-glass pane purple;minecraft:carpet;10;true;190/255/245
-glass pane blue;minecraft:carpet;11;true;190/255/244
-glass pane brown;minecraft:carpet;12;true;190/255/243
-glass pane green;minecraft:carpet;13;true;190/255/242
-glass pane red;minecraft:carpet;14;true;190/255/241
-glass pane black;minecraft:carpet;15;true;190/255/240
+carpet white;minecraft:carpet;0;true;190/255/239
+carpet orange;minecraft:carpet;1;true;190/255/254
+carpet magenta;minecraft:carpet;2;true;190/255/253
+carpet light blue;minecraft:carpet;3;true;190/255/252
+carpet yellow;minecraft:carpet;4;true;190/255/251
+carpet lime;minecraft:carpet;5;true;190/255/250
+carpet pink;minecraft:carpet;6;true;190/255/249
+carpet gray;minecraft:carpet;7;true;190/255/248
+carpet light gray;minecraft:carpet;8;true;190/255/247
+carpet cyan;minecraft:carpet;9;true;190/255/246
+carpet purple;minecraft:carpet;10;true;190/255/245
+carpet blue;minecraft:carpet;11;true;190/255/244
+carpet brown;minecraft:carpet;12;true;190/255/243
+carpet green;minecraft:carpet;13;true;190/255/242
+carpet red;minecraft:carpet;14;true;190/255/241
+carpet black;minecraft:carpet;15;true;190/255/240
+
+
+netherbrick;minecraft:nether_brick;0;false;45/23/27
+nether_brick_fence;minecraft:nether_brick_fence;0;false;45/23/30;minecraft:nether_brick;;1
+
+
+netherBrickStairsTop;minecraft:nether_brick_stairs;facing=west,half=bottom;false;100/23/27;minecraft:nether_brick;;1
+netherBrickStairsBottom;minecraft:nether_brick_stairs;facing=east,half=bottom;false;101/23/27;minecraft:nether_brick;;1
+netherBrickStairsLeft;minecraft:nether_brick_stairs;facing=south,half=bottom;false;102/23/27;minecraft:nether_brick;;1
+netherBrickStairsRight;minecraft:nether_brick_stairs;facing=north,half=bottom;false;103/23/27;minecraft:nether_brick;;1
+
+netherBrickStairsInvTop;minecraft:nether_brick_stairs;facing=west,half=top;false;100/23/28;minecraft:nether_brick;;1
+netherBrickStairsInvBottom;minecraft:nether_brick_stairs;facing=east,half=top;false;101/23/28;minecraft:nether_brick;;1
+netherBrickStairsInvLeft;minecraft:nether_brick_stairs;facing=south,half=top;false;102/23/28;minecraft:nether_brick;;1
+netherBrickStairsInvRight;minecraft:nether_brick_stairs;facing=north,half=top;false;103/23/28;minecraft:nether_brick;;1
+
+
+
+hardened_clay white;minecraft:hardened_clay;0;true;190/250/239
+hardened_clay orange;minecraft:hardened_clay;1;true;190/250/254
+hardened_clay magenta;minecraft:hardened_clay;2;true;190/250/253
+hardened_clay light blue;minecraft:hardened_clay;3;true;190/250/252
+hardened_clay yellow;minecraft:hardened_clay;4;true;190/250/251
+hardened_clay lime;minecraft:hardened_clay;5;true;190/250/250
+hardened_clay pink;minecraft:hardened_clay;6;true;190/250/249
+hardened_clay gray;minecraft:hardened_clay;7;true;190/250/248
+hardened_clay light gray;minecraft:hardened_clay;8;true;190/250/247
+hardened_clay cyan;minecraft:hardened_clay;9;true;190/250/246
+hardened_clay purple;minecraft:hardened_clay;10;true;190/250/245
+hardened_clay blue;minecraft:hardened_clay;11;true;190/250/244
+hardened_clay brown;minecraft:hardened_clay;12;true;190/250/243
+hardened_clay green;minecraft:hardened_clay;13;true;190/250/242
+hardened_clay red;minecraft:hardened_clay;14;true;190/250/241
+hardened_clay black;minecraft:hardened_clay;15;true;190/250/240
+
+
+stained_hardened_clay white;minecraft:stained_hardened_clay;0;true;190/245/239
+stained_hardened_clay orange;minecraft:stained_hardened_clay;1;true;190/245/254
+stained_hardened_clay magenta;minecraft:stained_hardened_clay;2;true;190/245/253
+stained_hardened_clay light blue;minecraft:stained_hardened_clay;3;true;190/245/252
+stained_hardened_clay yellow;minecraft:stained_hardened_clay;4;true;190/245/251
+stained_hardened_clay lime;minecraft:stained_hardened_clay;5;true;190/245/250
+stained_hardened_clay pink;minecraft:stained_hardened_clay;6;true;190/245/249
+stained_hardened_clay gray;minecraft:stained_hardened_clay;7;true;190/245/248
+stained_hardened_clay light gray;minecraft:stained_hardened_clay;8;true;190/245/247
+stained_hardened_clay cyan;minecraft:stained_hardened_clay;9;true;190/245/246
+stained_hardened_clay purple;minecraft:stained_hardened_clay;10;true;190/245/245
+stained_hardened_clay blue;minecraft:stained_hardened_clay;11;true;190/245/244
+stained_hardened_clay brown;minecraft:stained_hardened_clay;12;true;190/245/243
+stained_hardened_clay green;minecraft:stained_hardened_clay;13;true;190/245/242
+stained_hardened_clay red;minecraft:stained_hardened_clay;14;true;190/245/241
+stained_hardened_clay black;minecraft:stained_hardened_clay;15;true;190/245/240

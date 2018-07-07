@@ -9,7 +9,7 @@ mayan_shaman.greeting=Ts'aakik tal teech. / Necht te duchove ochranuji.
 
 villager.gorest=He'lel bisik na. / Prichazi odpocinek.
 villager.gorest=Ichil chuy ti wenel beora. / Musim se jit vyspat.
-villager.gorest=Yaaawn. / 
+villager.gorest=Yaaawn. / *zivnuti*
 
 villager.gopray=Pixan taka gnat ichil k'a'am hoch. / Duchove seslete nam bohatou urodu.
 villager.gopray=Pixan an gnat. / Duchove pomozte nam.
@@ -39,7 +39,7 @@ villager.ConstructionStepByStep=Meyah meyah meyah. / Prace, prace, prace.
 villager.ConstructionStepByStep=Ichil k'ab'eet ichil k'a'am et-meyah. / Potrebuju silneho spolecnika.
 
 villager.GoPlay=Ichil kolom uk chun su'uk. / Hraji si v trave.
-villager.BecomeAdult=La la la la. / 
+villager.BecomeAdult=La la la la. / La la la la.
 male.BecomeAdult=Ichil k'a't ti tz'ak-b' ha ah tz'on. / Chci byt lovcem.
 female.BecomeAdult=Ichil k'a't ha ichki. / Chtela bych manzela.
 

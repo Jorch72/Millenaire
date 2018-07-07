@@ -79,7 +79,7 @@ priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / Modlitba je nam
 villager.calltoarms=Aux armes ! Aux armes ! / Do zbrane! Do zbrane!
 villager.calltoarms=Montjoi Saint-Denis! / Za svateho Denise!
 villager.calltoarms=Tous pour un ! / Vsichni za jednoho!
-villager.calltoarms=Aux armes, citoyens!
+villager.calltoarms=Aux armes, citoyens! / Obcane, do zbrane!
 
 monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / Pokud by jesitnost nebyla hrichem, rekl bych, ze me rukopisy jsou nejlepsi v zemi.
 
