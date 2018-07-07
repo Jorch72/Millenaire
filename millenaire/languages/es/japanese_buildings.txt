@@ -1,4 +1,3 @@
-﻿
 japanesegrove_A0=Arboleda
 japanesegrove_B0=Arboleda
 japanesegrove_C0=Arboleda
@@ -18,6 +17,7 @@ japanesefishery_C1=Pozo de pesca
 japanesesamuraih_A0=Casa del guardia
 japanesesamuraih_B0=Casa del guardia
 japanesequarry_A0=Cantera
+japanesequarry_B0=Cantera
 japanesearchive_A0=Archivos
 japanesearchive_B0=Archivos
 japanesepagoda_A0=Pagoda
@@ -33,8 +33,10 @@ japanesefort_A0=Fuerte
 japaneseplot1_A0=Terreno pequeño
 japaneseplot2_A0=Terreno mediano
 japaneseplot3_A0=Terreno grande
-japanesehut_A0=Choza pequeña
-japanesehouse_A0=Casa mediana
+japanesehut_A0=Choza
+japanesehouse_A0=Casa pequeña
+japanesehousemedium_A0=Casa mediana
+japanesehouselarge_A0=Casa grande
 japaneselookout_A0=Puesto de observación
 japaneselookout_B0=Puesto de observación
 japanesezen_A0=Estanque
@@ -45,6 +47,12 @@ japaneseinn_A0=Posada
 japanesemarket_A0=Mercado
 japanesearcheryrange_A0=Galería de tiro con arco
 
+chickenfarm_a0=Granja de pollos
+bath_A0=Casa de baños
+well_A0=Well
+sakebrewery_A0=Cervecería de Sake
+squidfarm_A0=Granja de calamar
+
 japaneseoutpost_A0=Puesto avanzado japonés
 japanesearmyforge_A0=Herrería del ejército
 lonebuddha_A0=Estatua de Buda
@@ -53,3 +61,10 @@ kufun_tomb_A0=Tumba de Kufun
 kufun_tomb_B0=Tumba de Kufun
 woods_shrine_A0=Santuario de madera
 lonemine_A0=Mina japonesa solitaria
+banditfort_A0=Fuerte de bandidos
+
+gifthouse_a0=Casa de regalo
+
+hotspringsinn_a0=Posada de los Muelles calientes
+hotspringsinn_a_kitchen_a0=Posada de los Muelles calientes
+hotspringsinn_a_market_a0=Posada de los Muelles calientes

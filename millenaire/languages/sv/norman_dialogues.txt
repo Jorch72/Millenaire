@@ -1,4 +1,4 @@
-﻿newchat;key:rain,tag:notraining,weigth:10
+newchat;key:rain,tag:notraining,weigth:10
 v1;0;Je sens qu'il va pleuvoir. / Jag kan känna att det kommer att regna.
 v2;30;Il pleut toujours en Normandie. / Det regnade altid i normandie...
 

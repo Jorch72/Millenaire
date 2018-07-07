@@ -1,4 +1,4 @@
-﻿0;Främling;Vi har inte sett din hudfärg, vi måste vara försiktiga.
+0;Främling;Vi har inte sett din hudfärg, vi måste vara försiktiga.
 4*64;Känt ansikte;Ta varningen, våra krigare håller ett öga på dig.
 16*64;Vanlig besökare;$name! Har tiden medfört förändring?
 64*64;Favorit handlare;Hejsan, $name. Som vanligt är dina varor välkommena.

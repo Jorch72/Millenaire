@@ -1,4 +1,4 @@
-﻿playerestate_A0=Mansión del jugador
+playerestate_A0=Mansión
 forge_A0=Herrería
 armyforge_A0=Herrería del ejército
 scultorhouse_A0=Casa de escultor
@@ -11,6 +11,7 @@ fort_A_soldierhouse_A0=Barracas
 peasanthouse_A0=Casa campesina
 peasanthouse_B0=Casa campesina
 peasanthouse_C0=Casa campesina
+pandithouse_A0=Casa de sacerdote
 lumbermanhouse_A0=Casa de leñador
 quarry_A0=Cantera
 quarry_B0=Cantera
@@ -32,22 +33,22 @@ playerlargefield_A0=Terreno grande
 playersmallfield_A0=Terreno pequeño
 playersmallhouse_A0=Casa pequeña
 bazaar_A0=Bazar
-pandithouse_A0=Casa de sacerdote
+tank_A0=Camino
 
 //extra buildings:
 well_A0=Pozo
 
 //lone buildings:
-adivasifarm_A0=Granja adivasi
-adivasifarm_B0=Granja adivasi
-deserttradeoutpost_A0=Puesto comercial del desierto
+adivasifarm_A0=Granja Tribal
+adivasifarm_B0=Granja Tribal
+deserttradeoutpost_A0=Puesto de comercio en ruinas
 ruinedfort_A0=Fuerte en ruinas
-sandblasted_A0=Puesto comercial desierto
-indiandesertedfarm_A0=Granja india destruida
-loneshrine_A0=Santuario solitario hindú
-sadhutree_A0=Árbol del Sadhu
+sandblasted_A0=Puesto de comercio abandonado
+indiandesertedfarm_A0=Granja hindú destruida
+loneshrine_A0=Santuario hindú Solo
+sadhutree_A0=árbol de Sadhu
 
+gifthouse_a0=Casa de Regalo
 
-
-
-
+villagetree_a0=Árbol de pueblo
+hindushrine_a0=Estatua Hindu 

@@ -45,7 +45,10 @@ deserttradeoutpost_A0=Пустынный торговый пост
 ruinedfort_A0=Разрушенный форт
 sandblasted_A0=Заброшенный торговый пост
 indiandesertedfarm_A0=Разоренная индийская ферма
-loneshrine_A0=Одинокая индийская святыня
-sadhutree_A0=Древо мудреца
+loneshrine_A0=Одинокая святыня Хинди
+sadhutree_A0=Древо Садху
 
-gifthouse_a0=Дом подарок
+gifthouse_a0=Подарочный дом
+
+villagetree_a0=Древо поселения
+hindushrine_a0=Статуя Хинди

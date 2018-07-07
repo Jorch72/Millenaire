@@ -1,4 +1,5 @@
-﻿Millénaire: Aldeanos normandos
+﻿version:4.2.1
+Millénaire: Aldeanos normandos
 
 Jefes de aldea
 
@@ -33,6 +34,8 @@ Eleveur / Eleveuse : Criador / Criadora. Viven en fincas ganaderas, granjas de c
 Mineur : Minero. Vive y trabaja en una cantera, mina sin descanso piedra y arena. Cuando su cantera es mejorada con hornos, funde la piedra y la arena en piedra lisa y vidrio.
 
 Charpentier : Carpintero. Vive y trabaja en una casa de carpintero, en donde hace marcos de madera para ser usados en contrucciones de edificios.
+
+Moine : Monje. Vive en la abadía, en la cual copia minuciosamente libros antiguos sobre pergaminos nuevos. Un arte, según él.
 
 Marchand : Mercader. Va de posada en posada, comerciando bienes de un pueblo al otro. Su destino es vagar, por el bien de todos los pueblos.
 

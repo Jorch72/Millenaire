@@ -5,6 +5,8 @@ Jefes de aldea:
 
 Gaanv ka Mukhiya: Jefe de la aldea. Este suntuoso hombre es propietario de la mayoría de la aldea y da empleo a todos sus habitantes, así que no le resulta difícil ser "elegido" como líder.
 
+Raja: Rey. Vive en un gran Mahal con su esposa rodeada de sus leales súbditos. Se considera a sí mismo como un dios y debe tener el palacio más grande y sorprendente, para consternación de los campesinos que tienen que construirlo.
+
 Rajput Senapati: General Rajput. Proveniente de un muy distinguido linaje familiar Rajput, supervisa la defensa de la aldea desde la comodidad de su fuerte. Si consigue que los aldeanos trabajen lo suficiente, su fuerte se convertirá en una poderosa fortaleza.
 NEW_PAGE
 Mujeres:
@@ -30,6 +32,8 @@ Sena ka Loohaar: Herrero de armas. Estos herreros militares están especializado
 Muurtikaar: Escultor. Ambos, artistas y artesanos, tienen el honor de crear las esculturas que adornan el templo.
 
 Pandit: Sacerdote. Nacidos de familias brahmanes, estos sabios sirven de sacerdotes a la aldea. Su infinito conocimiento de himnos sánscritos sólo es comparable a su reticencia de hacer trabajo verdadero.
+
+Vyapari: Comerciante. Estos hombres llevan bienes de su pueblo a otra aldea para comerciar. Tienen que caminar sobre los duros desiertos por lo general para llegar allí, una vez que llegan allí, les dicen que regresen con más recursos como forma de pago.
 NEW_PAGE
 Niños:
 

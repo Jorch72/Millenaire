@@ -1,4 +1,4 @@
-﻿villager.greeting=Bonjour, $name! / ¡Buenos días, $name!
+villager.greeting=Bonjour, $name! / ¡Buenos días, $name!
 villager.greeting=Belle journée, n'est pas? / Hermosa mañana, ¿no es así?
 villager.greeting=Il va pleuvoir, je le sens. / Va a llover, lo presiento.
 villager.greeting=Je ne me souvenais pas de la Normandie comme ça / No recuerdo que Normandía fuera así.
@@ -38,6 +38,8 @@ villager.gorest=Je suis fatigué. / Me he agotado.
 villager.godrink=C'est à boire qu'il nous faut! / ¡A beber!
 villager.godrink=Un cidre n'a jamais fait de mal à personne. / Un poco de sidra no hace daño a nadie.
 villager.gopray=Je parle à Dieu, pas vous, $name. / Le hablo a Dios, no a ti, $name.
+
+villager.inspectconstruction=Vous croyiez ces ignorants capable de construire de tels bâtiments par eux même ? Que nenni ! / ¿Crees en esos agricultores ignorantes capaces de construir tales construcciones por sí mismos? ¡Por supuesto no!
 
 farmer.BringBackResourcesHome=Récoltons ce blé doré. / A cosechar ese trigo dorado.
 farmer.CollectCrop=On dirait que le blé est mûr. / El trigo luce un poco muerto.

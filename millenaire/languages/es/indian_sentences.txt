@@ -1,5 +1,3 @@
-﻿
-
 villager.greeting=Namaste, $name-ji! / ¡Saludos, $name-ji!
 villager.greeting=Aaj bahut garmi hai. / Hoy hace mucho calor.
 villager.greeting=Kya haal hai? / ¿Cómo va todo?
@@ -23,6 +21,8 @@ female.gorest=Main thak gayi hoon. / Estoy cansada.
 villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / Dios, has que la cosecha rinda frutos.
 villager.gopray=Bhagwan, bas aap hi ka sahara hai. / Dios, eres nuestra única esperanza.
 
+villager.inspectconstruction=Mujhe lagata hai ki hamaare raajamistree aise achchhe kaam karate hain. / Me gusta ver a nuestros constructores producir obras tan finas.
+
 indian_lumberman.BringBackResourcesHome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / Va a ser difícil llevar toda esta madera a la casa.
 indian_lumberman.ChopTrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / Parece que voy a pasar toda mi vida talando árboles.
 indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / Ahora recogeré toda la madera.
@@ -36,12 +36,12 @@ villager.HarvestRice=Is baar barish acchi honey sey phasal bhi acchi hui hai. / 
 villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / Al fin y al cabo, todos necesitan cúrcuma.
 villager.HarvestTurmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / De tanto recoger cúrcuma, mis manos están amarillas.
 indian_peasant.SlaughterChicken=Bahut kha liya ghas-phoos. / ¡Ya he tenido suficiente curry vegetariano!
+indian_peasant.SlaughterChicken=Main murgiyon se napharat karata hoon ve zor se aur khae jaane ke alaava any kisee bhee any uddeshy kee seva nahin karate hain. / Odio las gallinas Son fuertes y no sirven para otro propósito que no sea el de ser comidas.
 
 indian_peasantwife.GetHouseTHResources=Sab kuch toh thakur ko dey dena padta hai. / Todo termina siempre en la casa del patrón. 
 indian_peasantwife.GetGoodsHousehold=Inkey liye chahey jitna bhi khana lao, kam padta hai. / ¡No importa que tanto le des a la familia, nunca es suficiente!
 indian_peasantwife.DeliverGoodsHousehold=Uffh, itna sara khana akeley kaisey leh jaoongi. / ¿Como se supone que lleve toda esta comida yo sola?
 indian_peasantwife.makeRasgulla= Bacchon koh rasgulla bahut pasand hai. / Los niños aman las rasgullas.
-
 
 indian_peasant.GetResourcesForBuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / Veamos, una tonelada de ladrillos, dos de piedras...
 indian_peasant.Construction=Hindu vastu-kala desh videsh mein mashoor hai. / La arquitectura hindú es de renombre mundial.
@@ -59,9 +59,9 @@ villager.calltoarms=Jeet hamari hoogi. / La victoria será nuestra.
 villager.calltoarms=Dushmano ki haar. / ¡Muerte al enemigo!
 villager.calltoarms=Sab apney apney hathiyar utha lo! / ¡Levántense en armas paisanos!
 
-indian_smith.MakeTools= / Todos utilizan mis herramientas, y todos me menosprecian.
-indian_armysmith.MakeWeapons= / ¡Hacer armas es mucho más prestigioso que hacer herramientas!
-indian_sculptor.Scult= / La escultura es el arte del hoyo y del bulto.
+indian_smith.MakeTools=Sabhi merey banaye huye upkaran istamal kartey hain, phir bhi mujhey neecha samachtey hain. / Todos utilizan mis herramientas, y todos me menosprecian.
+indian_armysmith.MakeWeapons=Hathiyaar bananey mein, upkaran bananey sey zyaada maan hai.  / ¡Hacer armas es mucho más prestigioso que hacer herramientas!
+indian_sculptor.Scult=Murtikala ched aur gaanth ki kala hai. / La escultura es el arte del hoyo y del bulto.
 
 merchant_oriental.KeepStall=Dekho yeh phaarsa ka gaurav! / ¡Observa las riquezas persas!
 merchant_adivasi.KeepStall= Sab kuch mere parivar dwara kheti ki gayi hai. / Todo es cultivado por mi familia, adentrado en la junga.

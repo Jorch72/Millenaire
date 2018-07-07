@@ -60,3 +60,14 @@ lonecastle_a_training_a0=Área de Entrenamiento
 lonecastle_a_praying_a0=Capilla
 
 gifthouse_a0=Casa de Regalos
+playersmallhouse_a0=Casa pequeña
+
+
+crossbyzantine_a0=Borde del camino
+parkbyzantine_a0=Abedul
+parkbyzantine_b0=Roble
+parkbyzantine_c0=Roble
+parkbyzantine_d0=Parque
+shrinebyzantine_a0=Santuario
+wellbyzantine_a0=Well
+wellbyzantine_b0=Well

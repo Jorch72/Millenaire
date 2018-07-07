@@ -1,5 +1,12 @@
 culture.japanese=Японцы
 
+village.gunji=военное поселение
+village.japanese_controlled=управляемое поселение
+village.japanese_customcontrolled=пользовательское поселение
+village.nogyo=сельскохозяйственное поселение
+village.seiji=царское поселение
+village.trading=торговый поселок
+
 villager.japanese_boy=Мальчик
 villager.japanese_girl=Девочка
 villager.japanese_teenagermale=Юноша
@@ -32,6 +39,9 @@ villager.japanese_bravewoman=Мужественная женщина
 villager.japanese_bandit=Японский бандит
 villager.japanese_brewer=Главный пивовар
 villager.japanese_brewerwife=Жена пивовара
+villager.japanese_innkeeper=Трактирщик
+villager.japanese_innkeeperwife=Жена трактирщика
+villager.japanese_innservant=Слуга
 
 shop.japanesetownhall=Главный магазин
 shop.forge=Инструменты
@@ -41,3 +51,4 @@ shop.kitchen=Еда
 shop.lonemine=Камень
 shop.japaneseoutpost=Главный магазин
 shop.fishery=Жареная рыба
+shop.japaneseinn=Трактир

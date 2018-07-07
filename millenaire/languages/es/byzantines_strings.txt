@@ -1,8 +1,14 @@
-culture.byzantines=Byzantine
+culture.byzantines=Bizantinos
+
+village.controlled=Aldea controlada
+village.customcontrolled=Aldea controlada personalizada
+village.emporikos=Aldea commrcial
+village.military=Fuerte
+village.ortodox=Aldea religiosa
 
 villager.teenagerMale=Joven
 villager.teenagerFemale=Joven
-villager.boy_byzantine=n Niño
+villager.boy_byzantine=Niño
 villager.girl_byzantine=Niña
 villager.farmiller_byzantine=Molinero
 villager.farmiller_wife_byzantine=Esposa del Molinero

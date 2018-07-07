@@ -1,4 +1,3 @@
-
 villager.greeting=Ola, $name-ji! / Hola, $name-ji!
 villager.greeting=U- ka'an yam k'iinal behla'e'. / Hoy hace calor.
 villager.greeting=Biix men u- pixan ts'aakik teech? / ¿Cómo te tratan los espiritus?

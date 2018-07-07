@@ -1,9 +1,10 @@
-0;Obcy;Nie przywyklismy do obcych w naszej odleglej wiosce.
-4*64;Znajoma twarz;Jak dotad, nie dopusciles sie zadnego duzego zlamania zwyczajow.
-16*64;Regularny gosc;Namaste, $name! Jakie nowiny przynosisz?
-64*64;Ulubiony handlarz;Witaj ponownie, $name. Co Cie sprowadza do handlu z nami?
-2*64*64;Przyjaciel wioski;$name-ji, wszyscy uwazamy Cie tu za prawdziwego przyjaciela.
-8*64*64;Jeden z nas;Nie przypuszczalbym ze dozyje by zobaczyc obcego przyjetego w wiosce, lecz $name-ji, jestes teraz jednym z nas!
--64;Nieznosny;Nie lubimy tutaj obcych, zwlaszcza twojego pokroju.
--4*64;Nielubiany obcy;Ktokolwiek cie wychowal spartaczyl robote. Mamy nadzieje, ze szybko stad znikniesz.
--16*64;Wrog publiczny;Kazdego ranka modle sie do Bogini abym nie musial ogladac twojej mordy nigdy wiecej!
+0;Nieznajomy;Rzadko widujemy obcych w tych odległych stronach. 
+4*64;Znana twarz;Jak dotąd nie dopuściłeś się znieważenia naszych obyczajów.
+16*64;Częsty gość;Namaste, $name! Jakie wieści przynosisz?
+64*64;Ulubiony kupiec;Witamy z powrotem! Jakie towary przywiozłeś nam tym razem?
+2*64*64;Przyjaciel wioski;$name-ji, wszyscy tu uważamy Cię za prawdziwego przyjaciela!
+8*64*64;Jeden z nas;Nie myślałem, że kiedyś dożyję dnia w którym to zaakceptujemy obcego w naszej wiosce, ale Ty $name-ji jesteś teraz jednym z nas.
+32*64*64;Urodzony przywódca;$name-ji, zasłużyłeś na zaufanie i szacunek moich ludzi. Podążą za Tobą wszędzie.
+-64;Utrapieniec;Nie przepadamy za obcymi, szczególnie tymi twojego pokroju.
+-4*64;Niepożądany obcy;Ktokolwiek cię wychował chyba nie włożył w to zbyt wiele wysiłku. Mamy nadzieję, że wkrótce się stąd wyniesiesz...
+-16*64;Wróg publiczny numer jeden;Każdego ranka modlę się do Boga, aby już nie musiesz oglądać twojej paskudnej gęby.

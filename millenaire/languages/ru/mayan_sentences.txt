@@ -1,7 +1,6 @@
-
 villager.greeting=Ola, $name-ji! / Приветствуем тебя, $name!
 villager.greeting=U- ka'an yam k'iinal behla'e'. / Небо сегодня выглядит горячим.
-villager.greeting=Biix men u- pixan ts'aakik teech? / Как считают твои духи?
+villager.greeting=Biix men u- pixan ts'aakik teech? / О чем думают твои духи?
 villager.greeting=Ba'ax tumben? / Что нового?
 villager.greeting=Biix yam teech pamilya? / Как твоя семья?
 villager.greeting=Pixan tuuxtik gnat k'aaxal. / Духи посылают нам дождь.
@@ -25,8 +24,8 @@ villager.GatherBrick=Ichil kuch ti yaab tunich. / Я несу очень мно�
 villager.CookBrick=A'-la yam k'a'am tunich. / Это сильный камень.
 villager.PlantMaize=K'aaxal tuuxtik gnat ichil k'a'am hoch. / Дожди пошлют нам сильный урожай.
 villager.HarvestMaize=Ki' k'aaxal ki' hoch. / Хороший дождь - хороший урожай.
-villager.PlantTurmeric=Yooch men u- han-ha. / Прянность улучает пищу.
-villager.HarvestTurmeric=A'-la yooch hoch si muk' ti han-ha. / Этот урожай прянности сделает нашу пищу приятнее.
+villager.PlantTurmeric=Yooch men u- han-ha. / Пряность улучшает пищу.
+villager.HarvestTurmeric=A'-la yooch hoch si muk' ti han-ha. / Этот урожай пряности сделает нашу пищу приятнее.
 villager.SlaughterChicken=Ah kax si gnat b'ak'. / Курица дает на мясо.
 
 villager.GetHouseResources=Ichil chik nah yam ichil utz nah. / Чистый дом - хороший дом. 
@@ -35,9 +34,9 @@ villager.DeliverGoodsHousold=Ti yaab han-ha ti kuch. / Так много еды,
 villager.makeRasgulla=In-wah mo'nol pall yam k'oh. / Мои маленькие дети заболели.
 
 
-villager.GetResourcesForBuild=Yaab' ti- yaab' tunich. / Множество из множеств камня.
+villager.GetResourcesForBuild=Yaab' ti- yaab' tunich. / Слишком много камня.
 villager.ConstructionStepByStep=Meyah meyah meyah. / Работа, работа, работа.
-villager.ConstructionStepByStep=Ichil k'ab'eet ichil k'a'am et-meyah. / Мне нужен сильный помошник. 
+villager.ConstructionStepByStep=Ichil k'ab'eet ichil k'a'am et-meyah. / Мне нужен сильный помощник. 
 
 villager.GoPlay=Ichil kolom uk chun su'uk. / Я играю на траве.
 villager.BecomeAdult=La la la la. / Ля ля ля ля.

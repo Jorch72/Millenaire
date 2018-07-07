@@ -1,5 +1,5 @@
-﻿//Français par xIflot
-//French by xIflot
+
+
 //Anglais par Teethdude
 //English by Teethdude
 //Mayan by TheyCallMePoncho

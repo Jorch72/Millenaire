@@ -1,4 +1,3 @@
-﻿
 mayanplayerestate_A0=Gran pirámide
 mayancrafter_A0=Casa del artesano
 mayanarmyforge_A0=Herrería del cazador
@@ -40,7 +39,13 @@ mayansheepchickenfarm_A0=Granja de pollos
 mayantemple_A0=Templo
 mayanwatchtower_A0=Torre de guardia
 mayanmarket_A0=Mercado
+mayancacaofarm_A0=Plantación de cacao
+mayancacaofarm_B0=Plantación de cacao
 mayanobsidiancrafter_A0=Casa artesanal de obsidiana
+
+mayanwell_A0=Well
+mayanbigwell_A0=Well Grande
+mayanshrine_A0=Santuario
 
 mayanplayerpyramid_A0=Pirámide del jugador
 
@@ -55,3 +60,25 @@ lonemayancornfarm_A0=Maizal maya perdido
 lonemayanmining_A0=Mina de piedra perdida
 mayanpyramid_A0=Pirámide
 lonemayanpyramid_A0=Pirámide perdida
+
+
+gifthouse_a0=Casa de Regalo
+
+questpyramid_A0=Pirámide maldita
+questpyramid_pit_A0=Pirámide maldita
+questpyramid_guards_A0=Pirámide maldita
+questpyramid_jail_A0=Pirámide maldita
+
+questguardtower_A0=Torre de Guardia
+questcamphouse_A0=Barraca
+questbarrack_A0=Barraca
+
+mayancamp_A0=Campamento Maya
+mayancamp_outerguard_A0=Campamento Maya
+mayancamp_dig_A0=Campamento Maya
+mayancamp_wall_A0=Campamento Maya
+mayancamp_jail_A0=Campamento Maya
+mayancamp_innerguard_A0=Campamento Maya
+
+questcave_door_A0=Cueva Maya
+questcave_A0=Cueva Maya

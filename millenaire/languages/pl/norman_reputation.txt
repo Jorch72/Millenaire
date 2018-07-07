@@ -1,10 +1,10 @@
-0;Obcy;Strzezemy sie tu obcych, nowoprzybyly. Lecz odnos sie uczciwie do nas, a odnajdziesz tu ludzi goscinnych.
-4*64;Znajoma twarz;Widzielismy Cie tu wczesniej i zadne kurczaki wtedy nie zginely. Oby tak dalej, to sie dogadamy.
-16*64;Regularny gosc;Witaj, $name! Dobrze Cie widziec ponownie.
-64*64;Ulubiony handlarz;Aaa, $name! Cala wioska czekala na Twoj powrot.
-2*64*64;Przyjaciel wioski;My Normanowie nie jestesmy znani z latwowiernosci, lecz moj dobry przyjacielu $name, Ty naprawde pokazales, ze mozemy Ci ufac!
-8*64*64;Jeden z nas;To jest zawsze przyjemnosc widziec Cie $name. Moze pochodzisz z odleglych krain, lecz teraz jestes prawdziwie jednym z nas.
-32*64*64;Naturalny przywodca;$name, zyskales zaufanie i respekt Normandczykow. Podaza za Toba wszedzie. 
--64;Nieznosny;Obserwujemy Cie, $name. Strzez sie.
--4*64;Nielubiany obcy;Okazales sie prawdziwym wrzodem na tylku. Ciesz sie, ze jeszcze cie nie wygnalismy.
--16*64;Wrog publiczny;Twoja obecnosc tutaj jest ledwo tolerowana. Jeden falszywy ruch i sie doigrasz.
+0;Nieznajomy;Jesteśmy ostrożni względem nieznajomych, niemniej handluj z nami uczciwie, a poznasz gościnność tutejszej ludności.
+4*64;Znajoma twarz;Kręciłeś się tu już wcześniej i nie zginęła ani jedna sztuka drobiu. Oby tak dalej, a się dogadamy.
+16*64;Częsty gość;Xaire, $name! Dobrze znów Cię widzieć.
+64*64;Ulubiony kupiec;Wszyscy mieszkańcy czekali na Twój powrót.
+2*64*64;Przyjaciel wioski;My Normanowie nie słyniemy z łatwowierności, ale Ty $name, pokazałeś, że naprawdę możemy Ci ufać!
+8*64*64;Jeden z nas;Zawsze miło Cię gościć $name. Może i pochodzisz z dalekich krain, ale tak naprawdę jesteś jednym z nas.
+32*64*64;Urodzony przywódca;$name, zasłużyłeś na zaufanie i szacunek ludu Normanów. Podążymy za Tobą wszędzie.
+-64;Utrapieniec;Obserwujemy Cię, $name. Pilnuj się.
+-4*64;Niepożądany obcy;Jesteś strasznie upierdliwy. Ciesz się, że jeszcze cię stąd nie wykopaliśmy.
+-16*64;Wróg publiczny numer jeden;Twoje wybryki nie będą dłużej tolerowane. Jeden fałszywy ruch i będziesz trupem.

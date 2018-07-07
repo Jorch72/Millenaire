@@ -1,4 +1,3 @@
-
 mayanplayerestate_A0=Большая пирамида
 mayancrafter_A0=Ремесленная
 mayanarmyforge_A0=Оружейная
@@ -28,7 +27,7 @@ mayancave_A0=Пещера
 mayancistern_A0=Резервуар
 mayancornfarm_A0=Ферма маиса
 mayancornfarm_B0=Ферма маиса
-mayancornfarm_C0=Поле маиса
+mayancornfarm_C0=Ферма маиса
 mayanobservatory_A0=Обсерватория
 mayansheepchickenfarm_B0=Куриная ферма
 mayanplayerhugefield_A0=Большой надел
@@ -44,6 +43,10 @@ mayanobsidiancrafter_A0=Мастер по обсидиану
 mayancacaofarm_A0=Какао плантация
 mayancacaofarm_B0=Какао плантация
 
+mayanwell_A0=Колодец
+mayanbigwell_A0=Большой колодец
+mayanshrine_A0=Святыня
+
 mayanplayerpyramid_A0=Пирамида странника
 
 lonemayancave_A0=Пещера майя
@@ -58,4 +61,23 @@ lonemayanmining_A0=Заброшенная шахта майя
 lonemayanpyramid_A0=Заброшенная пирамида Майя
 mayanpyramid_A0=Пирамида Майя
 
-gifthouse_a0=Подарочный Дом
+gifthouse_a0=Подарочный дом
+
+questpyramid_A0=Проклятая пирамида
+questpyramid_pit_A0=Проклятая пирамида
+questpyramid_guards_A0=Проклятая пирамида
+questpyramid_jail_A0=Проклятая пирамида
+
+questguardtower_A0=Охрана
+questcamphouse_A0=Барак
+questbarrack_A0=Барак
+
+mayancamp_A0=Лагерь майя
+mayancamp_outerguard_A0=Лагерь майя
+mayancamp_dig_A0=Лагерь майя
+mayancamp_wall_A0=Лагерь майя
+mayancamp_jail_A0=Лагерь майя
+mayancamp_innerguard_A0=Лагерь майя
+
+questcave_door_A0=Пещера майя
+questcave_A0=Пещера майя

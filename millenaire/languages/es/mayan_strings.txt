@@ -1,4 +1,10 @@
-﻿culture.mayan=maya
+culture.mayan=maya
+
+village.agriculture=Aldea agrícola
+village.mayan_controlled=Aldea controlada
+village.mayan_customcontrolled=Aldea controlado personalizado
+village.military=Aldea militar
+village.religious=Aldea religiosa
 
 villager.mayan_boy=Niño
 villager.mayan_girl=Niña
@@ -21,6 +27,8 @@ villager.mayan_king=Rey
 villager.mayan_merchant=Mercader
 villager.mayan_chickenfarmer=Criador de pollos
 villager.mayan_farmer=Granjero
+villager.mayan_obsidiancrafter=Fabricador de Obsidiana
+villager.mayan_cocoafarmer=Agricultor de cacao
 
 villager.lonemayanfarmer=Granjero solitario
 villager.lonemayanpeasantwife=Esposa del granjero
@@ -33,3 +41,19 @@ villager.mayanfemalebandit=Joven bandida
 villager.merchant_mayanfarmer=Granjero comerciante
 villager.merchant_mayanhunter=Cazador comerciante
 villager.merchant_mayanshaman=Chamán comerciante
+
+villager.questfallenking=Rey caído
+villager.questkingelitewarrior=Guerrero Elite
+villager.questkinglieutnant=Teniente
+villager.questkingscout=Explorador
+villager.questkingwarrior=Guerrero
+villager.questshaman=Chamán
+
+shop.mayantownhall=Tienda Central
+shop.mayancrafter=Herramientas
+shop.mayanarmyforge=Armaduras y armas
+shop.mayansheepchickenfarm=Productos de pollo
+shop.mayanobsidiancrafter=Herramientas de obsidiana
+shop.lonemayanfarm=Productos agrícolas
+shop.mayancocoa=Cacao y cacauhaa
+shop.mayansculptor=Compra de piedra y oro

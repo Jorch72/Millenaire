@@ -1,4 +1,4 @@
-﻿//normanbasic:
+//normanbasic:
 
 guardwife_0_label=Almuerzo del esposo
 guardwife_0_description=Mi esposo, $guard_villagername$ el guardia, está muriendo de hambre ¡y olvidé empacar su almuerzo! ¿Podrías por favor llevarle este budín?
@@ -27,7 +27,7 @@ loneminerfood_0_description_success=¡A eso llamo una verdadera comida normanda!
 loneminerfood_0_description_refuse=Bueno, a comer pan duro de nuevo.
 
 knightstonedelivery_0_label=Se necesita piedra
-knightstonedelivery_0_description=¡$name, necesito mis piedra para la defensa de $startvillager_villagename$! $miner_villagername$, que trabaja en las colinas alrededor de $miner_distance$ al $miner_direction$, me ha prometido un gran lote, pero nunca env�a nada. �Podr�as decirme qu� est� haciendo?
+knightstonedelivery_0_description=¡$name, necesito mis piedra para la defensa de $startvillager_villagename$! $miner_villagername$, que trabaja en las colinas alrededor de $miner_distance$ al $miner_direction$, me ha prometido un gran lote, pero nunca envnada. ࠐodr decirme qu顥stᡨaciendo?
 knightstonedelivery_0_description_success=¡Ten un buen viaje!
 knightstonedelivery_0_description_refuse=Bueno, entonces enviaré a uno de mis hombres.
 knightstonedelivery_1_label=Recolección de piedra
@@ -199,4 +199,85 @@ fishingfrenzy_1_description_refuse=¿No eres un pescador hábil, no? Oh bueno, t
 fishingfrenzy_1_description_timeup=No atrapaste los peces a tiempo. Los aldeanos de $startvillager_villagename$ notarán tu ignominia.
 fishingfrenzy_1_listing=Atrapa cuatro peces y llévaselos a $wife_villagername$
 
+poems_0_label=Escribiendo poemas
+poems_0_description=¿Podrías ayudarme, $name?<ret>Me estoy perdiendo de mis amigos y mi familia en la capital. Siempre disfrutamos escribiendo poemas y cartas el uno al otro. Espero que llegue el día en que podamos escribirnos de nuevo. Cuando llegue ese día, me gustaría estar preparado.<ret>¿Podrían juntar algunos pedazos para mí?
+Necesitaría diez papeles y dos cada uno de tintes negros, amarillos y rojos.
+poems_0_description_success=Arigatou gozaimasu! ¡Muchas gracias! <Ret> Usted es honorable para ayudarme así. Aquí está mi agradecida recompensa.
+poems_0_description_refuse=Escribiré un poema sobre el egoísmo de los hombres.
+
+
+startingtrader_0_label=Comerciante aspirante
+startingtrader_0_description=¡Oye! ¿Eres un comerciante ...? Buscando un buen trato? <ret>Es difícil ganarse la vida siendo un comerciante. Cómpralo barato y véndelo caro. Jajaja! <Ret>Y, sin embargo, un agricultor recibe más respeto que yo. ¡Pero tengo nuevos planes para comerciar con otras aldeas, comerciando con artículos de lujo! Solo me falta una acción inicial. <ret><ret>Necesitaría dos diamantes y ocho barras de oro. ¿Podrías venderme eso?
+startingtrader_0_description_success=Bien, muy bien ... Esto funcionará bien para mis planes. Doumo arigatou! ¡Muchas gracias!
+startingtrader_0_description_refuse=¡No tienes talento para el comercio!
+
+
+architectwife_0_label=Almuerzo del marido
+architectwife_0_description=Mi esposo $architect_villagername$ el arquitecto se muere de hambre y olvidé empacarle la comida! ¿Podrías llevarle este pez?
+architectwife_0_description_success=¡Gracias buen hombre!
+architectwife_0_description_refuse=Realmente no eres del tipo servicial.
+architectwife_1_label=Hambriento!
+architectwife_1_description=¡Mi esposa olvidó mi comida otra vez! Ah, mujeres!
+architectwife_1_description_success=Eso fue terriblemente amable de tu parte.
+architectwife_1_description_refuse=Nunca confíes en un extraño.
+architectwife_1_description_timeup=No entregaste la comida a tiempo. Los aldeanos de $architect_villagename$ no lo olvidarán.
+architectwife_1_listing=Dale a $architect_villagername$ en la aldea $architect_villagename$  su almuerzo.
+
+lumbermanwine_0_label=Sediento!
+lumbermanwine_0_description=Cortar leña es un trabajo duro ... ¡si alguien me trajera una botella de vino!
+lumbermanwine_0_description_success=Ah, ¡lo necesitaba! ¡Muchas gracias, mi buen hombre!
+lumbermanwine_0_description_refuse=¡No me busques a mí la próxima vez que necesites un poco de madera!
+
+
+thehunt_0_label=La caza
+thehunt_0_description=¡Eh, tú! Estoy muy ocupado, pero la aldea cuenta con alguien que busque alimentos y suministros. ¿Puedes ayudarnos?
+thehunt_0_description_success=Gracias. ¿Ves esas vacas allá? 6 de carne y 6 pieles de cuero deberían estar bien.
+thehunt_0_description_refuse=Supongo que encontraré a alguien más, entonces.
+thehunt_1_label=Regreso con el botín
+thehunt_1_description=¿Cómo estuvo la cacería?
+thehunt_1_description_success=Ah! ¡Maravilloso! Estamos muy agradecidos de que hayas decidido ayudarnos. Nos daremos un festín con esto por bastante tiempo.
+thehunt_1_description_refuse=Eso es decepcionante, pero supongo que podrías mejorar a tiempo.
+thehunt_1_description_timeup=No pudiste cazar suficientes vacas a tiempo. Los aldeanos de $startvillager_villagename$ Han notado tu desgracia.
+thehunt_1_listing=Caza suficientes vacas para obtener 6 de carne y 6 de cuero, luego llévalos a $wife_villagername$.
+
+enderhunt_0_label=Secuaces de Sedna
+enderhunt_0_description=Valiente guerrero, notamos que los sirvientes de Sedna han abandonado el Reino del Espíritu y han invadido este mundo. ¿Nos ayudarás a masacrarlos?
+enderhunt_0_description_success=¡Maravilloso! Ponte en ello, contamos contigo. Devuélveme 6 de sus orbes para que pueda ayudarlos a detenerlos para siempre.
+enderhunt_0_description_refuse=¿Nos dejarás aquí para que nos defiendamos? ¡Seguramente moriremos!
+enderhunt_1_label=Regreso con el botín
+enderhunt_1_description=¿Has acabado con algunos de ellos?
+enderhunt_1_description_success=¡Eso le enseñará a Sedna a no enviar a sus secuaces para atacarnos! Trataré de cerrar la brecha en este momento, pero es posible que necesite más de estos orbes más tarde.
+enderhunt_1_description_refuse=Estos no son suficientes orbes, pero supongo que lo intentaste al menos.
+enderhunt_1_description_timeup=No mataste suficiente Enderman a tiempo. Los aldeanos de $startvillager_villagename$ están muy decepcionados contigo.
+enderhunt_1_listing=Mata a suficientes Endermen para obtener 6 Ender Pearls y llévalos de vuelta a $shaman_villagername$.
+
+enderhunt0_0_label=Secuaces de Sedna
+enderhunt0_0_description=Valiente guerrero, notamos que los sirvientes de Sedna han abandonado el Reino del Espíritu y han invadido este mundo. ¿Nos ayudarás a masacrarlos?
+enderhunt0_0_description_success=¡Maravilloso! Ponte en ello, contamos contigo. Devuélveme 6 de sus orbes para que pueda ayudarlos a detenerlos para siempre.
+enderhunt0_0_description_refuse=¿Nos dejarás aquí para que nos defiendamos? ¡Seguramente moriremos!
+enderhunt0_1_label=Regreso con el botín
+enderhunt0_1_description=¿Has acabado con algunos de ellos?
+enderhunt0_1_description_success=¡Eso le enseñará a Sedna a no enviar a sus secuaces para atacarnos! Trataré de cerrar la brecha en este momento, pero es posible que necesite más de estos orbes más tarde.
+enderhunt0_1_description_refuse=Estos no son suficientes orbes, pero supongo que lo intentaste al menos.
+enderhunt0_1_description_timeup=No mataste suficiente Enderman a tiempo. Los aldeanos de $startvillager_villagename$ están muy decepcionados contigo.
+enderhunt0_1_listing=Mata a suficientes Endermen para obtener 6 Ender Pearls y llévalos de vuelta a $shaman_villagername$.
+
+bonefetch_0_label=Huesos
+bonefetch_0_description=Estaba jugando con una calavera de conejo, ¡pero mamá me la quitó! ¿Puedes hablar con ella y recuperarla?
+bonefetch_0_description_success=Gracias!
+bonefetch_0_description_refuse=¡Eres un gran enemigo!
+bonefetch_1_label=Habla con su madre
+bonefetch_1_description=Ella quiere jugar con el cráneo? Me lo quité porque lo necesitamos para la cena. Ve y dile que no lo va a recuperar.
+bonefetch_1_description_success=Ella lo entenderá.
+bonefetch_1_description_refuse=¿Por qué incluso pregunté a un extraño?
+bonefetch_2_label=Habla con la chica
+bonefetch_2_description=Waa! ¡Ella no lo devolverá !? ¡Bien, ve a buscarme un juguete nuevo para jugar!
+bonefetch_2_description_success=Tal vez algunos huesos?
+bonefetch_2_description_refuse=Waaa!!!!!
+bonefetch_3_label=Dale los huesos
+bonefetch_3_description=¡Hurra! Más juguetes!
+bonefetch_3_description_success=¡Eres el mejor! ¡Los huesos son muy divertidos!
+bonefetch_3_description_refuse=¡Eres un gran enemigo!
+bonefetch_3_description_timeup=No le diste a la niña 2 huesos que prometiste. Los aldeanos de$startvillager_villagername$ están un poco decepcionados de ti
+bonefetch_3_listing=Dar $girl_villagername$ 2 esqueletos de huesos
 

@@ -1,4 +1,10 @@
-culture.byzantines=Греки (Византийцы)
+culture.byzantines=Византийцы
+
+village.controlled=управляемое поселение
+village.customcontrolled=пользовательское поселение
+village.emporikos=торговое поселение
+village.military=форт
+village.ortodox=религиозное поселение
 
 villager.teenagerMale=Грек
 villager.teenagerFemale=Гречанка
@@ -43,7 +49,7 @@ villager.keeperTropical_byzantine=Стражник
 villager.keeperPine_byzantine=Стражник
 villager.loneshepherd_byzantine=Пастух
 villager.loneshepherdf_byzantine=Пастушка
-villager.keeper_byzantine=Маяк
+villager.keeper_byzantine=Смотритель маяка
 
 shop.townhall=Главный рынок
 shop.forge=Инструменты
@@ -53,5 +59,5 @@ shop.tavernbyz=Вина
 shop.lonesheep=Шерсть
 shop.bakery=Булочная
 shop.fishery=Рыба
-shop.sheepfarm=Мясо
+shop.sheepfarm=Мясо, кожа и сыр фета
 shop.clothing=Одежда

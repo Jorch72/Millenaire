@@ -1,3 +1,4 @@
+version:4.8.0
 Millénaire: Aldeanos mayas
 
 Líderes de la aldea:
@@ -11,7 +12,6 @@ Ix: Reina maya. Las reinas mayas vestían usualmente como diosas del maiz. Aunqu
 Atan: Campesina. Las mujeres mayas fueron importante por diversas razones. No eran vistas como subalternas serviciales, en su lugar tenían importantes tareas en la sociedad, como recolectar alimentos o tejer. 
 
 Aj : Esposa del chamán. Las esposas del chamán de la aldea solían ayudar a sus esposos a llevar a cabo los deberes chamánicos. Mientras el esposo tenía todo el poder espiritual, el trabajo de su mujer era realizar la mayor parte de la carga laboral.
-
 NEW_PAGE
 Hombres:
 
@@ -35,9 +35,19 @@ Uxul: Escultor. Estos habilidosos aldeanos podían crear los más detallados orn
 
 Aj K'in: Chamán. Los mayas tenían sus propios funcionarios religiosos, jerárquicamente organizados, y encargados de rezar y hacer sacrificios en nombre de linajes, grupos locales o la comunidad entera. Los aldeanos mayas buscarán orientación en el chamán.
 
+Ka'kau' We'matz: Agricultor de cacao Estos agricultores especializados cultivan plantas de cacao en sus bosques. Luego usan los frijoles para producir cacauhaa, una bebida chocolatada.
 NEW_PAGE
 Niños:
 
 Mijin: Niños. El papel de los niños en la sociedad maya era principalmente ayudar a los más ancianos. Una vez que cumplían cinco o seis se esperaba que contribuyeran a la familia. Eran tratados como jóvenes adultos y a medida que crecían sus deberes aumentaban.
 
 Bakul: Joven. A los chicos jóvenes se les entrenaba a cazar, mientras que las niñas eran enseñadas en el hogar, también se les enseñaba a cuidar el santuario doméstico e incluso como cuidar y criar un ciervo.
+NEW_PAGE
+Bandits:
+
+K'as Kanan: Guerrero Badido. Estos mayas rebeldes se han separado de la tribu para vivir solos. Muchas veces estos mayas fueron desterrados por hacer actos indescriptibles. Estos mayas no serán sus amigos, manténgase alejado.
+
+K'as Aj: Niña Badida. Estas son mujeres mayas que no se mezclaron con las aldeas. En general se enojan muy fácilmente. No preforman los deberes regulares de las mujeres mayas normales sino que buscan hacer daño. No encontrarás el amor de estas mujeres, sería mejor no acercarse a ellas.
+
+K'as Mijin: Niño Badido. Estos pequeños mocosos causan caos donde sea que vayan. Estos niños pobres en general perdieron a sus padres a una edad temprana. Debido a la falta de orientación de los padres en sus vidas, se convirtieron en malas semillas. No escucharán a nadie y se enojarán rápidamente. No hay razonamiento con uno de estos niños cuando están molestos, los espíritus no lo permiten agarrar un arma.
+

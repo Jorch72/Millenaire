@@ -1,3 +1,4 @@
+
 newchat;key:sun,tag:notraining,weigth:18
 v1;0;Agapo ilióloustes méres! / Jag gillar soliga dagar!
 v2;30;Poios den échei? / Vem gör det inte?

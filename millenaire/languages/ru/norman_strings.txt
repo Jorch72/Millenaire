@@ -1,5 +1,17 @@
 culture.norman=Норманы
 
+village.agricole=сельскохозяйственное поселение
+village.artisans=поселение ремесленников
+village.bourg_autonome=автономный город
+village.controlled=управляемое поселение
+village.customcontrolled=пользовательское поселение
+village.ecclesiastique=церковное поселение
+village.militaire=военное поселение
+village.grosbourg=город
+village.hameau_abbatiale=аббатская деревушка
+village.hameau_agricole=сельскохозяйственная деревушка
+village.hameau_artisans=деревушка ремесленников
+
 //Norman:
 villager.abbot=Аббат
 villager.carpenter=Столяр
@@ -70,4 +82,4 @@ shop.lonelumberman=Древесина и яблоки
 shop.lonemill=Хлеб
 shop.loneinn=Еда и напитки
 shop.lonelumbermantaiga=Дерево
-shop.loneabbey=товары Abbey
+shop.loneabbey=товары аббатства
